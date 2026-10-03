@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#110d0c">
+  <meta name="description" content="อ่านกฎเซิร์ฟเวอร์ Primal World สำหรับ The Isle Evrima ทั้งการต่อสู้ การล่า และกฎเฉพาะสายพันธุ์">
+  <title>กฎเซิร์ฟเวอร์ · Primal World</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23110d0c'/%3E%3Cpath d='M8 43 21 18l11 19 10-15 14 21' fill='none' stroke='%23e78744' stroke-width='6' stroke-linejoin='miter'/%3E%3Cpath d='M8 50h48' stroke='%23e78744' stroke-width='4'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Noto+Sans+Thai:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#rules">ข้ามไปที่กฎ</a>
+  <div class="ambient" aria-hidden="true"></div>
+  <header class="site-header">
+    <a class="brand" href="https://primalworld.online/" aria-label="Primal World หน้าเว็บหลัก">
+      <span class="brand-mark" aria-hidden="true">PW</span>
+      <span class="brand-name">PRIMAL <b>WORLD</b><small>THE ISLE · EVRIMA</small></span>
+    </a>
+    <div class="header-rule"><span></span> SERVER RULEBOOK <span></span></div>
+    <a class="home-link" href="https://primalworld.online/">กลับเว็บหลัก <span aria-hidden="true">↗</span></a>
+  </header>
+
+  <main class="layout" id="rules">
+    <aside class="sidebar" aria-label="สารบัญกฎ">
+      <div class="sidebar-inner">
+        <div class="sidebar-label">PRIMAL WORLD / RULES</div>
+        <h1>กฎเซิร์ฟเวอร์<span class="title-dot">.</span></h1>
+        <p class="sidebar-intro">The Isle · Evrima<br>อ่านกฎก่อนเริ่มต้นชีวิตบนเกาะ</p>
+        <div class="sidebar-divider"></div>
+        <div class="toc-heading">สารบัญ <span id="rule-count">8 หมวด</span></div>
+        <nav id="toc" aria-label="ไปยังกฎแต่ละหมวด"></nav>
+        <div class="sidebar-footer">มีข้อสงสัยเกี่ยวกับกฎ?<br><a href="https://discord.gg/Zjk8hbe3NF" target="_blank" rel="noopener noreferrer">สอบถามทีมงานใน Discord ↗</a></div>
+      </div>
+    </aside>
+
+    <div class="content-column">
+      <div class="content-topline"><span class="live-square"></span> PRIMAL WORLD <span class="topline-sep">/</span> COMMUNITY RULES</div>
+      <section class="page-heading" aria-labelledby="page-title">
+        <div class="eyebrow">FIELD GUIDE <span>—</span> 01 / <span id="guide-count">08</span></div>
+        <h2 id="page-title">กฎแห่งการ<br><em>เอาชีวิตรอด</em></h2>
+        <p>กฎสำหรับผู้เล่น Primal World บน The Isle Evrima เลือกหัวข้อจากสารบัญเพื่ออ่านรายละเอียดแต่ละหมวด</p>
+      </section>
+      <section class="search-area" aria-label="ค้นหากฎ">
+        <form id="search-form" class="search-form" role="search">
+          <label for="search-input">ค้นหาคำในกฎ</label>
+          <div class="search-controls">
+            <input id="search-input" type="search" name="q" placeholder="เช่น Combat Logging, การล่า, เสียง 4" autocomplete="off">
+            <button type="submit">ค้นหา</button>
+          </div>
+        </form>
+        <div id="search-results" class="search-results" aria-live="polite" hidden></div>
+      </section>
+      <div class="mobile-toc-wrap"><span>ไปยังกฎ</span><nav id="mobile-toc" aria-label="สารบัญบนมือถือ"></nav></div>
+      <div class="section-kicker"><span>SERVER REGULATIONS</span><span id="section-count">01 — 08</span></div>
+      <div id="rules-list" class="rules-list" aria-live="polite"><p class="loading">กำลังโหลดกฎ...</p></div>
+      <footer class="page-footer"><span>PRIMAL WORLD · THE ISLE EVRIMA</span><a href="#rules">กลับไปด้านบน ↑</a></footer>
+    </div>
+  </main>
+</body>
+</html>
