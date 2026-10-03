@@ -122,7 +122,7 @@ function renderSearchResults(matches, query) {
   searchResults.append(results);
 }
 
-fetch('rules.json')
+fetch(`rules.json?v=${Date.now()}`, { cache: 'no-store' })
   .then(response => { if (!response.ok) throw new Error('rules unavailable'); return response.json(); })
   .then(rules => {
     const sections = [];
