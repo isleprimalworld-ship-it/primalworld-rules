@@ -563,8 +563,14 @@
       },
       {
         "type": "pack-entry",
-        "text": "Stegosaurus",
+        "text": "Ankylosaurus (Anky)",
         "count": "2 ตัว",
+        "diet": "herbivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Stegosaurus",
+        "count": "3 ตัว",
         "diet": "herbivore"
       },
       {
@@ -683,6 +689,18 @@
         "type": "pack-entry",
         "text": "Carnotaurus",
         "count": "4 ตัว",
+        "diet": "carnivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Giganotosaurus (Giga)",
+        "count": "ไม่สามารถ Party ได้",
+        "diet": "carnivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Spinosaurus (Spino)",
+        "count": "ไม่สามารถ Party ได้",
         "diet": "carnivore"
       }
     ]
