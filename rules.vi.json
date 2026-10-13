@@ -1,0 +1,1353 @@
+[
+  {
+    "id": "definitions",
+    "title": "Định nghĩa Fight (giao chiến)",
+    "category": "DEFINITIONS",
+    "group": "Định nghĩa",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "**Chiến đấu hoặc chiến đấu** đề cập đến tình huống chiến đấu giữa người chơi và người chơi. Bao gồm các trận chiến giữa các bên"
+      },
+      {
+        "type": "subhead",
+        "text": "Sự khởi đầu của cuộc chiến"
+      },
+      {
+        "type": "paragraph",
+        "text": "Một tình huống bắt đầu được coi là đánh nhau khi một bên bày tỏ rõ ràng ý định tham gia chiến đấu, ví dụ:"
+      },
+      {
+        "type": "bullet",
+        "text": "Sử dụng tiếng kêu **1 hoặc 3** để thách thức hoặc đe dọa."
+      },
+      {
+        "type": "bullet",
+        "text": "Bắt đầu truy đuổi để tấn công"
+      },
+      {
+        "type": "bullet",
+        "text": "Cố gắng tấn công hoặc gây thiệt hại cho bên khác"
+      },
+      {
+        "type": "bullet",
+        "text": "Các đảng viên tham gia đấu tranh chống lại phe đối lập."
+      },
+      {
+        "type": "subhead",
+        "text": "Đếm cuộc chiến vẫn đang tiếp diễn."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tình hình vẫn được coi là một cuộc chiến. Nếu vẫn có hành vi đánh nhau hoặc có ý định rượt đuổi liên tục. Xem xét những điều sau đây"
+      },
+      {
+        "type": "bullet",
+        "text": "Có đòn tấn công hoặc sát thương trong khoảng **2–3 phút**"
+      },
+      {
+        "type": "bullet",
+        "text": "Còn có đuổi theo. cố gắng tiếp cận hoặc chặn đường thoát của đối phương"
+      },
+      {
+        "type": "bullet",
+        "text": "Tiếng kêu **1 hoặc 3** được dùng để biểu thị rõ ràng ý định tiếp tục chiến đấu hoặc săn bắn."
+      },
+      {
+        "type": "bullet",
+        "text": "Cả hai bên vẫn giữ nguyên tình trạng và có thể nhìn thấy hoặc theo dõi nhau."
+      },
+      {
+        "type": "note",
+        "text": "*Tạm thời không gây sát thương không có nghĩa là trận chiến kết thúc ngay lập tức. Nếu một trong hai bên vẫn thể hiện rõ ý định đánh nhau*"
+      },
+      {
+        "type": "subhead",
+        "text": "Sự kết thúc của cuộc chiến"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trận đấu được coi là kết thúc khi xảy ra một trong các sự kiện sau:"
+      },
+      {
+        "type": "bullet",
+        "text": "Một bên chết"
+      },
+      {
+        "type": "bullet",
+        "text": "Một trong hai bên đầu hàng với tiếng kêu **4** hoặc thông báo qua Trò chuyện thoại và tách mình ra khỏi khu vực một cách rõ ràng."
+      },
+      {
+        "type": "bullet",
+        "text": "Nhóm bỏ chạy đã khuất dạng. và không có sự theo dõi nào nữa"
+      },
+      {
+        "type": "bullet",
+        "text": "Bên bỏ chạy đã tiến vào khu vực mà bên kia không thể tiếp cận. và không gây sát thương hoặc thể hiện ý định chiến đấu liên tục trong **2–3 phút**"
+      },
+      {
+        "type": "bullet",
+        "text": "Hai bên rõ ràng đã tách biệt nhau và không có hành vi đánh nhau liên tục."
+      },
+      {
+        "type": "subhead",
+        "text": "Ví dụ 1 – Vẫn được tính là đánh nhau."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tyrannosaurus (T-Rex) sử dụng tiếng kêu 3 của mình để đe dọa Triceratops và rõ ràng có ý định bắt đầu chiến đấu."
+      },
+      {
+        "type": "note",
+        "text": "**Kết quả xét:** Được coi là đánh nhau."
+      },
+      {
+        "type": "subhead",
+        "text": "Ví dụ 2 - Cuộc chiến kết thúc."
+      },
+      {
+        "type": "paragraph",
+        "text": "Allosaurus đuổi theo Pachyceptalosaurus, nhưng Pachyceptalosaurus nhảy lên một tảng đá, khiến Allosaurus không thể tiếp cận hoặc gây sát thương trong hơn **2–3 phút** và không thể hiện ý định chiến đấu lâu dài."
+      },
+      {
+        "type": "note",
+        "text": "**Kết quả xét:** Trận đấu được coi là đã kết thúc."
+      },
+      {
+        "type": "subhead",
+        "text": "Ví dụ 3 – Vẫn được tính là đánh nhau."
+      },
+      {
+        "type": "paragraph",
+        "text": "Allosaurus đuổi theo Pachycephallosaurus và Pachycephallosaurus Nhảy lên một tảng đá. Mặc dù Allosaurus không thể gây sát thương quá **2–3 phút** nhưng nó vẫn phát ra 1 hoặc 3 tiếng kêu và thể hiện rõ ý định truy đuổi hoặc chiến đấu."
+      },
+      {
+        "type": "note",
+        "text": "**Kết quả xem xét:** Nó vẫn được tính là một cuộc chiến cho đến khi Allosaurus rút lui hoặc không thể hiện ý định chiến đấu liên tục."
+      }
+    ]
+  },
+  {
+    "id": "report-rules",
+    "title": "Báo cáo sự cố",
+    "category": "REPORT REQUIREMENTS",
+    "group": "Báo cáo sự cố",
+    "content": [
+      {
+        "type": "subhead",
+        "text": "Yêu cầu báo cáo vấn đề"
+      },
+      {
+        "type": "paragraph",
+        "text": "Từ giờ trở đi Nếu bạn phát hiện người chơi vi phạm quy định của máy chủ, chẳng hạn như lập Bên thứ ba hoặc tụ tập trái phép. hoặc có hành vi đáng ngờ Người cung cấp thông tin phải luôn có bằng chứng để thông báo cho đội."
+      },
+      {
+        "type": "bullet",
+        "text": "Nhấn **F2** để ghi lại Phát lại trong trò chơi hoặc quay video (Video) về sự kiện."
+      },
+      {
+        "type": "bullet",
+        "text": "Bằng chứng phải thể hiện đầy đủ các sự kiện, quan điểm và khoảng thời gian có liên quan. Để nhóm có thể kiểm tra kỹ lưỡng và công bằng."
+      },
+      {
+        "type": "prohibit",
+        "text": "Nếu không có Replay F2 hoặc video đi kèm Team sẽ không chấp nhận xét duyệt trong mọi trường hợp."
+      },
+      {
+        "type": "note",
+        "text": "*Ngoại lệ: Trong trường hợp bị giết trong quá trình Khởi động lại máy chủ, nhóm có thể được thông báo để điều tra ngay cả khi không có bằng chứng đó*"
+      }
+    ]
+  },
+  {
+    "id": "general",
+    "title": "Quy tắc chung",
+    "category": "SERVER RULES & REGULATIONS",
+    "group": "Quy tắc chung",
+    "content": [
+      {
+        "type": "note",
+        "text": "*Tham gia máy chủ giả định rằng người chơi đã chấp nhận và hiểu tất cả các quy tắc cộng đồng*"
+      },
+      {
+        "type": "subhead",
+        "text": "1. Ứng xử và tôn trọng người chơi"
+      },
+      {
+        "type": "bullet",
+        "text": "**Không chửi bới, thiếu tôn trọng, đe dọa** hoặc cố ý làm phiền người chơi khác."
+      },
+      {
+        "type": "bullet",
+        "text": "**Không tạo xung đột** hoặc kích động tranh cãi trong cộng đồng."
+      },
+      {
+        "type": "bullet",
+        "text": "**Không giả vờ** là Quản trị viên, Người điều hành hoặc thành viên nhóm."
+      },
+      {
+        "type": "bullet",
+        "text": "**Khắc phục sự cố:** Nếu có vấn đề giữa những người chơi, hãy sử dụng hệ thống **Ticket** để chỉ thông báo cho cả đội. *(Không sử dụng để tấn công lẫn nhau trên các kênh công khai)*"
+      },
+      {
+        "type": "subhead",
+        "text": "2. Chương trình giúp chơi và khai thác"
+      },
+      {
+        "type": "bullet",
+        "text": "**Không sử dụng các chương trình gian lận**, Hack, Macro, Script hoặc các chương trình mang lại lợi thế bên ngoài."
+      },
+      {
+        "type": "bullet",
+        "text": "**Không sử dụng Lỗi** hoặc lỗ hổng trò chơi để kiếm lợi nhuận. Và không phân phối/dạy người khác cách sử dụng lỗ hổng."
+      },
+      {
+        "type": "bullet",
+        "text": "**Hình phạt:** Nếu team phát hiện và có đủ bằng chứng sẽ xử phạt **Cấm vĩnh viễn**"
+      },
+      {
+        "type": "subhead",
+        "text": "3. Nội dung và Truyền thông"
+      },
+      {
+        "type": "bullet",
+        "text": "**Không gửi hoặc phân phối nội dung NSFW**, nội dung khiêu dâm, hình ảnh, âm thanh, liên kết hoặc nội dung bất hợp pháp/không phù hợp khác."
+      },
+      {
+        "type": "bullet",
+        "text": "**Không tiết lộ thông tin cá nhân** của bản thân hoặc người khác trong cộng đồng (Quyền riêng tư & Doxxing)"
+      },
+      {
+        "type": "bullet",
+        "text": "**Không quảng cáo** máy chủ, trò chơi, cộng đồng hoặc các dịch vụ khác mà không được phép."
+      },
+      {
+        "type": "subhead",
+        "text": "4. Sử dụng Trò chuyện Thoại"
+      },
+      {
+        "type": "bullet",
+        "text": "**Không bật micrô để làm phiền người khác** chẳng hạn như phát nhạc lớn hoặc âm thanh khó chịu."
+      },
+      {
+        "type": "bullet",
+        "text": "**Không sử dụng Soundboard** để quấy rối hoặc spam."
+      },
+      {
+        "type": "bullet",
+        "text": "**Giữ phép lịch sự khi trò chuyện** và luôn tôn trọng bạn cùng phòng."
+      },
+      {
+        "type": "subhead",
+        "text": "5. Báo cáo vấn đề và tranh chấp"
+      },
+      {
+        "type": "bullet",
+        "text": "**Thông báo:** Tất cả các trường hợp có vấn đề chỉ được báo cáo qua hệ thống **Ticket**. *(Không gửi DM cho Nhân viên để vội vàng, gây áp lực)*"
+      },
+      {
+        "type": "bullet",
+        "text": "**Bằng chứng:** Vui lòng gửi bằng chứng đầy đủ như video clip, ảnh chụp màn hình hoặc bản phát lại."
+      },
+      {
+        "type": "bullet",
+        "text": "**Thời gian thông báo:**"
+      },
+      {
+        "type": "bullet-nested",
+        "text": "**Các trường hợp chung:** Thông báo cho nhóm trong vòng **24 giờ** sau khi xảy ra sự cố."
+      },
+      {
+        "type": "bullet-nested",
+        "text": "**Trường hợp mất/khôi phục nhân vật:** Thông báo cho nhóm trong vòng **48 giờ** sau khi xảy ra sự cố."
+      },
+      {
+        "type": "subhead",
+        "text": "6. Quy trình kiểm tra của đoàn"
+      },
+      {
+        "type": "bullet",
+        "text": "**Tiếp nhận sự việc và điều tra:** Đoàn kiểm tra thông tin, chứng cứ sơ bộ."
+      },
+      {
+        "type": "bullet",
+        "text": "**Kiểm tra thêm:** Nếu là vụ việc phức tạp Vụ việc sẽ được xem xét cùng nhau."
+      },
+      {
+        "type": "bullet",
+        "text": "**Tóm tắt kết quả xét duyệt:** Thông báo kết quả và hình phạt phù hợp."
+      },
+      {
+        "type": "bullet",
+        "text": "**Khiếu nại:** Người bị xử phạt có thể gửi thêm bằng chứng qua Ticket để yêu cầu xem xét lại."
+      },
+      {
+        "type": "note",
+        "text": "*Quyết định sẽ chủ yếu dựa trên bằng chứng và ý định. Quyết định của đội là quyết định cuối cùng*"
+      },
+      {
+        "type": "subhead",
+        "text": "7. Không tạo kịch tính bên ngoài máy chủ."
+      },
+      {
+        "type": "bullet",
+        "text": "**Không đăng tranh chấp trên Mạng xã hội** để gây náo loạn, công kích hoặc khiêu khích người khác."
+      },
+      {
+        "type": "bullet",
+        "text": "**Không công bố thông tin hoặc bằng chứng** về các vụ việc đang được điều tra khi chưa được phép."
+      },
+      {
+        "type": "bullet",
+        "text": "Nếu bạn có bất kỳ nghi ngờ hoặc không đồng ý với quyết định. Sử dụng kênh **Ticket** để thảo luận chính thức."
+      },
+      {
+        "type": "subhead",
+        "text": "8. Vấn đề hạn chế từ trò chơi (The Isle: Evrima)"
+      },
+      {
+        "type": "note",
+        "text": "*Vì trò chơi vẫn đang được phát triển nên có thể xảy ra Lỗi, Sự cố hoặc Lỗi kết nối*"
+      },
+      {
+        "type": "bullet",
+        "text": "**Mất nhân vật/tiến trình:** Nếu do lỗi của trò chơi. Nhóm** không thể đảm bảo phục hồi trong mọi trường hợp**"
+      },
+      {
+        "type": "bullet",
+        "text": "Các quyết định khôi phục ký tự hoặc tiến trình sẽ được đưa ra theo từng trường hợp cụ thể chỉ dựa trên bằng chứng sẵn có."
+      },
+      {
+        "type": "subhead",
+        "text": "9. Trách nhiệm của người chơi"
+      },
+      {
+        "type": "bullet",
+        "text": "**Không biết các quy tắc** không thể được sử dụng làm lý do để miễn hình phạt."
+      },
+      {
+        "type": "bullet",
+        "text": "Người chơi có trách nhiệm luôn kiểm tra các quy định và thông báo của máy chủ."
+      },
+      {
+        "type": "bullet",
+        "text": "Nhóm có quyền cập nhật hoặc thêm các quy tắc phù hợp với tình huống."
+      },
+      {
+        "type": "subhead",
+        "text": "10. Giết chóc để trả thù"
+      },
+      {
+        "type": "bullet",
+        "text": "Đừng hồi sinh và trả thù hoặc giết người chơi vừa giết bạn."
+      },
+      {
+        "type": "bullet",
+        "text": "Quay lại tấn công cùng một người chơi trong vòng 20 phút sau khi bị giết được coi là Giết người trả thù."
+      },
+      {
+        "type": "subhead",
+        "text": "11. Quy tắc bắn tỉa luồng"
+      },
+      {
+        "type": "prohibit",
+        "text": "Nghiêm cấm lợi dụng chương trình phát sóng Trực tiếp, Phát trực tuyến hoặc Discord của người chơi khác để định vị, chỉ ra hoặc báo cáo vị trí của người chơi."
+      },
+      {
+        "type": "prohibit",
+        "text": "Không sử dụng thông tin thu được từ việc xem như vậy để đạt được lợi thế cho bản thân hoặc nhóm của bạn khi vui chơi, săn bắn hoặc chiến đấu."
+      },
+      {
+        "type": "subhead",
+        "text": "12. Location Dropping"
+      },
+      {
+        "type": "prohibit",
+        "text": "Không chia sẻ hoặc chuyển tiếp thông tin vị trí. chuyển động hoặc tình huống của những người chơi khác đến những người không nhận được thông tin đó khi chơi bình thường Cho dù thông qua các kênh trong trò chơi hay bên ngoài trò chơi, chẳng hạn như Discord, Trò chuyện thoại, DM, Ảnh chụp màn hình hoặc yêu cầu người khác truyền bá. Đây không nhất thiết phải là tọa độ trực tiếp. Cho biết tên khu vực, hướng đi, tuyến đường, điểm nghỉ ngơi, số lượng người chơi, loài hoặc thông tin khác có thể được sử dụng để tìm, theo dõi hoặc tấn công người chơi cũng được coi là Đánh rơi vị trí."
+      }
+    ]
+  },
+  {
+    "id": "combat-rules",
+    "title": "Quy tắc chiến đấu",
+    "category": "COMBAT RULES",
+    "group": "Quy tắc chính",
+    "content": [
+      {
+        "type": "subhead",
+        "text": "1. Khởi động lại máy chủ"
+      },
+      {
+        "type": "bullet",
+        "text": "Trước thời gian khởi động lại máy chủ, tất cả người chơi phải kết thúc trận chiến trước ít nhất 10 phút."
+      },
+      {
+        "type": "bullet",
+        "text": "Sau khi máy chủ mở lại. Không bắt đầu trận chiến cho đến khi có thông báo từ máy chủ."
+      },
+      {
+        "type": "bullet",
+        "text": "Bạn không chắc chắn về trạng thái máy chủ? Vui lòng kiểm tra thông báo trên Discord dựa trên thông báo trong trò chơi."
+      },
+      {
+        "type": "subhead",
+        "text": "2. Voice Chat trong tình huống chiến đấu"
+      },
+      {
+        "type": "paragraph",
+        "text": "Trò chuyện thoại có thể được sử dụng trong trận chiến và được coi là một phần của tình huống trong trò chơi. Người chơi có thể nói chuyện, khiêu khích hoặc bày tỏ cảm xúc của mình với đối thủ. nhưng không nằm ngoài phạm vi của các quy định chung."
+      },
+      {
+        "type": "prohibit",
+        "text": "Không sử dụng những từ ngữ mang tính phân biệt đối xử hoặc những từ ngữ công kích một cá nhân, một nhóm người."
+      },
+      {
+        "type": "prohibit",
+        "text": "Không đe dọa, uy hiếp hoặc chửi bới người chơi một cách bạo lực."
+      },
+      {
+        "type": "prohibit",
+        "text": "Không sử dụng những từ ngữ nhằm mục đích bắt nạt hoặc làm hại người khác."
+      },
+      {
+        "type": "note",
+        "text": "*Nhóm sẽ cùng nhau xem xét bối cảnh, giọng điệu và mục đích của sự kiện*"
+      },
+      {
+        "type": "subhead",
+        "text": "3. Ghi nhật ký chiến đấu"
+      },
+      {
+        "type": "paragraph",
+        "text": "Đừng rời khỏi trò chơi. ngắt kết nối hoặc sử dụng các biện pháp khác để tránh tình huống cố ý đánh nhau hoặc thoát chết. Thoát khỏi trò chơi trong khi chiến đấu có thể được kiểm tra là Ghi nhật ký chiến đấu."
+      },
+      {
+        "type": "bullet",
+        "text": "Đội sẽ kiểm tra tình hình trước khi ngắt kết nối và giá trị HP trong thời gian rời khỏi trò chơi."
+      },
+      {
+        "type": "bullet",
+        "text": "Xác định xem người chơi đang bị truy đuổi hay đang chiến đấu."
+      },
+      {
+        "type": "bullet",
+        "text": "Xem xét thời gian, khoảng thời gian và hình thức tái phát. và bằng chứng từ những người liên quan"
+      },
+      {
+        "type": "note",
+        "text": "*Chỉ việc ngắt kết nối không được sử dụng để đánh giá Ghi nhật ký chiến đấu nếu bằng chứng không đủ. Người chơi sẽ có cơ hội làm rõ và gửi thêm bằng chứng trước khi đưa ra quyết định*."
+      },
+      {
+        "type": "subhead",
+        "text": "4. Đầu hàng – Đầu hàng"
+      },
+      {
+        "type": "bullet",
+        "text": "Người đầu hàng phải nhấn nút kêu 4 trong trò chơi hoặc sử dụng Trò chuyện thoại để bày tỏ sự đầu hàng."
+      },
+      {
+        "type": "bullet",
+        "text": "Đầu hàng không đảm bảo rằng mạng sống sẽ được tha. Người chiến thắng có quyền lựa chọn kết thúc trận chiến hoặc tiếp tục giết chóc."
+      },
+      {
+        "type": "bullet",
+        "text": "Khi trận chiến bắt đầu, coi như trận chiến đã được chấp nhận. Có thể rút lui khi thích hợp Nhưng đừng tham gia vào cuộc chiến để trì hoãn, lừa gạt hoặc quấy rối người khác."
+      },
+      {
+        "type": "bullet",
+        "text": "Khi vào trận Có thể đuổi theo đối thủ cho đến khi khuất tầm mắt."
+      },
+      {
+        "type": "subhead",
+        "text": "5. Đấu Đảng"
+      },
+      {
+        "type": "prohibit",
+        "text": "Nếu xảy ra đánh nhau, những người chơi không cùng nhóm bị nghiêm cấm can thiệp. Mặc dù chúng là cùng một loài khủng long."
+      },
+      {
+        "type": "prohibit",
+        "text": "Không mời người chơi vào nhóm khi đang đánh nhau. Hoặc đột nhiên nhấn mời vào nhóm để lách luật hoặc giúp chiến đấu."
+      },
+      {
+        "type": "subhead",
+        "text": "6. Quy tắc của bên thứ ba"
+      },
+      {
+        "type": "prohibit",
+        "text": "Người chơi hoặc nhóm không tham gia ngay từ đầu không được tấn công, hỗ trợ hoặc đến gần vòng chiến đấu. hoặc tham gia vào cuộc đấu tranh của người khác."
+      },
+      {
+        "type": "bullet",
+        "text": "Người thứ ba phải ở ngoài trận chiến. Không tấn công hoặc giúp đỡ bất kỳ bên nào. Không dùng lời nói để gây áp lực hoặc chỉ đạo. và không lợi dụng hoàn cảnh để tạo lợi thế cho nhóm mình"
+      },
+      {
+        "type": "bullet",
+        "text": "Những người đang chiến đấu không được kéo vòng chiến đấu lại gần những người chơi khác."
+      },
+      {
+        "type": "bullet",
+        "text": "Đối phương nên tiếp tục tình thế với bàn thắng ban đầu. Đừng chuyển sang tấn công bên thứ ba chỉ vì họ đã đến. Ngoại trừ việc đến quá gần võ đài và bị vướng vào làn đạn."
+      },
+      {
+        "type": "bullet",
+        "text": "Nếu bạn muốn thay đổi mục tiêu của mình, cuộc chiến ban đầu phải được dừng lại hoặc rút khỏi tình huống một cách rõ ràng. và nhấn nút kêu 1 hoặc 3 vào mục tiêu mới trước khi bắt đầu trận chiến."
+      },
+      {
+        "type": "bullet",
+        "text": "Bên thứ ba chỉ có thể đề nghị kết thúc cuộc chiến nếu cả hai bên ngừng tấn công, có thời gian nói chuyện và đồng ý kết thúc cuộc chiến."
+      },
+      {
+        "type": "bullet",
+        "text": "Nếu chúng ta không thể đồng ý Trận chiến có thể tiếp tục như bình thường. Bên thứ ba phải đợi cho đến khi tình huống ban đầu rõ ràng kết thúc trước khi họ có thể tham gia."
+      },
+      {
+        "type": "subhead",
+        "text": "7. Quy tắc săn khủng long"
+      },
+      {
+        "type": "bullet",
+        "text": "Việc săn bắn chủ yếu là để sinh tồn và kiếm thức ăn. Tránh tấn công hoặc giết chóc chỉ vì nó có cơ hội giết người."
+      },
+      {
+        "type": "bullet",
+        "text": "Chúng có thể tấn công hoặc tiêu diệt đối thủ cạnh tranh để bảo vệ nguồn cung cấp thực phẩm hoặc tăng cơ hội tìm thấy thức ăn. Phải tính đến hoàn cảnh và quy mô của đối thủ."
+      },
+      {
+        "type": "bullet",
+        "text": "Con non chỉ có thể bị săn bắt vì lý do thức ăn hoặc sinh tồn. Nếu bạn giết nó và không ăn nó hoặc không có lý do rõ ràng. Có thể coi đó là giết người cho vui."
+      },
+      {
+        "type": "prohibit",
+        "text": "Không sinh sản Giết hoặc canh gác khu vực sinh sản để liên tục giết người chơi mới."
+      },
+      {
+        "type": "prohibit",
+        "text": "Đừng giết người chơi chỉ vì họ có thể bị giết. Đuổi theo không vì lý do sinh tồn. Hoặc giết cùng một người chơi nhiều lần mà không có bất kỳ lời biện minh nào."
+      },
+      {
+        "type": "note",
+        "text": "*Nhóm sẽ xem xét nhu cầu thực phẩm. Tình huống và không gian Kích thước và loài Số lần bị rượt đuổi hoặc tấn công Ăn sau khi giết và hành vi trước và sau sự kiện*"
+      },
+      {
+        "type": "subhead",
+        "text": "8. Không sinh sản khi chiến đấu"
+      },
+      {
+        "type": "prohibit",
+        "text": "Người chơi bị nghiêm cấm sử dụng hệ thống Web Store/Overlay để đặt mua xác hoặc mang đồ ăn xuống trong khi chiến đấu. Điều này nhằm ngăn chặn việc sử dụng phần còn lại để chữa lành máu hoặc gây sát thương buff trong trận chiến."
+      },
+      {
+        "type": "note",
+        "text": "*Ngoại lệ: Có thể ăn xác chết đã tồn tại tự nhiên. Hoặc một xác chết vừa bị giết trong trận chiến đó đang được chữa lành bình thường. và không được coi là vi phạm các quy tắc*"
+      },
+      {
+        "type": "subhead",
+        "text": "9. Quy tắc của bên thứ ba Deinosuchus"
+      },
+      {
+        "type": "bullet",
+        "text": "Deinosuchus chỉ có thể tấn công người chơi đang chiến đấu từ trong mép nước. Đừng lên đất liền để tham gia trận chiến."
+      },
+      {
+        "type": "bullet",
+        "text": "Nếu đối thủ đáp xuống nước, Deinosuchus có thể tấn công bình thường. Bất kể phe nào của trận chiến"
+      },
+      {
+        "type": "bullet",
+        "text": "Tối đa 2 Deinosuchus trong cùng một nhóm có thể săn và phục kích."
+      },
+      {
+        "type": "prohibit",
+        "text": "Deinosuchus: Các nhóm khác nhau bị cấm săn bắn, trấn áp, nhốt hoặc tấn công con mồi cùng nhau. Và không giúp đỡ cuộc chiến của các bên khác."
+      },
+      {
+        "type": "prohibit",
+        "text": "Nếu hai bên Deinosuchus đang đánh nhau thì bên thứ ba bị cấm can thiệp."
+      },
+      {
+        "type": "subhead",
+        "text": "10. Quy tắc của bên thứ ba Herrerasaurus"
+      },
+      {
+        "type": "bullet",
+        "text": "Herrerasaurus chỉ có thể là Bên thứ ba bằng cách sử dụng đòn tấn công nhảy (nhấp chuột phải) từ vị trí cao hoặc vật thể ở độ cao lớn."
+      },
+      {
+        "type": "prohibit",
+        "text": "Bước vào và cắn hoặc cào từ mặt đất để giúp đánh nhau được coi là Bên thứ ba và không được phép."
+      },
+      {
+        "type": "subhead",
+        "text": "11. Cuộc tranh giành xác chết — Chỉ dành cho động vật ăn thịt"
+      },
+      {
+        "type": "bullet",
+        "text": "Phần còn lại của trận chiến thuộc về người chiến thắng trước tiên. Những loài khủng long ăn thịt khác có thể đến và thách thức."
+      },
+      {
+        "type": "bullet",
+        "text": "Trước khi tấn công, người thách đấu phải gầm 3 tiếng để thông báo lời thách đấu. và đợi ít nhất 20 giây để có câu trả lời"
+      },
+      {
+        "type": "bullet",
+        "text": "Nếu người giữ hài cốt trả lời bằng giọng 4 thì coi như đã giao hài cốt và phải rút lui. Kẻ thách thức đã chiếm được phần còn lại mà không cần chiến đấu."
+      },
+      {
+        "type": "bullet",
+        "text": "Nếu bạn trả lời là 3 thì cả hai bên đều có thể đánh nhau. và người thắng cuộc được quyền ăn phần còn lại."
+      },
+      {
+        "type": "bullet",
+        "text": "Nếu không có câu trả lời trong vòng 20 giây, người thách đấu có thể tiến hành tấn công."
+      },
+      {
+        "type": "prohibit",
+        "text": "Những người đã giao nộp hài cốt và rút lui không được quay lại tấn công phía bên kia cho đến khi không còn hài cốt."
+      },
+      {
+        "type": "prohibit",
+        "text": "Không tấn công nhóm vừa kết thúc trận chiến mà không hoàn thành bước Thử thách ở lại. Hành động này có thể coi là giết người cho vui."
+      },
+      {
+        "type": "subhead",
+        "text": "12. Trốn thoát và kết thúc cuộc săn lùng"
+      },
+      {
+        "type": "bullet",
+        "text": "Con mồi có thể sử dụng địa hình, nước, rừng rậm hoặc khả năng của khủng long để trốn thoát hoàn toàn."
+      },
+      {
+        "type": "prohibit",
+        "text": "Đừng cố ý tự sát để ngăn cản đối phương ăn tàn dư."
+      },
+      {
+        "type": "bullet",
+        "text": "Khi hai bên tách ra và không có giao tranh liên tục. Tình hình coi như đã xong."
+      }
+    ]
+  },
+  {
+    "id": "grouping",
+    "title": "Quy tắc tổ đội",
+    "category": "PACK & SOCIAL RULES",
+    "group": "Quy tắc chính",
+    "content": [
+      {
+        "type": "subhead",
+        "text": "Giới hạn gói"
+      },
+      {
+        "type": "bullet",
+        "text": "Tất cả các bên phải luôn tuân thủ Giới hạn Gói trong khi di chuyển, săn bắn và chiến đấu."
+      },
+      {
+        "type": "bullet",
+        "text": "Động vật ăn cỏ có thể được nhóm lại để nói chuyện với nhau, nhưng khi Động vật ăn thịt đi vào khu vực, Tất cả các bên phải tách khỏi nhau và không thể thành lập bên thứ ba vì họ đã ở trong khu vực trước khi trận chiến bắt đầu."
+      },
+      {
+        "type": "bullet",
+        "text": "Không lợi dụng sơ hở hoặc bóp méo cách giải thích nội quy để trục lợi. Nếu nghi ngờ, hãy hỏi nhân viên trước khi hành động."
+      },
+      {
+        "type": "bullet",
+        "text": "Nếu những người chơi không tham gia nhóm tham gia, hãy sử dụng Trò chuyện thoại để thông báo họ rời đi trước. Tiếng gầm có thể được sử dụng để cảnh báo. Nếu bạn vẫn không chịu rời đi Có thể dùng vũ lực để trục xuất khi cần thiết. Để ngăn ngừa tình trạng Overpack/Mixpack xảy ra"
+      },
+      {
+        "type": "subhead",
+        "text": "Đóng gói hỗn hợp"
+      },
+      {
+        "type": "bullet",
+        "text": "Không thành lập nhóm với các loài khủng long khác nhau để giành lợi thế trong việc săn bắn hoặc chiến đấu."
+      },
+      {
+        "type": "bullet",
+        "text": "Không sử dụng khủng long thuộc các loài khác nhau làm mồi nhử, trinh sát hoặc để thông báo vị trí của kẻ thù."
+      },
+      {
+        "type": "bullet",
+        "text": "Không đi theo nhóm với các loài khác nhau để săn người chơi khác."
+      },
+      {
+        "type": "subhead",
+        "text": "Đóng gói quá mức"
+      },
+      {
+        "type": "bullet",
+        "text": "Không nhóm khủng long cùng loài vượt quá Giới hạn Gói được chỉ định vì bất kỳ lý do gì."
+      },
+      {
+        "type": "bullet",
+        "text": "Bạn có thể nói chuyện trong bữa tiệc. Nhưng họ phải tách ra trong vòng 10 phút."
+      },
+      {
+        "type": "bullet",
+        "text": "Nếu xảy ra đánh nhau hoặc hết thời gian. Các nhóm không liên kết phải ngay lập tức tách khỏi khu vực và ra khỏi tầm bắn."
+      },
+      {
+        "type": "subhead",
+        "text": "Quy tắc tương tác xã hội"
+      },
+      {
+        "type": "bullet",
+        "text": "Có khả năng tương tác tạm thời với các loài khủng long khác nhau bao gồm Động vật ăn cỏ + Động vật ăn cỏ, Động vật ăn thịt + Động vật ăn thịt và Động vật ăn cỏ + Động vật ăn thịt."
+      },
+      {
+        "type": "bullet",
+        "text": "Không săn bắn, chiến đấu hoặc giành lợi thế giữa các bên."
+      },
+      {
+        "type": "bullet",
+        "text": "Tụ họp nhóm hoặc đi du lịch cùng nhau không quá 10 phút."
+      },
+      {
+        "type": "bullet",
+        "text": "Khi hết thời gian hoặc xảy ra đánh nhau Các nhóm không liên kết phải ngay lập tức tách ra và rời khỏi phạm vi âm thanh của trò chơi."
+      },
+      {
+        "type": "bullet",
+        "text": "Nếu bị tấn công trong quá trình tương tác Mỗi bên phải chia ra và bỏ chạy theo các hướng khác nhau. Chỉ bên tấn công mới có thể ở lại khu vực để đáp trả và chiến đấu."
+      },
+      {
+        "type": "bullet",
+        "text": "Khủng long ăn cỏ có thể nhóm lại với nhau và nói chuyện trong khu vực The Pit mà không bị coi là Mixpack hay Overpack, nhưng chúng không được tụ tập gần nguồn nước. và phải được phân chia rõ ràng thành các nhóm Nếu cuộc săn xảy ra. Những người chơi khác không thuộc nhóm của bên tấn công sẽ không có quyền của Bên thứ ba."
+      },
+      {
+        "type": "subhead",
+        "text": "Giết đội"
+      },
+      {
+        "type": "bullet",
+        "text": "Đừng lừa người chơi tham gia nhóm của bạn để tấn công hoặc tiêu diệt. Bao gồm cả việc không lẻn ra khỏi nhóm và quay lại tấn công."
+      },
+      {
+        "type": "bullet",
+        "text": "Không cố ý tấn công hoặc giết các thành viên trong cùng một nhóm."
+      },
+      {
+        "type": "bullet",
+        "text": "Nếu có xung đột trong nhóm Hãy tách họ ra ngay lập tức. Và đừng leo thang tình hình đến mức đánh nhau."
+      },
+      {
+        "type": "bullet",
+        "text": "Sau khi rời nhóm Không tấn công hoặc giết các thành viên hiện tại trong 10 phút."
+      },
+      {
+        "type": "subhead",
+        "text": "Miễn trừ Mixpack — Miễn trừ Mixpack"
+      },
+      {
+        "type": "bullet",
+        "text": "Hypsilophodon chỉ áp dụng cho Động vật ăn cỏ. Có thể là Bên thứ ba theo Quy tắc khủng long ăn cỏ, Phần 4, Đàn hỗn hợp."
+      },
+      {
+        "type": "bullet",
+        "text": "Dryosaurus chỉ dành cho Herbivore, bên thứ ba không thể sử dụng."
+      },
+      {
+        "type": "bullet",
+        "text": "Pteranodon có thể cùng tồn tại với mọi loài nhưng không thể là bên thứ ba."
+      },
+      {
+        "type": "bullet",
+        "text": "Beipiaosaurus Có thể cùng tồn tại với mọi loài, nhưng không thể là bên thứ ba."
+      },
+      {
+        "type": "bullet",
+        "text": "Gallimimus chỉ áp dụng cho Herbivore, không áp dụng cho bên thứ ba."
+      },
+      {
+        "type": "note",
+        "text": "*Những loài này không được đưa vào danh sách cân nhắc của Mixpack, nhưng không được sử dụng làm mồi nhử, do thám hoặc cung cấp thông tin cho kẻ thù.*"
+      },
+      {
+        "type": "subhead",
+        "text": "Giới hạn gói — Động vật ăn cỏ"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Ankylosaurus (Anky)",
+        "count": "2 con",
+        "diet": "herbivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Stegosaurus",
+        "count": "2 con",
+        "diet": "herbivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Triceratops",
+        "count": "2 con",
+        "diet": "herbivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Diabloceratops",
+        "count": "4 con",
+        "diet": "herbivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Kentrosaurus",
+        "count": "4 con",
+        "diet": "herbivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Maiasaura",
+        "count": "5 con",
+        "diet": "herbivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Tenontosaurus",
+        "count": "5 con",
+        "diet": "herbivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Pachycephalosaurus",
+        "count": "6 con",
+        "diet": "herbivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Dryosaurus",
+        "count": "10 con",
+        "diet": "herbivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Hypsilophodon",
+        "count": "10 con",
+        "diet": "herbivore"
+      },
+      {
+        "type": "subhead",
+        "text": "Giới hạn gói - Động vật ăn thịt / động vật ăn thịt và những loài khác"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Herrerasaurus",
+        "count": "10 con",
+        "diet": "carnivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Omniraptor",
+        "count": "8 con",
+        "diet": "carnivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Pteranodon",
+        "count": "10 con",
+        "diet": "carnivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Ceratosaurus",
+        "count": "5 con",
+        "diet": "carnivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Dilophosaurus",
+        "count": "5 con",
+        "diet": "carnivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Allosaurus",
+        "count": "3 con",
+        "diet": "carnivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Deinosuchus",
+        "count": "2 con",
+        "diet": "carnivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Tyrannosaurus (T-Rex)",
+        "count": "2 con",
+        "diet": "carnivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Troodon",
+        "count": "10 con",
+        "diet": "carnivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Austroraptor",
+        "count": "10 con",
+        "diet": "carnivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Carnotaurus",
+        "count": "4 con",
+        "diet": "carnivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Giganotosaurus (Giga)",
+        "count": "2 con",
+        "diet": "carnivore"
+      },
+      {
+        "type": "pack-entry",
+        "text": "Spinosaurus (Spino)",
+        "count": "Không thể lập party",
+        "diet": "carnivore"
+      }
+    ]
+  },
+  {
+    "id": "area-rules",
+    "title": "Quy tắc khu vực",
+    "category": "AREA RULES",
+    "group": "Quy tắc chính",
+    "content": [
+      {
+        "type": "subhead",
+        "text": "Quy tắc cầu"
+      },
+      {
+        "type": "bullet",
+        "text": "Khu vực cầu được coi là khu vực giao thông. Người chơi thuộc mọi loài đều có thể sử dụng nó để di chuyển hoặc băng qua các khu vực khác như bình thường."
+      },
+      {
+        "type": "bullet",
+        "text": "Đừng coi khu vực cầu là nơi ở riêng hoặc khu vực thường xuyên của bạn."
+      },
+      {
+        "type": "bullet",
+        "text": "Không nghỉ ngơi, ngâm mình hoặc tụ tập quanh cầu trong thời gian dài. không có lý do liên quan đến du lịch"
+      },
+      {
+        "type": "bullet",
+        "text": "Không sử dụng khu vực cầu làm điểm hẹn, điểm tập trung hoặc nơi trú ẩn. Để tránh nguy hiểm từ các khu vực khác"
+      },
+      {
+        "type": "bullet",
+        "text": "Nếu cần, hãy dừng lại gần cầu. Bạn nên rời khỏi khu vực khi đã hoàn thành công việc kinh doanh của mình hoặc sẵn sàng tiếp tục cuộc hành trình."
+      },
+      {
+        "type": "bullet",
+        "text": "Người chơi cố tình không vâng lời hoặc liên tục quay lại khu vực chiếm giữ có thể bị trừng phạt theo quy định của máy chủ."
+      },
+      {
+        "type": "subhead",
+        "text": "Quy định vùng nước"
+      },
+      {
+        "type": "bullet",
+        "text": "Nguồn nước được coi là khu vực chung mà người chơi thuộc mọi loài đều có thể sử dụng. Nó cũng có thể được sử dụng như một khu vực chiến đấu."
+      },
+      {
+        "type": "bullet",
+        "text": "Có thể đến uống nước, tìm thức ăn hoặc săn lùng các nguồn nước như bình thường."
+      },
+      {
+        "type": "bullet",
+        "text": "Các vùng nước không phải là tài sản riêng. Đừng ngăn cản người chơi khác tiếp cận với nước."
+      },
+      {
+        "type": "bullet",
+        "text": "Không ngâm, để qua đêm hoặc để gần nguồn nước trong thời gian dài. không có lý do cần thiết"
+      },
+      {
+        "type": "bullet",
+        "text": "Không tụ tập thành nhóm để chặn, kiểm soát nguồn nước. Cho đến khi những người chơi khác không thể vào uống nước."
+      },
+      {
+        "type": "bullet",
+        "text": "Việc phục kích hoặc tấn công nguồn nước có thể được thực hiện như bình thường. Miễn là không vi phạm nội quy săn bắt của máy chủ."
+      },
+      {
+        "type": "bullet",
+        "text": "Khi uống nước xong hoặc thực hiện một hoạt động nào đó, bạn nên rời khỏi khu vực đó để người chơi khác sử dụng."
+      }
+    ]
+  },
+  {
+    "id": "herbivore-rules",
+    "title": "Quy tắc dành cho khủng long ăn cỏ",
+    "category": "HERBIVORE RULES",
+    "group": "Quy tắc chính",
+    "content": [
+      {
+        "type": "subhead",
+        "text": "1. Bắt đầu tấn công và tự vệ"
+      },
+      {
+        "type": "paragraph",
+        "text": "Khủng long ăn cỏ không thể là loài đầu tiên tấn công khủng long ăn thực vật hay khủng long ăn thịt. Các trận chiến phải hợp lý và phù hợp với hành vi và tình huống của khủng long. Không tấn công hoặc bắt đầu trận chiến với người chơi khác mà không có lý do chính đáng."
+      },
+      {
+        "type": "bullet",
+        "text": "Những người chơi khác đến quá gần sẽ cảm thấy bị đe dọa hoặc quấy rối."
+      },
+      {
+        "type": "bullet",
+        "text": "bị cướp mất nguồn thức ăn"
+      },
+      {
+        "type": "note",
+        "text": "*Sử dụng tiếng kêu 3 (tiếng rít/gầm) hoặc Voice Chat để thông báo trước. Nếu bên kia vẫn chưa rời đi, họ có thể bắt đầu tấn công*."
+      },
+      {
+        "type": "subhead",
+        "text": "2. Không hợp tác với khủng long ăn thịt."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tất cả các loài khủng long ăn cỏ đều bị cấm thành lập liên minh, tham gia nhóm hoặc hỗ trợ khủng long ăn thịt. Có thể là săn bắn, phòng thủ, truy đuổi kẻ thù hoặc hỗ trợ trong trận chiến."
+      },
+      {
+        "type": "subhead",
+        "text": "3. Tập hợp bầy đàn"
+      },
+      {
+        "type": "bullet",
+        "text": "Các loài động vật ăn cỏ có thể di chuyển hoặc sống cùng nhau."
+      },
+      {
+        "type": "bullet",
+        "text": "Một đàn có thể có tối đa 3 loài và tổng số không quá 8 thành viên."
+      },
+      {
+        "type": "bullet",
+        "text": "Số lượng của mỗi loài không được vượt quá Giới hạn gói do trò chơi đặt ra."
+      },
+      {
+        "type": "bullet",
+        "text": "Không được phép sử dụng bầy đàn để khiến số lượng thành viên của bất kỳ loài nào vượt quá giới hạn. Và các bên nên được phân chia rõ ràng."
+      },
+      {
+        "type": "bullet",
+        "text": "Nếu kẻ săn mồi tấn công khủng long ăn cỏ không thuộc nhóm tấn công phải rút lui. Yêu cầu bên bị tấn công chiến đấu hoặc tự mình chạy trốn khỏi thợ săn."
+      },
+      {
+        "type": "note",
+        "text": "*Ngoại lệ: Triceratops, Stegosaurus và Pachycephallosaurus. Không thể được nhóm với các loài khác trong mọi trường hợp*"
+      },
+      {
+        "type": "subhead",
+        "text": "4. Quy tắc Hypsilophodon"
+      },
+      {
+        "type": "bullet",
+        "text": "Chất độc Hypsilophodon có thể được sử dụng để tự vệ ngay lập tức khi Carnivore đến gần và gây ra mối đe dọa."
+      },
+      {
+        "type": "bullet",
+        "text": "Không sử dụng nọc độc cho Bên thứ ba nếu Hypsilophodon không tham gia sự kiện ngay từ đầu"
+      },
+      {
+        "type": "bullet",
+        "text": "Trong trường hợp Mix Herd, chất độc có thể được sử dụng để bảo vệ các thành viên trong nhóm. Chỉ khi các thành viên bị tấn công hoặc đe dọa trực tiếp."
+      },
+      {
+        "type": "bullet",
+        "text": "Không sử dụng chất độc lên người chơi nhiều lần mà không có lý do. Hoặc đuổi theo chúng để gây rắc rối bằng cách phun thuốc độc."
+      },
+      {
+        "type": "bullet",
+        "text": "Nếu Động vật ăn thịt rút lui khỏi tình huống Đừng truy đuổi để sử dụng chất độc. trừ khi họ quay lại tấn công hoặc đe dọa các thành viên trong nhóm lần nữa"
+      }
+    ]
+  },
+  {
+    "id": "carnivore-rules",
+    "title": "Quy tắc dành cho khủng long ăn thịt",
+    "category": "CARNIVORE RULES",
+    "group": "Quy tắc chính",
+    "content": [
+      {
+        "type": "subhead",
+        "text": "Không tập trung bầy đàn giữa các loài (No Mixpacking)."
+      },
+      {
+        "type": "note",
+        "text": "*Để duy trì sự cân bằng và lối chơi tự nhiên của từng loài. Người chơi phải tuân thủ các quy tắc sau*"
+      },
+      {
+        "type": "bullet",
+        "text": "Khủng long ăn thịt không được hợp tác, giúp đỡ hoặc thành lập nhóm với khủng long ăn cỏ."
+      },
+      {
+        "type": "bullet",
+        "text": "Khủng long ăn thịt thuộc các loài khác nhau không được hợp tác, săn mồi cùng nhau hoặc giúp đỡ lẫn nhau trong trận chiến."
+      },
+      {
+        "type": "bullet",
+        "text": "Việc di chuyển, săn bắn và chơi theo bầy Chỉ được thực hiện với những con khủng long cùng loài."
+      },
+      {
+        "type": "bullet",
+        "text": "Không đi du lịch, theo dõi hoặc tụ tập với các loài khác nhau trong thời gian dài theo cách gợi ý liên kết."
+      },
+      {
+        "type": "bullet",
+        "text": "Có thể sống trong cùng một khu vực với các loài khác nhau tùy theo hoàn cảnh. Nhưng bạn không được hợp tác cho đến khi bạn có lợi thế hơn những người chơi khác."
+      },
+      {
+        "type": "subhead",
+        "text": "Ăn thịt cùng một người (Ăn thịt đồng loại)"
+      },
+      {
+        "type": "bullet",
+        "text": "Máy chủ cho phép săn bắn, tấn công, tiêu diệt và ăn thịt khủng long cùng loài. Nhưng bạn phải chơi công bằng."
+      },
+      {
+        "type": "bullet",
+        "text": "Đừng giả vờ tham gia nhóm, kết bạn hoặc tỏ ra thân thiện. để chờ thời điểm thích hợp để tấn công các thành viên trong nhóm"
+      },
+      {
+        "type": "bullet",
+        "text": "Nếu bạn tham gia vào bầy đàn Đừng sử dụng lòng tin của thành viên để lên kế hoạch giết người hoặc phản bội."
+      },
+      {
+        "type": "subhead",
+        "text": "Sở hữu hài cốt (Yêu cầu cơ thể)"
+      },
+      {
+        "type": "bullet",
+        "text": "Người chơi hoặc gói giết nạn nhân thành công sẽ có quyền yêu cầu phần còn lại trước tiên."
+      },
+      {
+        "type": "bullet",
+        "text": "Những người chơi khác có thể cố gắng cướp lấy phần còn lại. Nhưng nguy cơ chiến đấu phải được chấp nhận. Theo quy tắc của trận chiến không. 11"
+      },
+      {
+        "type": "bullet",
+        "text": "Đừng giả vờ thân thiện để tiếp cận xác tàu và tấn công dựa trên sự tin tưởng."
+      },
+      {
+        "type": "subhead",
+        "text": "Can thiệp trận chiến (Bên thứ ba)"
+      },
+      {
+        "type": "bullet",
+        "text": "Không hỗ trợ bất kỳ bên nào trong cuộc chiến."
+      },
+      {
+        "type": "bullet",
+        "text": "Bạn phải đợi trận chiến của cả hai bên kết thúc trước. với một bên chết hoàn toàn hoặc một bên trốn thoát. Vì vậy bạn có thể thách thức anh ta tiếp tục chiến đấu."
+      },
+      {
+        "type": "subhead",
+        "text": "5. Quy tắc dành cho Troodon — Sử dụng Nọc độc (Nọc độc)"
+      },
+      {
+        "type": "bullet",
+        "text": "Không sử dụng chất độc để tấn công hoặc quấy rối người chơi khác. Nếu không có ý định săn bắn, chiến đấu hoặc tự vệ"
+      },
+      {
+        "type": "bullet",
+        "text": "Đừng chạy vào cắn nọc độc rồi trốn đi liên tục chỉ để gây phiền toái. không có ý định săn lùng mục tiêu"
+      },
+      {
+        "type": "bullet",
+        "text": "Chất độc có thể được sử dụng để bảo vệ bản thân, dọn đường hoặc tạo cơ hội trốn thoát. và không bị coi là gây rối."
+      },
+      {
+        "type": "subhead",
+        "text": "Troodon — Săn khủng long lớn."
+      },
+      {
+        "type": "paragraph",
+        "text": "Để săn Deinosuchus, Tyrannosaurus, Stegosaurus hoặc Triceratops chưa trưởng thành, bầy Troodon của bạn phải có ít nhất 4 thành viên."
+      },
+      {
+        "type": "note",
+        "text": "*Nếu có ít hơn 4 Troodon, đừng chủ động săn mục tiêu nói trên. Nhưng bạn vẫn có thể sử dụng chất độc hoặc tấn công để bảo vệ bản thân và trốn thoát*"
+      },
+      {
+        "type": "subhead",
+        "text": "6. Các quy định dành riêng cho Pteranodon — Không Hướng đạo / Metagaming"
+      },
+      {
+        "type": "prohibit",
+        "text": "Việc trinh sát hoặc lợi dụng chế độ xem toàn cảnh để xác định vị trí của người chơi khác đều bị cấm. Sau đó liên lạc qua Discord hoặc các kênh khác để khuyên bạn bè nghiêm túc đi săn."
+      },
+      {
+        "type": "prohibit",
+        "text": "Đừng hành động như một máy bay không người lái theo dõi. Bằng cách cố tình bay vòng tròn, bám theo hoặc tạo ra tiếng động và luôn ở phía trên mục tiêu. Để báo cáo vị trí và chuyển động theo thời gian thực cho nhóm săn bắn của họ."
+      },
+      {
+        "type": "prohibit",
+        "text": "Không giúp đỡ các loài khác nhau (Mix-Packing / Metagaming) hoặc hoạt động như một radar cá nhân cho các loài khủng long săn mồi khác. Bởi nó được cho là tạo ra lợi thế và phá hủy nghiêm trọng sự cân bằng của trò chơi."
+      },
+      {
+        "type": "prohibit",
+        "text": "Không sử dụng Pteranodon để theo dõi vị trí của người chơi. Sau đó chuyển nhân vật trở lại một con khủng long khác để săn mục tiêu nói trên."
+      },
+      {
+        "type": "subhead",
+        "text": "7. Quy tắc đặc biệt dành cho Spinosaurus - Trợ giúp nhỏ"
+      },
+      {
+        "type": "bullet",
+        "text": "Một con Spinosaurus lớn có thể giúp nuôi một con Spinosaurus nhỏ với tốc độ tăng trưởng không quá 50%."
+      },
+      {
+        "type": "bullet",
+        "text": "Spinosaurus lớn và nhỏ không được tính là cùng một nhóm. và không tham gia các bữa tiệc cùng nhau"
+      },
+      {
+        "type": "prohibit",
+        "text": "Nếu xảy ra đánh nhau Cả hai bên đều bị cấm đánh nhau hoặc bảo vệ nhau."
+      },
+      {
+        "type": "bullet",
+        "text": "Họ chỉ có thể giúp đỡ lẫn nhau bằng cách chia sẻ thức ăn."
+      },
+      {
+        "type": "note",
+        "text": "*Quy tắc này được tạo ra để giúp Spinosaurus còn quá yếu*"
+      }
+    ]
+  },
+  {
+    "id": "omnivore-rules",
+    "title": "Quy tắc dành cho khủng long ăn tạp",
+    "category": "OMNIVORE RULES",
+    "group": "Quy tắc chính",
+    "content": [
+      {
+        "type": "subhead",
+        "text": "1. Khủng long beipia"
+      },
+      {
+        "type": "bullet",
+        "text": "Nó là một loài đặc biệt có thể di chuyển, lập nhóm hoặc liên minh với tất cả các loài khủng long khác."
+      },
+      {
+        "type": "bullet",
+        "text": "Có thể cùng tồn tại với cả Herbivore và Carnivore mà không bị coi là Mixpacking."
+      },
+      {
+        "type": "bullet",
+        "text": "Không thể gửi cho bên thứ ba"
+      },
+      {
+        "type": "subhead",
+        "text": "2. Gallimimus"
+      },
+      {
+        "type": "bullet",
+        "text": "Bạn có thể đi du lịch, tham gia bầy đàn hoặc thành lập liên minh với các loài khủng long ăn cỏ khác."
+      },
+      {
+        "type": "bullet",
+        "text": "Không được phép hợp tác hoặc liên minh với khủng long ăn thịt."
+      },
+      {
+        "type": "bullet",
+        "text": "Hợp tác với Carnivore được coi là Mixpacking và trái với quy định của máy chủ."
+      },
+      {
+        "type": "bullet",
+        "text": "Không thể gửi cho bên thứ ba"
+      }
+    ]
+  },
+  {
+    "id": "nesting-rules",
+    "title": "Quy tắc làm tổ và bảo vệ con non",
+    "category": "NESTING & OFFSPRING RULES",
+    "group": "Quy tắc chính",
+    "content": [
+      {
+        "type": "bullet",
+        "text": "Cha mẹ chỉ có thể bảo vệ con mình trong mức độ tăng trưởng mà trò chơi quy định. Khi nó lớn hơn một độ tuổi nhất định Trò chơi sẽ tự động loại con bạn khỏi nhóm."
+      },
+      {
+        "type": "bullet",
+        "text": "Nếu xảy ra đánh nhau hoặc có nguy cơ trẻ sẽ bị truy lùng ngay trước mặt bạn. Trong khi đó, cha mẹ lại để con cái lớn lên một mình. Các ông bố bà mẹ có thể can thiệp và bảo vệ con mình."
+      },
+      {
+        "type": "note",
+        "text": "*Nếu con đã khuất tầm mắt Sẽ coi như con đã rời đàn*"
+      }
+    ]
+  },
+  {
+    "id": "penalties",
+    "title": "Quy định xử phạt",
+    "category": "PENALTY SYSTEM",
+    "group": "Quy tắc chính",
+    "content": [
+      {
+        "type": "subhead",
+        "text": "Hệ thống hình phạt tích lũy"
+      },
+      {
+        "type": "paragraph",
+        "text": "Máy chủ ghi lại lịch sử hành vi sai trái của người chơi. Mức phạt sẽ tăng dần theo số lần vi phạm."
+      },
+      {
+        "type": "tier",
+        "text": "Cấp 1",
+        "penalty": "Cấm 1 giờ"
+      },
+      {
+        "type": "tier",
+        "text": "Cấp 2",
+        "penalty": "Cấm 12 giờ"
+      },
+      {
+        "type": "tier",
+        "text": "Cấp 3",
+        "penalty": "Cấm 1 ngày"
+      },
+      {
+        "type": "tier",
+        "text": "Cấp 4",
+        "penalty": "Cấm 3–7 ngày"
+      },
+      {
+        "type": "tier",
+        "text": "Cấp 5",
+        "penalty": "Bị cấm vĩnh viễn"
+      },
+      {
+        "type": "subhead",
+        "text": "Đặt lại điều kiện và lịch sử"
+      },
+      {
+        "type": "bullet",
+        "text": "**Đặt lại lịch sử:** Hệ thống sẽ xóa lịch sử lỗi tích lũy của người chơi 1 tháng một lần."
+      },
+      {
+        "type": "bullet",
+        "text": "**Trường hợp ngoại lệ:** Các hành vi phạm tội nghiêm trọng như sử dụng chương trình gian lận hoặc khai thác lỗi/lỗ hổng để lợi dụng người khác. Lịch sử tích lũy sẽ không được thiết lập lại. và có thể phải nhận hình phạt cao nhất ngay lập tức theo sự xem xét của toàn đội."
+      },
+      {
+        "type": "subhead",
+        "text": "Điều kiện kháng cáo"
+      },
+      {
+        "type": "bullet",
+        "text": "**Kênh gửi khiếu nại:** Nếu bạn cho rằng quyết định này không công bằng, bạn có thể mở một vé để gửi khiếu nại."
+      },
+      {
+        "type": "bullet",
+        "text": "**Bằng chứng kèm theo:** Phải đính kèm Replay F2 của trận đấu, video clip hoặc bằng chứng rõ ràng khác. để xem xét lại"
+      },
+      {
+        "type": "note",
+        "text": "*Quyết định của nhóm sau khi xem xét bằng chứng kháng cáo là quyết định cuối cùng*"
+      }
+    ]
+  }
+]
