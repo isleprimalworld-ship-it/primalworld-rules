@@ -1062,6 +1062,22 @@
       {
         "type": "bullet",
         "text": "If Carnivore withdraws from the situation Do not pursue to use poison. unless they come back to attack or threaten members of the group again"
+      },
+      {
+        "type": "subhead",
+        "text": "5. Aggressive Herbivores"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pachycephalosaurus and Gallimimus are naturally aggressive species."
+      },
+      {
+        "type": "bullet",
+        "text": "They may initiate an attack against carnivores even if they were not attacked first."
+      },
+      {
+        "type": "bullet",
+        "text": "They may initiate an attack against Pachycephalosaurus or Gallimimus from another herd even if they were not attacked first."
       }
     ]
   },

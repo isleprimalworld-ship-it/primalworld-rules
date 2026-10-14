@@ -1062,6 +1062,22 @@
       {
         "type": "bullet",
         "text": "Nếu Động vật ăn thịt rút lui khỏi tình huống Đừng truy đuổi để sử dụng chất độc. trừ khi họ quay lại tấn công hoặc đe dọa các thành viên trong nhóm lần nữa"
+      },
+      {
+        "type": "subhead",
+        "text": "5. Aggressive Herbivores"
+      },
+      {
+        "type": "paragraph",
+        "text": "Pachycephalosaurus và Gallimimus được xem là những loài có bản tính hung dữ."
+      },
+      {
+        "type": "bullet",
+        "text": "Chúng có thể chủ động tấn công khủng long ăn thịt ngay cả khi chưa bị tấn công trước."
+      },
+      {
+        "type": "bullet",
+        "text": "Chúng có thể chủ động tấn công Pachycephalosaurus hoặc Gallimimus thuộc đàn khác ngay cả khi chưa bị tấn công trước."
       }
     ]
   },
