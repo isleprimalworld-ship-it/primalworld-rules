@@ -768,7 +768,7 @@
       {
         "type": "pack-entry",
         "text": "Ankylosaurus (Anky)",
-        "count": "2 con",
+        "count": "3 con",
         "diet": "herbivore"
       },
       {
@@ -904,7 +904,7 @@
       {
         "type": "pack-entry",
         "text": "Spinosaurus (Spino)",
-        "count": "Không thể lập party",
+        "count": "2 con",
         "diet": "carnivore"
       }
     ]
@@ -1217,15 +1217,15 @@
       },
       {
         "type": "bullet",
-        "text": "Spinosaurus lớn và nhỏ không được tính là cùng một nhóm. và không tham gia các bữa tiệc cùng nhau"
+        "text": "Spinosaurus có thể lập party với tối đa 2 thành viên."
       },
       {
         "type": "prohibit",
-        "text": "Nếu xảy ra đánh nhau Cả hai bên đều bị cấm đánh nhau hoặc bảo vệ nhau."
+        "text": "Nếu Spinosaurus lớn và nhỏ chỉ ở cùng nhau theo ngoại lệ hỗ trợ nuôi con non mà không cùng party, khi xảy ra giao tranh chúng không được chiến đấu hoặc bảo vệ lẫn nhau."
       },
       {
         "type": "bullet",
-        "text": "Họ chỉ có thể giúp đỡ lẫn nhau bằng cách chia sẻ thức ăn."
+        "text": "Khi không ở cùng party, chúng chỉ được phép giúp nhau bằng cách chia sẻ thức ăn."
       },
       {
         "type": "note",

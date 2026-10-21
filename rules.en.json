@@ -1,209 +1,209 @@
 [
   {
     "id": "definitions",
-    "title": "Definition of a Fight",
+    "title": "What Counts as a Fight?",
     "category": "DEFINITIONS",
     "group": "Definitions",
     "content": [
       {
         "type": "paragraph",
-        "text": "**Fight or fight** refers to a fighting situation between players and players. Including battles between parties"
+        "text": "A **fight** is any combat between players, including fights between parties."
       },
       {
         "type": "subhead",
-        "text": "The start of the fight"
+        "text": "When Does a Fight Start?"
       },
       {
         "type": "paragraph",
-        "text": "A situation begins to count as a fight when one side clearly expresses their intent to enter combat, e.g."
+        "text": "A fight begins as soon as either side clearly shows an intention to fight. Examples include:"
       },
       {
         "type": "bullet",
-        "text": "Use the cry **1 or 3** to challenge or intimidate."
+        "text": "Using **Call 1 or Call 3** to challenge or threaten another player."
       },
       {
         "type": "bullet",
-        "text": "Start chasing to attack"
+        "text": "Chasing another player with the intention of attacking."
       },
       {
         "type": "bullet",
-        "text": "Attempting to attack or damage another party"
+        "text": "Attempting to attack or damage another player."
       },
       {
         "type": "bullet",
-        "text": "Party members join the fight against the opposing party."
+        "text": "Party members joining combat against an opposing party."
       },
       {
         "type": "subhead",
-        "text": "Counting the fight is still ongoing."
+        "text": "When Is a Fight Still Ongoing?"
       },
       {
         "type": "paragraph",
-        "text": "The situation is still considered a fight. If there is still fighting behavior or intent to continuously chase Considering the following"
+        "text": "A fight is still ongoing when players continue fighting or actively pursuing each other. Staff will consider the following:"
       },
       {
         "type": "bullet",
-        "text": "Has an attack or damage within approximately **2–3 minutes**"
+        "text": "An attack or damage has occurred within approximately **2–3 minutes**."
       },
       {
         "type": "bullet",
-        "text": "There is still chasing. try to reach or block the other party's escape route"
+        "text": "A player is still chasing, trying to reach, or blocking the other player's escape."
       },
       {
         "type": "bullet",
-        "text": "The cry **1 or 3** is used to clearly indicate intent to continue fighting or hunting."
+        "text": "A player continues using **Call 1 or Call 3** to clearly signal their intention to fight or hunt."
       },
       {
         "type": "bullet",
-        "text": "Both sides remain in the situation and can see or follow each other."
+        "text": "Both sides remain engaged and can still see or track each other."
       },
       {
         "type": "note",
-        "text": "*Temporary absence of damage does not mean the fight ends immediately. If either side still clearly shows their intent to fight*"
+        "text": "*A temporary break in damage does not automatically end a fight if either side is still clearly trying to continue it.*"
       },
       {
         "type": "subhead",
-        "text": "The end of the fight"
+        "text": "When Does a Fight End?"
       },
       {
         "type": "paragraph",
-        "text": "A fight is considered ended when one of the following events occurs:"
+        "text": "A fight ends when any of the following happens:"
       },
       {
         "type": "bullet",
-        "text": "One party dies"
+        "text": "A player on either side dies."
       },
       {
         "type": "bullet",
-        "text": "Either side surrenders with a cry of **4** or notifies via Voice Chat and clearly separates itself from the area."
+        "text": "One side surrenders using **Call 4** or Voice Chat and clearly leaves the area."
       },
       {
         "type": "bullet",
-        "text": "The fleeing party was out of sight. and there is no further follow-up"
+        "text": "The fleeing player escapes out of sight and is no longer being pursued."
       },
       {
         "type": "bullet",
-        "text": "The party that fled entered an area that the other party could not reach. and does not deal damage or show fighting intent continuously for **2–3 minutes**"
+        "text": "The fleeing player reaches an area the opponent cannot access, and there is no further damage or clear intent to fight for **2–3 minutes**."
       },
       {
         "type": "bullet",
-        "text": "The two sides were clearly separated from each other and there was no continuous fighting behavior."
+        "text": "Both sides clearly separate and stop engaging in combat."
       },
       {
         "type": "subhead",
-        "text": "Example 1 — Still counts as a fight."
+        "text": "Example 1 — Fight in Progress"
       },
       {
         "type": "paragraph",
-        "text": "Tyrannosaurus (T-Rex) uses its cry 3 to intimidate Triceratops and clearly intends to start fighting."
+        "text": "A Tyrannosaurus (T-Rex) uses Call 3 to threaten a Triceratops and clearly signals that it intends to fight."
       },
       {
         "type": "note",
-        "text": "**Results of consideration:** Considered a fight."
+        "text": "**Ruling:** This counts as a fight."
       },
       {
         "type": "subhead",
-        "text": "Example 2 — The fight is over."
+        "text": "Example 2 — Fight Has Ended"
       },
       {
         "type": "paragraph",
-        "text": "Allosaurus chases Pachycephalosaurus, but Pachycephalosaurus Jumps away onto a rock, causing Allosaurus to be unable to reach or deal damage for more than **2–3 minutes** and showing no sustained fighting intent."
+        "text": "An Allosaurus chases a Pachycephalosaurus, which escapes onto a rock. The Allosaurus cannot reach or damage it for more than **2–3 minutes** and no longer shows any intention to keep fighting."
       },
       {
         "type": "note",
-        "text": "**Result of consideration:** It is considered that the fight has ended."
+        "text": "**Ruling:** The fight has ended."
       },
       {
         "type": "subhead",
-        "text": "Example 3 — Still counts as a fight."
+        "text": "Example 3 — Fight Still in Progress"
       },
       {
         "type": "paragraph",
-        "text": "Allosaurus chases Pachycephalosaurus and Pachycephalosaurus Jumps away onto a rock. Although Allosaurus cannot deal damage for more than **2–3 minutes**, it still uses 1 or 3 cries and clearly shows its intent to chase or fight."
+        "text": "An Allosaurus chases a Pachycephalosaurus, which escapes onto a rock. Even though the Allosaurus cannot deal damage for more than **2–3 minutes**, it continues using Call 1 or Call 3 and clearly tries to keep up the chase or fight."
       },
       {
         "type": "note",
-        "text": "**Consideration Result:** It is still counted as a fight until Allosaurus withdraws or does not show continuous fighting intent."
+        "text": "**Ruling:** The fight is still ongoing until the Allosaurus gives up or stops showing a clear intention to continue."
       }
     ]
   },
   {
     "id": "report-rules",
-    "title": "Reporting Problems",
+    "title": "How to Report Rule Violations",
     "category": "REPORT REQUIREMENTS",
     "group": "Reporting",
     "content": [
       {
         "type": "subhead",
-        "text": "Requirements for reporting problems"
+        "text": "Evidence Requirements"
       },
       {
         "type": "paragraph",
-        "text": "From now on If you find a player who breaks the server's rules, such as making a Third Party or gathering illegally. or have suspicious behavior The informant must always have evidence to inform the team."
+        "text": "If you witness a rule violation, such as third-party interference, illegal grouping, or suspicious behavior, you must provide evidence when reporting it to staff."
       },
       {
         "type": "bullet",
-        "text": "Press **F2** to record a Replay within the game or record a video (Video) of the event."
+        "text": "Press **F2** to save an in-game replay, or record a video of the incident."
       },
       {
         "type": "bullet",
-        "text": "The evidence must adequately show the relevant events, perspectives, and time period. So that the team can examine it thoroughly and fairly."
+        "text": "Your evidence must show enough of the incident, the relevant players' perspectives, and the timeline for staff to investigate fairly."
       },
       {
         "type": "prohibit",
-        "text": "If there is no Replay F2 or accompanying video The team will not accept consideration in all cases."
+        "text": "**Reports without an F2 replay or video will not be reviewed.**"
       },
       {
         "type": "note",
-        "text": "*Exception: In the case of being killed during the Server Restart, the team can be notified for investigation even if there is no such evidence*"
+        "text": "*Exception: If you are killed during a server restart, you may report the incident even without an F2 replay or video.*"
       }
     ]
   },
   {
     "id": "general",
-    "title": "General Rules",
+    "title": "General Server Rules",
     "category": "SERVER RULES & REGULATIONS",
     "group": "General Rules",
     "content": [
       {
         "type": "note",
-        "text": "*Joining the server assumes that the player has accepted and understood all community rules*"
+        "text": "*By joining this server, you agree to follow and understand all community rules.*"
       },
       {
         "type": "subhead",
-        "text": "1. Behavior and respect for players"
+        "text": "1. Player Conduct and Respect"
       },
       {
         "type": "bullet",
-        "text": "**Do not curse, disrespect, threaten** or intentionally disturb other players."
+        "text": "**No insults, discrimination, harassment,** or deliberately disturbing other players."
       },
       {
         "type": "bullet",
-        "text": "**Do not create conflicts** or provoke quarrels within the community."
+        "text": "**Do not start conflicts** or deliberately provoke arguments within the community."
       },
       {
         "type": "bullet",
-        "text": "**Do not pretend** to be an Admin, Moderator, or team member."
+        "text": "**Do not impersonate** an Admin, Moderator, or any other staff member."
       },
       {
         "type": "bullet",
-        "text": "**Troubleshooting:** If there is a problem between players, use the **Ticket** system to notify the team only. *(Do not use it to attack each other in public channels)*"
+        "text": "**Resolving disputes:** If you have an issue with another player, contact staff through a **Ticket** only. *Do not attack or call out other players in public channels.*"
       },
       {
         "type": "subhead",
-        "text": "2. Program to help play and Exploit"
+        "text": "2. Cheating and Exploits"
       },
       {
         "type": "bullet",
-        "text": "**Do not use cheat programs**, Hack, Macro, Script or external programs that give an advantage."
+        "text": "**No cheats, hacks, macros, scripts,** or third-party software that gives an unfair advantage."
       },
       {
         "type": "bullet",
-        "text": "**Do not use Bugs** or game vulnerabilities for profit. And do not distribute/teach others how to use the vulnerability."
+        "text": "**Do not exploit bugs** or game vulnerabilities for personal gain. Do not share or teach others how to exploit them."
       },
       {
         "type": "bullet",
-        "text": "**Penalty:** If the team detects and has sufficient evidence, the punishment will be **Permanent Ban**"
+        "text": "**Penalty:** Confirmed violations supported by sufficient evidence will result in a **permanent ban**."
       },
       {
         "type": "subhead",
@@ -211,111 +211,111 @@
       },
       {
         "type": "bullet",
-        "text": "**Do not send or distribute NSFW content**, pornography, images, audio, links, or other illegal/inappropriate content."
+        "text": "**Do not share NSFW or pornographic content**, or any illegal or inappropriate images, audio, links, or other material."
       },
       {
         "type": "bullet",
-        "text": "**Do not disclose personal information** of yourself or others within the community (Privacy & Doxxing)"
+        "text": "**Do not share personal information** about yourself or others in the community (privacy and doxxing)."
       },
       {
         "type": "bullet",
-        "text": "**Do not advertise** servers, games, communities, or other services without permission."
+        "text": "**Do not advertise** other servers, games, communities, or services without permission."
       },
       {
         "type": "subhead",
-        "text": "4. Using Voice Chat"
+        "text": "4. Voice Chat"
       },
       {
         "type": "bullet",
-        "text": "**Do not turn on the microphone to disturb others** such as playing loud music or annoying sounds."
+        "text": "**Do not disrupt Voice Chat** with loud music, excessive noise, or other annoying sounds."
       },
       {
         "type": "bullet",
-        "text": "**Do not use Soundboard** to harass or spam."
+        "text": "**Do not use soundboards** to harass others or spam."
       },
       {
         "type": "bullet",
-        "text": "**Maintain etiquette in conversation** and always be respectful to roommates."
+        "text": "**Be respectful** to everyone in your voice channel."
       },
       {
         "type": "subhead",
-        "text": "5. Reporting problems and disputes"
+        "text": "5. Reports and Disputes"
       },
       {
         "type": "bullet",
-        "text": "**Notification:** All cases of problems must be reported through the **Ticket** system only. *(Do not send a DM to Staff to rush or pressure)*"
+        "text": "**How to report:** Submit all reports through the **Ticket** system only. *Do not DM staff to rush or pressure them.*"
       },
       {
         "type": "bullet",
-        "text": "**Evidence:** Please submit complete evidence such as video clips, screenshots or replays."
+        "text": "**Evidence:** Provide all relevant evidence, such as video clips, screenshots, or replays."
       },
       {
         "type": "bullet",
-        "text": "**Notification period:**"
+        "text": "**Reporting deadlines:**"
       },
       {
         "type": "bullet-nested",
-        "text": "**General cases:** Notify the team within **24 hours** after the incident."
+        "text": "**General incidents:** Report within **24 hours** of the incident."
       },
       {
         "type": "bullet-nested",
-        "text": "**Case of character loss/reinstatement:** Notify the team within **48 hours** after the incident."
+        "text": "**Character loss or restoration requests:** Report within **48 hours** of the incident."
       },
       {
         "type": "subhead",
-        "text": "6. Inspection process of the team"
+        "text": "6. How Staff Handle Reports"
       },
       {
         "type": "bullet",
-        "text": "**Receiving matters and investigating:** The team examines preliminary information and evidence."
+        "text": "**Initial review:** Staff review the report and available evidence."
       },
       {
         "type": "bullet",
-        "text": "**Check further:** If it's a complicated case The case will be taken into consideration together."
+        "text": "**Further investigation:** Complex cases may be reviewed by multiple staff members."
       },
       {
         "type": "bullet",
-        "text": "**Summary of consideration results:** Notification of results and penalties as appropriate."
+        "text": "**Decision:** Staff communicate the outcome and any applicable penalties."
       },
       {
         "type": "bullet",
-        "text": "**Appeal:** The sanctioned person can submit additional evidence via Ticket to request reconsideration."
+        "text": "**Appeals:** Penalized players may submit additional evidence through a Ticket to request a review."
       },
       {
         "type": "note",
-        "text": "*The decision will be based mainly on evidence and intent. The decision of the team is final*"
+        "text": "*Staff decisions are based primarily on evidence and intent. The final decision rests with staff.*"
       },
       {
         "type": "subhead",
-        "text": "7. Do not create drama outside the server."
+        "text": "7. No Public Drama Outside the Server"
       },
       {
         "type": "bullet",
-        "text": "**Do not post disputes on Social Media** to create a stir, attack or provoke others."
+        "text": "**Do not post disputes on social media** to stir up drama, attack others, or provoke arguments."
       },
       {
         "type": "bullet",
-        "text": "**Do not publish information or evidence** of cases under investigation without permission."
+        "text": "**Do not share details or evidence** from an ongoing investigation without permission."
       },
       {
         "type": "bullet",
-        "text": "If you have any doubts or disagree with the decision. Use the **Ticket** channel for official discussions."
+        "text": "If you have questions or disagree with a decision, discuss it through a **Ticket**."
       },
       {
         "type": "subhead",
-        "text": "8. Problem limitations from the game (The Isle: Evrima)"
+        "text": "8. Game-Related Issues (The Isle: Evrima)"
       },
       {
         "type": "note",
-        "text": "*Because the game is still under development, Bugs, Crash, or Connection Error may occur*"
+        "text": "*The Isle: Evrima is still in development. Bugs, crashes, and connection errors may occur.*"
       },
       {
         "type": "bullet",
-        "text": "**Loss of character/progress:** If caused by a problem with the game The team** cannot guarantee recovery in all cases**"
+        "text": "**Lost characters or progress:** If the loss is caused by a game issue, staff **cannot guarantee recovery in every case**."
       },
       {
         "type": "bullet",
-        "text": "Decisions to restore characters or progress will be made on a case-by-case basis only based on available evidence."
+        "text": "Character or progress restoration is considered case by case, based on the available evidence."
       },
       {
         "type": "subhead",
@@ -323,15 +323,15 @@
       },
       {
         "type": "bullet",
-        "text": "**Not knowing the rules** cannot be used as a reason to waive penalties."
+        "text": "**Not knowing the rules** is not an excuse for breaking them."
       },
       {
         "type": "bullet",
-        "text": "Players are responsible for always checking server rules and announcements."
+        "text": "Players are responsible for keeping up with server rules and announcements."
       },
       {
         "type": "bullet",
-        "text": "The team reserves the right to update or add rules as appropriate to the situation."
+        "text": "Staff reserve the right to update or add rules when necessary."
       },
       {
         "type": "subhead",
@@ -339,23 +339,23 @@
       },
       {
         "type": "bullet",
-        "text": "Do not respawn and take revenge or kill the player who just killed you."
+        "text": "Do not respawn and return to hunt down or kill the player who just killed you."
       },
       {
         "type": "bullet",
-        "text": "Returning to attack the same player within 20 minutes of being killed is considered Revenge Killing."
+        "text": "Attacking the same player within **20 minutes** of being killed counts as Revenge Killing."
       },
       {
         "type": "subhead",
-        "text": "11. Stream Sniping Rules"
+        "text": "11. Stream Sniping"
       },
       {
         "type": "prohibit",
-        "text": "It is strictly forbidden to take advantage of another player's Live, Stream, or Discord broadcast to locate, point out, or report a player's location."
+        "text": "**Do not use another player's livestream or Discord stream** to find, identify, or share their in-game location."
       },
       {
         "type": "prohibit",
-        "text": "Do not use the information obtained from such viewing to gain an advantage for yourself or your group in play, hunting, or combat."
+        "text": "**Do not use information from someone else's stream** to give yourself or your group an advantage while playing, hunting, or fighting."
       },
       {
         "type": "subhead",
@@ -363,7 +363,7 @@
       },
       {
         "type": "prohibit",
-        "text": "Do not share or forward location information. movement or the situation of other players to people who do not receive that information from normal play Whether through channels within the game or outside the game, such as Discord, Voice Chat, DM, Screenshot, or telling other people to spread the word. This does not have to be a direct coordinate. Telling the name of the area, direction, route, resting point, number of players, species, or other information that can be used to find, track, or attack players is also considered Location Dropping."
+        "text": "**Do not share another player's location, movements, or current situation** with anyone who did not learn that information through normal gameplay. This applies to in-game and external channels, including Discord, Voice Chat, DMs, screenshots, and messages passed through other people. Exact coordinates are not required for a violation: sharing an area name, direction, route, resting spot, number of players, species, or any other detail that could help someone locate, track, or attack a player also counts as Location Dropping."
       }
     ]
   },
@@ -375,43 +375,43 @@
     "content": [
       {
         "type": "subhead",
-        "text": "1. Server Restart"
+        "text": "1. Server Restarts"
       },
       {
         "type": "bullet",
-        "text": "Before the server restart time, all players must end the battle at least 10 minutes in advance."
+        "text": "All players must stop fighting at least **10 minutes before** a scheduled server restart."
       },
       {
         "type": "bullet",
-        "text": "After the server is back open Do not start the battle until there is an announcement message from the server."
+        "text": "After the server comes back online, do not start fighting until the server makes an in-game announcement."
       },
       {
         "type": "bullet",
-        "text": "Not sure about the server status? Please check announcements on Discord based on in-game announcements."
+        "text": "If you are unsure about the server's status, check Discord for updates. **In-game announcements take priority.**"
       },
       {
         "type": "subhead",
-        "text": "2. Voice Chat during combat situations"
+        "text": "2. Voice Chat During Combat"
       },
       {
         "type": "paragraph",
-        "text": "Voice Chat can be used during battle and is considered part of the in-game situation. Players can talk, provoke, or express their emotions towards their opponents. but not beyond the scope of the general rules."
+        "text": "Voice Chat is allowed during fights and is considered part of the in-game interaction. Players may talk, taunt, or express frustration toward opponents, but must still follow the General Rules."
       },
       {
         "type": "prohibit",
-        "text": "Do not use discriminatory words or words that attack an individual or group."
+        "text": "No discriminatory language or personal attacks against individuals or groups."
       },
       {
         "type": "prohibit",
-        "text": "Do not intimidate, intimidate, or curse players in a violent manner."
+        "text": "No severe threats, harassment, or abusive insults."
       },
       {
         "type": "prohibit",
-        "text": "Do not use words intended to bully or harm others."
+        "text": "Do not use Voice Chat to deliberately bully or harm others."
       },
       {
         "type": "note",
-        "text": "*The team will consider the context, tone, and intent of the event together*"
+        "text": "*Staff will consider the context, tone, and intent of the conversation.*"
       },
       {
         "type": "subhead",
@@ -419,43 +419,43 @@
       },
       {
         "type": "paragraph",
-        "text": "Do not leave the game. disconnect or use other means to avoid situations where fighting or escaping from death is deliberate. Exiting the game during combat may be checked as Combat Logging."
+        "text": "**Do not intentionally leave the game, disconnect, or use other methods to escape an ongoing fight or avoid death.** Leaving during combat may be investigated as Combat Logging."
       },
       {
         "type": "bullet",
-        "text": "The team will check the situation before disconnecting and HP values during the time of leaving the game."
+        "text": "Staff will review what happened before the disconnect and the player's HP at the time."
       },
       {
         "type": "bullet",
-        "text": "Determines if the player is being chased or in combat."
+        "text": "Staff will check whether the player was being chased or actively fighting."
       },
       {
         "type": "bullet",
-        "text": "Consider the timing, duration, and pattern of recurrence. and evidence from those involved"
+        "text": "Staff will also consider the timing, duration, repeated patterns, and evidence from those involved."
       },
       {
         "type": "note",
-        "text": "*Disconnecting alone is not used to judge Combat Logging if the evidence is not enough. Players will have the opportunity to clarify and submit additional evidence before a decision is made*."
+        "text": "*A disconnect alone does not prove Combat Logging. If the evidence is inconclusive, players may explain what happened and provide additional evidence before a decision is made.*"
       },
       {
         "type": "subhead",
-        "text": "4. Surrender — Surrender"
+        "text": "4. Surrender"
       },
       {
         "type": "bullet",
-        "text": "The surrenderer must press cry 4 within the game or use Voice Chat to express surrender."
+        "text": "To surrender, use **Call 4** in-game or clearly surrender through Voice Chat."
       },
       {
         "type": "bullet",
-        "text": "Surrender does not guarantee that life will be spared. The winner has the right to choose to end the battle or continue killing."
+        "text": "**Surrender does not guarantee survival.** The winning side may choose to stop fighting or continue the attack."
       },
       {
         "type": "bullet",
-        "text": "Once the battle begins, it is considered that the battle has been accepted. Can retreat as appropriate But do not enter the fight to delay, trick or harass others."
+        "text": "Once you enter a fight, you have accepted the encounter. You may retreat, but you must not deliberately start fights just to stall, bait, or harass others."
       },
       {
         "type": "bullet",
-        "text": "When entering the battle Can chase opponents until they are out of sight."
+        "text": "Once a fight begins, players may chase their opponents until they are out of sight."
       },
       {
         "type": "subhead",
@@ -463,11 +463,11 @@
       },
       {
         "type": "prohibit",
-        "text": "If a fight breaks out Players who are not in the same party are strictly prohibited from interfering. Even though they are the same species of dinosaur."
+        "text": "**Only members of the parties already involved may take part in a fight.** Players from another party must not interfere, even if they are the same species."
       },
       {
         "type": "prohibit",
-        "text": "Do not invite players to the party during a fight. Or suddenly press invite to the party to circumvent the rules or help fight."
+        "text": "**Do not invite players to your party during a fight** or send last-minute invitations to bypass the rules or bring in reinforcements."
       },
       {
         "type": "subhead",
@@ -475,31 +475,31 @@
       },
       {
         "type": "prohibit",
-        "text": "Players or groups that are not involved from the start may not attack, assist, or get close to the fight circle. or participate in the struggles of others."
+        "text": "**Players or groups who were not involved when a fight began must not attack, assist, approach the fight, or interfere in any way.**"
       },
       {
         "type": "bullet",
-        "text": "The third person must be outside of the battle. Do not attack or help any party. Do not use words to pressure or direct. and do not use the situation to create an advantage for their own group"
+        "text": "Third parties must stay out of the fight. Do not attack or help either side, pressure or direct players through Voice Chat, or use the situation to give your group an advantage."
       },
       {
         "type": "bullet",
-        "text": "Those who are fighting must not drag the fight circle close to other players."
+        "text": "Players already fighting must not deliberately bring the fight toward uninvolved players."
       },
       {
         "type": "bullet",
-        "text": "The opponent should continue the situation with the original goal. Do not switch to attacking third parties just because they have arrived. Except getting too close to the fight ring and getting caught in the crossfire."
+        "text": "Continue fighting your original target. Do not switch to attacking an uninvolved player simply because they arrived nearby. An uninvolved player who gets too close may still be hit accidentally."
       },
       {
         "type": "bullet",
-        "text": "If you want to change your goal The original fight must be stopped or clearly withdrawn from the situation. and press cry 1 or 3 on a new target before starting battle."
+        "text": "To change targets, you must clearly end or withdraw from the original fight, then use **Call 1 or Call 3** toward the new target before starting a new fight."
       },
       {
         "type": "bullet",
-        "text": "A third party can offer to end the fight only if both sides stop attacking, have time to talk, and agree to end the fight."
+        "text": "A third party may suggest ending a fight only if both sides have stopped attacking, have time to talk, and agree to end it."
       },
       {
         "type": "bullet",
-        "text": "If we can't agree The battle can continue as normal. The third party must wait until the original situation is clearly over before they can engage."
+        "text": "If either side does not agree, the original fight may continue. Third parties must wait until it has clearly ended before engaging."
       },
       {
         "type": "subhead",
@@ -507,27 +507,27 @@
       },
       {
         "type": "bullet",
-        "text": "Hunting should be primarily for survival and food. Avoid attacking or killing just because it has a chance to kill."
+        "text": "Hunting should primarily be for **food and survival**. Do not attack or kill simply because you have an opportunity to do so."
       },
       {
         "type": "bullet",
-        "text": "They can attack or kill their competitors to protect their food supply or increase their chances of finding food. The situation and size of the opponent must be taken into account."
+        "text": "You may attack or kill a rival to protect a food source or improve your chances of finding food. Consider the situation and the size of your opponent."
       },
       {
         "type": "bullet",
-        "text": "Juvenile can only be hunted for food or survival reasons. If you kill it and don't eat it or there's no clear reason. It might be considered killing for fun."
+        "text": "You may hunt juveniles for food or survival. Killing a juvenile without eating it or without a clear reason may be treated as killing for fun."
       },
       {
         "type": "prohibit",
-        "text": "Do not Spawn Kill or guard the spawn area to repeatedly kill new players."
+        "text": "**No Spawn Killing.** Do not camp spawn areas or repeatedly kill newly spawned players."
       },
       {
         "type": "prohibit",
-        "text": "Do not kill players just because they can be killed. Chase for no survival reason. Or kill the same player repeatedly without any justification."
+        "text": "Do not kill players just because you can, chase them without a survival-related reason, or repeatedly kill the same player without justification."
       },
       {
         "type": "note",
-        "text": "*The team will consider food needs. Situation and space Size and species Number of times chased or attacked Eating after killing and behavior before and after the event*"
+        "text": "*Staff will consider food needs, location, circumstances, species and size, repeated chasing or attacks, whether the kill was eaten, and behavior before and after the incident.*"
       },
       {
         "type": "subhead",
@@ -535,123 +535,123 @@
       },
       {
         "type": "prohibit",
-        "text": "Players are strictly prohibited from using the Web Store / Overlay system to order corpses or bring down food while fighting. This is to prevent the remains from being used to heal blood or draw buff damage during battle."
+        "text": "**Do not use the Web Store or Overlay to spawn carcasses or food during an active fight.** This prevents players from using purchased carcasses to heal or gain damage buffs in combat."
       },
       {
         "type": "note",
-        "text": "*Exception: Can eat corpses that already exist naturally. Or a corpse that was just killed in that fight to heal normally. and is not considered against the rules*"
+        "text": "*Exception: You may eat carcasses that already spawned naturally, or bodies from kills made during that same fight, to heal as normal.*"
       },
       {
         "type": "subhead",
-        "text": "9. Deinosuchus Third Party Rules"
+        "text": "9. Deinosuchus Third-Party Rules"
       },
       {
         "type": "bullet",
-        "text": "Deinosuchus can only attack players fighting from within the water's edge. Do not go on land to participate in battles."
+        "text": "Deinosuchus may attack players already fighting **only from the water near the shoreline**. It must not come onto land to join the fight."
       },
       {
         "type": "bullet",
-        "text": "If the opponent lands in the water, Deinosuchus can attack normally. No matter which side of the battle"
+        "text": "If either side enters the water, Deinosuchus may attack them as normal."
       },
       {
         "type": "bullet",
-        "text": "Up to 2 Deinosuchus in the same party can hunt and ambush."
+        "text": "Up to **2 Deinosuchus in the same party** may hunt or ambush together."
       },
       {
         "type": "prohibit",
-        "text": "Deinosuchus: Different parties are prohibited from hunting, suppressing, locking, or attacking prey together. And do not help other parties' battles."
+        "text": "**Deinosuchus from different parties must not hunt, grab, hold, or attack the same prey together**, or assist another party's fight."
       },
       {
         "type": "prohibit",
-        "text": "If two Deinosuchus parties were fighting The third party is prohibited from interfering."
+        "text": "If two Deinosuchus parties are fighting, a third party must not interfere."
       },
       {
         "type": "subhead",
-        "text": "10. Herrerasaurus Third Party Rules"
+        "text": "10. Herrerasaurus Third-Party Rules"
       },
       {
         "type": "bullet",
-        "text": "Herrerasaurus can only Third Party by using a jump attack (right click) from a high place or high-altitude object."
+        "text": "Herrerasaurus may third-party a fight **only by using its right-click jump attack from an elevated position or object**."
       },
       {
         "type": "prohibit",
-        "text": "Walking in and biting or scratching from the ground to help fight is considered a Third Party and is not allowed."
+        "text": "Joining a fight by walking in and biting or scratching from the ground is prohibited third-party interference."
       },
       {
         "type": "subhead",
-        "text": "11. The Scramble for the Carcass — Carnivore Only"
+        "text": "11. Carcass Challenges — Carnivores Only"
       },
       {
         "type": "bullet",
-        "text": "The remains of the battle belong to the winner first. Other carnivorous dinosaurs can come in and challenge."
+        "text": "The winning side of a fight has first claim to the carcass. Other carnivores may challenge them for it."
       },
       {
         "type": "bullet",
-        "text": "Before attacking, the challenger must roar 3 to announce the challenge. and wait at least 20 seconds for an answer"
+        "text": "Before attacking, the challenger must use **Call 3** to announce the challenge and wait at least **20 seconds** for a response."
       },
       {
         "type": "bullet",
-        "text": "If the guardian of the remains responds with a voice of 4, they are considered to have given up the remains and must withdraw. The challenger captured the remains without a fight."
+        "text": "If the carcass holder responds with **Call 4**, they give up their claim and must move away. The challenger may take the carcass without fighting."
       },
       {
         "type": "bullet",
-        "text": "If you answer with 3, both sides can fight. and the winner receives the right to eat the remains."
+        "text": "If the holder responds with **Call 3**, both sides may fight. The winner claims the carcass."
       },
       {
         "type": "bullet",
-        "text": "If there is no answer within 20 seconds, the challenger can launch an attack."
+        "text": "If there is no response within **20 seconds**, the challenger may attack."
       },
       {
         "type": "prohibit",
-        "text": "Those who have given up their remains and withdrawn must not return to attack the other side until the remains are gone."
+        "text": "A player who gives up a carcass and leaves must not return to attack the other side until the carcass is gone."
       },
       {
         "type": "prohibit",
-        "text": "Do not attack a group that has just finished a fight without completing the Remain Challenge step. This act could be considered killing for fun."
+        "text": "Do not attack a group that has just finished a fight without following the carcass challenge procedure. This may be considered killing for fun."
       },
       {
         "type": "subhead",
-        "text": "12. Escape and End the Hunt"
+        "text": "12. Escaping and Ending a Hunt"
       },
       {
         "type": "bullet",
-        "text": "Prey can use terrain, water, forests, or the dinosaur's abilities to fully escape."
+        "text": "Prey may use the environment, terrain, water, forests, and their dinosaur's abilities to escape by any available means."
       },
       {
         "type": "prohibit",
-        "text": "Do not deliberately commit suicide to prevent the other party from eating the remains."
+        "text": "**Do not deliberately kill yourself** to prevent a predator from eating your body."
       },
       {
         "type": "bullet",
-        "text": "When the two sides separated and there was no continuous fighting. The situation is considered to be over."
+        "text": "Once both sides have separated and combat is no longer ongoing, the encounter is over."
       }
     ]
   },
   {
     "id": "grouping",
-    "title": "Grouping Rules",
+    "title": "Grouping and Pack Rules",
     "category": "PACK & SOCIAL RULES",
     "group": "Main Rules",
     "content": [
       {
         "type": "subhead",
-        "text": "Pack Limit"
+        "text": "Pack Limits"
       },
       {
         "type": "bullet",
-        "text": "All parties must adhere to Pack Limits at all times, while traveling, hunting, and fighting."
+        "text": "All parties must stay within their **Pack Limit** at all times, including while traveling, hunting, and fighting."
       },
       {
         "type": "bullet",
-        "text": "Herbivore can be grouped together to talk to each other, but when a Carnivore enters the area, All parties must be separated from each other, and third parties cannot be formed because they are already in the area before the battle begins."
+        "text": "Herbivores from different parties may gather to socialize. However, if a carnivore enters the area, each party must separate. Parties that were already in the area must not use the situation as an excuse to third-party a fight."
       },
       {
         "type": "bullet",
-        "text": "Do not exploit loopholes or distort the interpretation of the rules to gain an advantage. If in doubt, ask the staff before taking action."
+        "text": "Do not exploit loopholes or twist the rules to gain an unfair advantage. If you are unsure, ask staff first."
       },
       {
         "type": "bullet",
-        "text": "If players who aren't in the party come into the mix, use Voice Chat to notify them to leave first. The roar can be used to warn. If you still refuse to leave Can use force to evict as necessary. To prevent the occurrence of Overpack / Mixpack"
+        "text": "If an outsider joins or follows your party, first ask them to leave through Voice Chat. You may also warn them with calls. If they refuse, you may use reasonable force to drive them away to prevent Overpacking or Mixpacking."
       },
       {
         "type": "subhead",
@@ -659,15 +659,15 @@
       },
       {
         "type": "bullet",
-        "text": "Do not form groups with dinosaurs of different species to gain an advantage in hunting or fighting."
+        "text": "Do not group up with different species to gain an advantage in hunting or combat."
       },
       {
         "type": "bullet",
-        "text": "Do not use dinosaurs of different species as decoys, scouts, or to inform enemy locations."
+        "text": "Do not use other species as decoys, scouts, or spotters to reveal an enemy's location."
       },
       {
         "type": "bullet",
-        "text": "Do not travel in groups with different species to hunt other players."
+        "text": "Do not travel and hunt other players together with different species."
       },
       {
         "type": "subhead",
@@ -675,15 +675,15 @@
       },
       {
         "type": "bullet",
-        "text": "Do not group dinosaurs of the same species beyond the specified Pack Limit for any reason."
+        "text": "Do not exceed the stated **Pack Limit** for your species under any circumstances."
       },
       {
         "type": "bullet",
-        "text": "You can talk during the party. But they must be separated within 10 minutes."
+        "text": "Different parties may socialize, but must separate within **10 minutes**."
       },
       {
         "type": "bullet",
-        "text": "If a fight occurs or the time expires Unaffiliated groups must immediately separate from the area and out of range."
+        "text": "If a fight begins or the time limit is reached, uninvolved groups must immediately leave the area and move out of in-game hearing range."
       },
       {
         "type": "subhead",
@@ -691,27 +691,27 @@
       },
       {
         "type": "bullet",
-        "text": "Able to temporarily interact with different dinosaur species including Herbivore + Herbivore, Carnivore + Carnivore, and Herbivore + Carnivore."
+        "text": "Different species may interact briefly, including herbivore–herbivore, carnivore–carnivore, and herbivore–carnivore encounters."
       },
       {
         "type": "bullet",
-        "text": "Do not hunt, fight, or gain an advantage between parties."
+        "text": "Do not help other parties hunt or fight, or give them an advantage."
       },
       {
         "type": "bullet",
-        "text": "Group gatherings or traveling together must not exceed 10 minutes."
+        "text": "Gathering or traveling together must not last longer than **10 minutes**."
       },
       {
         "type": "bullet",
-        "text": "When the time is up or a fight breaks out Unaffiliated groups must immediately separate themselves and leave the game sound range."
+        "text": "When the time is up or a fight begins, uninvolved groups must separate immediately and move out of in-game hearing range."
       },
       {
         "type": "bullet",
-        "text": "If attacked during interaction Each party must split up and flee in different directions. Only the attacking party can stay in the area to respond and fight."
+        "text": "If an attack happens during a social interaction, each party must flee in a different direction. Only the party being attacked may remain to defend itself or fight."
       },
       {
         "type": "bullet",
-        "text": "Herbivore dinosaurs can group together and talk in The Pit area without being considered a Mixpack or Overpack, but they must not gather near water sources. and should be clearly separated into parties If a hunt occurs Other players who are not in the attacking party's party do not have Third Party rights."
+        "text": "Herbivores may gather and socialize at **The Pit** without this counting as Mixpacking or Overpacking. However, they must not gather near water sources, and each party should remain clearly separate. If a hunt begins, anyone outside the attacked party must not third-party the fight."
       },
       {
         "type": "subhead",
@@ -719,192 +719,192 @@
       },
       {
         "type": "bullet",
-        "text": "Do not trick players into joining your party to attack or kill. Including not sneaking out of the party and returning to attack."
+        "text": "Do not trick someone into joining your party so you can attack or kill them. Do not secretly leave a party and return to attack its members."
       },
       {
         "type": "bullet",
-        "text": "Do not intentionally attack or kill members of the same party."
+        "text": "Do not intentionally attack or kill your own party members."
       },
       {
         "type": "bullet",
-        "text": "If there is conflict within the party Separate them immediately. And do not escalate the situation to the point of fighting."
+        "text": "If a dispute arises within a party, separate immediately. Do not escalate it into a fight."
       },
       {
         "type": "bullet",
-        "text": "After leaving the party Do not attack or kill existing members for 10 minutes."
+        "text": "After leaving a party, you must not attack or kill former party members for **10 minutes**."
       },
       {
         "type": "subhead",
-        "text": "Mixpack Exemption — Mixpack Exemption"
+        "text": "Mixpacking Exceptions"
       },
       {
         "type": "bullet",
-        "text": "Hypsilophodon only applies to Herbivore. Can be Third Party according to the Herbivorous Dinosaur Rules, Section 4, Mix Herd."
+        "text": "**Hypsilophodon:** May group only with herbivores. Third-party involvement is allowed only as specified in Herbivore Rule 4 (Hypsilophodon Rules)."
       },
       {
         "type": "bullet",
-        "text": "Dryosaurus is only available to Herbivore, cannot be used by third parties."
+        "text": "**Dryosaurus:** May group only with herbivores. No third-party interference."
       },
       {
         "type": "bullet",
-        "text": "Pteranodon can coexist with all species, but cannot be third parties."
+        "text": "**Pteranodon:** May coexist with any species. No third-party interference."
       },
       {
         "type": "bullet",
-        "text": "Beipiaosaurus Can coexist with all species, but cannot be third parties."
+        "text": "**Beipiaosaurus:** May coexist with any species. No third-party interference."
       },
       {
         "type": "bullet",
-        "text": "Gallimimus only applies to Herbivore, not third parties."
+        "text": "**Gallimimus:** May group only with herbivores. No third-party interference."
       },
       {
         "type": "note",
-        "text": "*These species are not included in Mixpack considerations, but may not be used as decoys, scouts, or enemy informants.*"
+        "text": "*These species are exempt from Mixpacking restrictions as described above, but must never be used as decoys, scouts, or spotters to reveal enemy locations.*"
       },
       {
         "type": "subhead",
-        "text": "Pack Limit — Herbivore"
+        "text": "Pack Limits — Herbivores"
       },
       {
         "type": "pack-entry",
         "text": "Ankylosaurus (Anky)",
-        "count": "2 dinosaurs",
+        "count": "Max 3",
         "diet": "herbivore"
       },
       {
         "type": "pack-entry",
         "text": "Stegosaurus",
-        "count": "2 dinosaurs",
+        "count": "Max 2",
         "diet": "herbivore"
       },
       {
         "type": "pack-entry",
         "text": "Triceratops",
-        "count": "2 dinosaurs",
+        "count": "Max 2",
         "diet": "herbivore"
       },
       {
         "type": "pack-entry",
         "text": "Diabloceratops",
-        "count": "4 dinosaurs",
+        "count": "Max 4",
         "diet": "herbivore"
       },
       {
         "type": "pack-entry",
         "text": "Kentrosaurus",
-        "count": "4 dinosaurs",
+        "count": "Max 4",
         "diet": "herbivore"
       },
       {
         "type": "pack-entry",
         "text": "Maiasaura",
-        "count": "5 dinosaurs",
+        "count": "Max 5",
         "diet": "herbivore"
       },
       {
         "type": "pack-entry",
         "text": "Tenontosaurus",
-        "count": "5 dinosaurs",
+        "count": "Max 5",
         "diet": "herbivore"
       },
       {
         "type": "pack-entry",
         "text": "Pachycephalosaurus",
-        "count": "6 dinosaurs",
+        "count": "Max 6",
         "diet": "herbivore"
       },
       {
         "type": "pack-entry",
         "text": "Dryosaurus",
-        "count": "10 dinosaurs",
+        "count": "Max 10",
         "diet": "herbivore"
       },
       {
         "type": "pack-entry",
         "text": "Hypsilophodon",
-        "count": "10 dinosaurs",
+        "count": "Max 10",
         "diet": "herbivore"
       },
       {
         "type": "subhead",
-        "text": "Pack Limit — Carnivore / carnivores and others"
+        "text": "Pack Limits — Carnivores and Other Species"
       },
       {
         "type": "pack-entry",
         "text": "Herrerasaurus",
-        "count": "10 dinosaurs",
+        "count": "Max 10",
         "diet": "carnivore"
       },
       {
         "type": "pack-entry",
         "text": "Omniraptor",
-        "count": "8 dinosaurs",
+        "count": "Max 8",
         "diet": "carnivore"
       },
       {
         "type": "pack-entry",
         "text": "Pteranodon",
-        "count": "10 dinosaurs",
+        "count": "Max 10",
         "diet": "carnivore"
       },
       {
         "type": "pack-entry",
         "text": "Ceratosaurus",
-        "count": "5 dinosaurs",
+        "count": "Max 5",
         "diet": "carnivore"
       },
       {
         "type": "pack-entry",
         "text": "Dilophosaurus",
-        "count": "5 dinosaurs",
+        "count": "Max 5",
         "diet": "carnivore"
       },
       {
         "type": "pack-entry",
         "text": "Allosaurus",
-        "count": "3 dinosaurs",
+        "count": "Max 3",
         "diet": "carnivore"
       },
       {
         "type": "pack-entry",
         "text": "Deinosuchus",
-        "count": "2 dinosaurs",
+        "count": "Max 2",
         "diet": "carnivore"
       },
       {
         "type": "pack-entry",
         "text": "Tyrannosaurus (T-Rex)",
-        "count": "2 dinosaurs",
+        "count": "Max 2",
         "diet": "carnivore"
       },
       {
         "type": "pack-entry",
         "text": "Troodon",
-        "count": "10 dinosaurs",
+        "count": "Max 10",
         "diet": "carnivore"
       },
       {
         "type": "pack-entry",
         "text": "Austroraptor",
-        "count": "10 dinosaurs",
+        "count": "Max 10",
         "diet": "carnivore"
       },
       {
         "type": "pack-entry",
         "text": "Carnotaurus",
-        "count": "4 dinosaurs",
+        "count": "Max 4",
         "diet": "carnivore"
       },
       {
         "type": "pack-entry",
         "text": "Giganotosaurus (Giga)",
-        "count": "2 dinosaurs",
+        "count": "Max 2",
         "diet": "carnivore"
       },
       {
         "type": "pack-entry",
         "text": "Spinosaurus (Spino)",
-        "count": "Cannot form a party",
+        "count": "Max 2",
         "diet": "carnivore"
       }
     ]
@@ -921,27 +921,27 @@
       },
       {
         "type": "bullet",
-        "text": "The bridge area is considered a traffic area. Players of all species can use it to travel or cross to other areas as normal."
+        "text": "Bridges are passageways. Players of any species may use them to travel or cross to another area."
       },
       {
         "type": "bullet",
-        "text": "Do not take the bridge area as your own residence or regular area."
+        "text": "Do not claim a bridge as your territory or permanent home."
       },
       {
         "type": "bullet",
-        "text": "Do not rest, stay immersed, or congregate around the bridge for a long period of time. without reason related to travel"
+        "text": "Do not lie down, linger, or gather in groups on a bridge for long periods unless it is necessary for travel."
       },
       {
         "type": "bullet",
-        "text": "Do not use the bridge area as a meeting point, gathering point, or refuge area. To avoid danger from other areas"
+        "text": "Do not use bridges as meeting points, gathering spots, or safe areas to avoid danger elsewhere."
       },
       {
         "type": "bullet",
-        "text": "If necessary, stop near the bridge. You should leave the area when you are finished with your business or ready to continue your journey."
+        "text": "If you need to stop on a bridge, leave once you have finished or are ready to move on."
       },
       {
         "type": "bullet",
-        "text": "Players who intentionally disobey or repeatedly return to occupy areas may be punished according to server regulations."
+        "text": "Players who deliberately ignore these rules or repeatedly occupy bridges may be penalized."
       },
       {
         "type": "subhead",
@@ -949,31 +949,31 @@
       },
       {
         "type": "bullet",
-        "text": "Water sources are considered common areas that players of all species can use. It can also be used as a fighting area."
+        "text": "Water sources are shared areas open to all species. Fighting is allowed there."
       },
       {
         "type": "bullet",
-        "text": "Can come to drink water, find food, or hunt around water sources as usual."
+        "text": "You may drink, look for food, or hunt near water sources as normal."
       },
       {
         "type": "bullet",
-        "text": "Bodies of water are not private property. Do not prevent other players from accessing the water."
+        "text": "**Water sources are not private territory.** Do not prevent other players from reaching the water."
       },
       {
         "type": "bullet",
-        "text": "Do not soak, stay overnight, or settle near water sources for long periods of time. without necessary reasons"
+        "text": "Do not lie around, camp, or settle near water sources for long periods without a valid reason."
       },
       {
         "type": "bullet",
-        "text": "Do not gather in groups to block or control water sources. Until other players cannot come in and drink water."
+        "text": "Do not group up to surround or control a water source so that others cannot drink."
       },
       {
         "type": "bullet",
-        "text": "Ambushing or attacking water sources can be done as usual. As long as it doesn't violate the server's hunting rules."
+        "text": "Ambushing or attacking players near water is allowed as long as you follow the server's hunting rules."
       },
       {
         "type": "bullet",
-        "text": "When you finish drinking water or doing an activity You should leave the area to allow other players to use it."
+        "text": "After drinking or finishing your activity, move on so other players have a chance to use the area."
       }
     ]
   },
@@ -985,59 +985,59 @@
     "content": [
       {
         "type": "subhead",
-        "text": "1. Starting an attack and defending yourself"
+        "text": "1. Starting Fights and Self-Defense"
       },
       {
         "type": "paragraph",
-        "text": "Herbivore dinosaurs cannot be the first to attack plant-eating dinosaurs or meat-eating dinosaurs. Battles should be logical and consistent with the dinosaur's behavior and situation. Do not attack or start battles with other players without good reason."
+        "text": "Herbivores **must not attack other herbivores or carnivores first without a valid reason**. Any fight must make sense for the dinosaur's behavior and the situation. Do not start fights without justification."
       },
       {
         "type": "bullet",
-        "text": "Other players come too close to feel threatened or harassed."
+        "text": "Another player comes too close and acts threatening or disruptive."
       },
       {
         "type": "bullet",
-        "text": "was robbed of a food source"
+        "text": "Another player tries to take over your food source."
       },
       {
         "type": "note",
-        "text": "*Use cry 3 (hiss/roar) or Voice Chat to notify first. If the other party hasn't moved away yet, they can start attacking*."
+        "text": "*First warn the other player with **Call 3** (threat call) or Voice Chat. If they refuse to move away, you may attack.*"
       },
       {
         "type": "subhead",
-        "text": "2. Do not cooperate with meat-eating dinosaurs."
+        "text": "2. No Cooperation with Carnivores"
       },
       {
         "type": "paragraph",
-        "text": "All species of herbivorous dinosaurs are prohibited from forming alliances, joining groups, or providing assistance to carnivorous dinosaurs. Be it hunting, defending, chasing down enemies, or supporting during battle."
+        "text": "Herbivores must not form alliances, group up, or assist carnivores. This includes helping with hunts, defense, chasing enemies away, or fighting."
       },
       {
         "type": "subhead",
-        "text": "3. Mix Herd Gathering"
+        "text": "3. Mixed Herbivore Herds (Mix Herd)"
       },
       {
         "type": "bullet",
-        "text": "Herbivore species can travel or live together."
+        "text": "Different herbivore species may travel or stay together."
       },
       {
         "type": "bullet",
-        "text": "One herd can have a maximum of 3 species and a total of no more than 8 members."
+        "text": "A mixed herd may contain **up to 3 species and 8 dinosaurs total**."
       },
       {
         "type": "bullet",
-        "text": "The number of each species must not exceed the Pack Limit set by the game."
+        "text": "Each species must also stay within its own Pack Limit."
       },
       {
         "type": "bullet",
-        "text": "Swarming may not be used to cause the number of members of any species to exceed the limit. And the parties should be clearly divided."
+        "text": "Do not use mixed herds to exceed the limit for any species. Keep separate parties clearly defined."
       },
       {
         "type": "bullet",
-        "text": "If a predator attacks Herbivorous dinosaurs that are not part of the attacking party must retreat. Have the attacked party fight or flee from the hunter themselves."
+        "text": "If a predator attacks, herbivores outside the party being attacked must back away. Only the attacked party may fight back or escape."
       },
       {
         "type": "note",
-        "text": "*Exceptions: Triceratops, Stegosaurus, and Pachycephalosaurus. Cannot be grouped with other species in any case*"
+        "text": "*Exception: Triceratops, Stegosaurus, and Pachycephalosaurus may not group with other species under any circumstances.*"
       },
       {
         "type": "subhead",
@@ -1045,23 +1045,23 @@
       },
       {
         "type": "bullet",
-        "text": "Hypsilophodon Poison can be used to defend itself immediately when Carnivore comes close and poses a threat."
+        "text": "Hypsilophodon may immediately use its poison for self-defense when a carnivore comes close and poses a threat."
       },
       {
         "type": "bullet",
-        "text": "Do not use venom for Third Parties if Hypsilophodon Not involved in the event from the beginning"
+        "text": "Hypsilophodon must not use poison to third-party a fight it was not involved in from the start, except as allowed by the Mix Herd protection rule below."
       },
       {
         "type": "bullet",
-        "text": "In the case of Mix Herd, poison can be used to protect group members. Only when members are directly attacked or threatened."
+        "text": "In a Mix Herd, Hypsilophodon may use poison to protect group members **only when those members are directly attacked or threatened**."
       },
       {
         "type": "bullet",
-        "text": "Do not use poison on players repeatedly for no reason. Or chase them to cause trouble by spraying poison."
+        "text": "Do not repeatedly poison players without a reason or chase them just to harass them with poison."
       },
       {
         "type": "bullet",
-        "text": "If Carnivore withdraws from the situation Do not pursue to use poison. unless they come back to attack or threaten members of the group again"
+        "text": "If a carnivore withdraws, do not chase it to use poison unless it returns to attack or threaten your group again."
       },
       {
         "type": "subhead",
@@ -1089,147 +1089,147 @@
     "content": [
       {
         "type": "subhead",
-        "text": "Do not gather herds across species (No Mixpacking)."
+        "text": "No Mixpacking"
       },
       {
         "type": "note",
-        "text": "*To maintain balance and the natural playing style of each species. Players must abide by the following rules*"
+        "text": "*To maintain game balance and species-appropriate behavior, all carnivores must follow these rules.*"
       },
       {
         "type": "bullet",
-        "text": "Meat-eating dinosaurs must not cooperate, help, or form groups with herbivorous dinosaurs."
+        "text": "Carnivores must not team up, group with, or help herbivores."
       },
       {
         "type": "bullet",
-        "text": "Meat-eating dinosaurs of different species may not team up, hunt together, or help each other in battle."
+        "text": "Carnivores of different species must not team up, hunt together, or help each other fight."
       },
       {
         "type": "bullet",
-        "text": "Traveling, hunting, and playing in packs Must be done with dinosaurs of the same species only."
+        "text": "Traveling, hunting, and playing as a pack are allowed only with dinosaurs of the **same species**."
       },
       {
         "type": "bullet",
-        "text": "Do not travel, follow, or congregate with different species for long periods of time in a manner that suggests affiliation."
+        "text": "Do not travel, follow, or stay with another species for long periods in a way that suggests you are working together."
       },
       {
         "type": "bullet",
-        "text": "Can live in the same area as different species according to the situation. But you must not cooperate until you have an advantage over other players."
+        "text": "Different species may share the same area, but must not cooperate to gain an advantage over other players."
       },
       {
         "type": "subhead",
-        "text": "Eating the same people (Cannibalism)"
+        "text": "Cannibalism"
       },
       {
         "type": "bullet",
-        "text": "The server allows hunting, attacking, killing, and eating dinosaurs of the same species. But you have to play fair."
+        "text": "Hunting, attacking, killing, and eating dinosaurs of your own species is allowed, but must be done fairly."
       },
       {
         "type": "bullet",
-        "text": "Do not pretend to join the group, befriend, or act friendly. to wait for the right moment to attack members of the group"
+        "text": "Do not pretend to join a pack or act friendly just to get close enough to attack its members."
       },
       {
         "type": "bullet",
-        "text": "If you join the herd Do not use a member's trust to plan murder or betrayal."
+        "text": "Once you have joined a pack, do not abuse the trust of other members to plan a betrayal or kill them."
       },
       {
         "type": "subhead",
-        "text": "Possession of remains (Body Claim)"
+        "text": "Body Claim"
       },
       {
         "type": "bullet",
-        "text": "The player or pack that successfully kills the victim has first claim to the remains."
+        "text": "The player or pack that kills the prey has the first claim to its carcass."
       },
       {
         "type": "bullet",
-        "text": "Other players can try to snatch the remains. But the risk of fighting must be accepted. According to rules of battle no. 11"
+        "text": "Other players may challenge for the carcass, but must follow **Combat Rule 11** and accept the risk of fighting."
       },
       {
         "type": "bullet",
-        "text": "Do not pretend to be friendly in order to approach a wreck and attack based on trust."
+        "text": "Do not pretend to be friendly to get close to a carcass and then attack someone who trusted you."
       },
       {
         "type": "subhead",
-        "text": "Battle Intervention (Third Party)"
+        "text": "Third-Party Interference"
       },
       {
         "type": "bullet",
-        "text": "Do not assist any side in the fight."
+        "text": "Do not join a fight to help either side."
       },
       {
         "type": "bullet",
-        "text": "You must wait for the battle on both sides to end first. with one party completely dead or one party escaping. So you can challenge him to continue fighting."
+        "text": "Wait until the original fight has ended, either because one entire party has died or one side has successfully escaped, before challenging anyone to a new fight."
       },
       {
         "type": "subhead",
-        "text": "5. Rules for Troodon — Use of Venom (Venom)"
+        "text": "5. Troodon — Venom Rules"
       },
       {
         "type": "bullet",
-        "text": "Do not use poison to attack or harass other players. If there is no intention to hunt, fight, or defend oneself"
+        "text": "Do not use venom to attack or harass other players unless you intend to hunt, fight, or defend yourself."
       },
       {
         "type": "bullet",
-        "text": "Do not run in and bite the venom and then escape repeatedly just to create a nuisance. with no intention of hunting down the target"
+        "text": "Do not repeatedly run in, bite to apply venom, and run away just to annoy someone when you have no intention of hunting them."
       },
       {
         "type": "bullet",
-        "text": "Poison can be used to protect oneself, clear the way, or create an opportunity to escape. and is not considered disruptive."
+        "text": "Using venom to defend yourself, clear an escape route, or create an opportunity to flee is allowed and does not count as harassment."
       },
       {
         "type": "subhead",
-        "text": "Troodon — Hunting large dinosaurs."
+        "text": "Troodon — Hunting Large Dinosaurs"
       },
       {
         "type": "paragraph",
-        "text": "To hunt a sub-adult Deinosuchus, Tyrannosaurus, Stegosaurus, or Triceratops, your Troodon pack must have at least 4 members."
+        "text": "To initiate a hunt against a **Sub-Adult or older** Deinosuchus, Tyrannosaurus, Stegosaurus, or Triceratops, a Troodon pack must have **at least 4 members**."
       },
       {
         "type": "note",
-        "text": "*If there are less than 4 Troodons, do not take the initiative to hunt the said target. But you can still use poison or attack to protect yourself and escape*"
+        "text": "*With fewer than 4 Troodons, you may not initiate a hunt against these targets. You may still use venom or attack to defend yourself and escape.*"
       },
       {
         "type": "subhead",
-        "text": "6. Pteranodon-specific regulations — No Scouting / Metagaming"
+        "text": "6. Pteranodon — No Scouting or Metagaming"
       },
       {
         "type": "prohibit",
-        "text": "Scouting or taking advantage of the bird's-eye view to locate other players is prohibited. Then communicate via Discord or other channels to tell friends to strictly come hunting."
+        "text": "**Do not use Pteranodon's aerial view to scout other players' locations** and then tell friends through Discord or other channels so they can hunt those players."
       },
       {
         "type": "prohibit",
-        "text": "Do not act like a tracking drone. By purposely flying in circles, following or making noises and remaining above the target. To report real-time positions and movements to their hunting groups."
+        "text": "Do not act as a tracking drone by deliberately circling, following, or calling above a target to relay its location or movements in real time to your hunting group."
       },
       {
         "type": "prohibit",
-        "text": "Do not help cross-species (Mix-Packing / Metagaming) or act as a personal radar for other species of predatory dinosaurs. Because it is considered to create an advantage and seriously destroy the balance of the game."
+        "text": "Do not help other species by scouting for them (Mixpacking / Metagaming) or act as a personal radar for other carnivores. This creates an unfair advantage."
       },
       {
         "type": "prohibit",
-        "text": "Do not use the Pteranodon to spy on the player's location. Then switch the character back to another dinosaur to hunt the said target."
+        "text": "Do not scout a player's location as Pteranodon, then switch to another dinosaur to hunt that player."
       },
       {
         "type": "subhead",
-        "text": "7. Special Rules for Spinosaurus — Small Help"
+        "text": "7. Spinosaurus — Helping Juveniles Grow"
       },
       {
         "type": "bullet",
-        "text": "A large Spinosaurus can help raise a small Spinosaurus with no more than 50% growth."
+        "text": "An adult or larger Spinosaurus may help a smaller Spinosaurus with **50% growth or less**."
       },
       {
         "type": "bullet",
-        "text": "Big and small Spinosaurus do not count as being in the same party. and do not join parties together"
+        "text": "Spinosaurus may form a party of up to **2 members**."
       },
       {
         "type": "prohibit",
-        "text": "If a fight breaks out Both sides are prohibited from fighting or defending each other."
+        "text": "If an adult and juvenile are only using this assistance exception without being in the same party, they must not fight together or defend each other."
       },
       {
         "type": "bullet",
-        "text": "They can help each other only by sharing food."
+        "text": "When they are not in the same party, they may help each other **only by sharing food**."
       },
       {
         "type": "note",
-        "text": "*This rule was created to help young Spinosaurus who were too weak*"
+        "text": "*This exception exists to help young Spinosaurus that are not yet strong enough to survive alone.*"
       }
     ]
   },
@@ -1245,15 +1245,15 @@
       },
       {
         "type": "bullet",
-        "text": "It is a special species that can travel, form groups, or form alliances with all types of other dinosaur species."
+        "text": "Beipiaosaurus is a special species that may travel, group up, or form alliances with dinosaurs of any species."
       },
       {
         "type": "bullet",
-        "text": "Can coexist with both Herbivore and Carnivore without being considered Mixpacking."
+        "text": "It may stay with herbivores or carnivores without this counting as Mixpacking."
       },
       {
         "type": "bullet",
-        "text": "Unable to Third Party"
+        "text": "It **must not third-party** other players' fights."
       },
       {
         "type": "subhead",
@@ -1261,19 +1261,19 @@
       },
       {
         "type": "bullet",
-        "text": "You can travel, join herds, or form alliances with other species of herbivorous dinosaurs."
+        "text": "Gallimimus may travel, form herds, or cooperate with other herbivore species."
       },
       {
         "type": "bullet",
-        "text": "Cooperation or alliances with carnivorous dinosaurs are not allowed."
+        "text": "It must not cooperate or form alliances with carnivores."
       },
       {
         "type": "bullet",
-        "text": "Collaborating with Carnivore is considered Mixpacking and is against server rules."
+        "text": "Cooperating with carnivores counts as Mixpacking and breaks server rules."
       },
       {
         "type": "bullet",
-        "text": "Unable to Third Party"
+        "text": "It **must not third-party** other players' fights."
       }
     ]
   },
@@ -1285,84 +1285,84 @@
     "content": [
       {
         "type": "bullet",
-        "text": "Parents can only protect their children up to the percentage of growth specified by the game. When it grows beyond a certain age The game will automatically remove your child from the party."
+        "text": "Parents may protect their offspring only until they reach the growth percentage set by the game. Once that limit is reached, the game automatically removes the offspring from the party."
       },
       {
         "type": "bullet",
-        "text": "If there is a fight or there is a risk that the child will be hunted in front of you. Meanwhile, parents are letting their children grow up alone. Fathers and mothers can step in and protect their children."
+        "text": "If a fight breaks out or a predator threatens the offspring in front of their parents while the parents are in the process of letting them leave to grow independently, the parents may step in to protect them."
       },
       {
         "type": "note",
-        "text": "*If the child has gone out of sight It will be considered that the child has already left the herd*"
+        "text": "*Once the offspring is out of sight, it is considered to have left the pack.*"
       }
     ]
   },
   {
     "id": "penalties",
-    "title": "Penalty Rules",
+    "title": "Penalties and Appeals",
     "category": "PENALTY SYSTEM",
     "group": "Main Rules",
     "content": [
       {
         "type": "subhead",
-        "text": "Cumulative punishment system"
+        "text": "Progressive Penalty System"
       },
       {
         "type": "paragraph",
-        "text": "The server records the player's misconduct history. The punishment will increase according to the number of offenses committed."
+        "text": "The server keeps a record of rule violations. Penalties increase with repeated offenses."
       },
       {
         "type": "tier",
         "text": "Level 1",
-        "penalty": "Ban 1 hour"
+        "penalty": "1-hour ban"
       },
       {
         "type": "tier",
         "text": "Level 2",
-        "penalty": "Ban 12 hours"
+        "penalty": "12-hour ban"
       },
       {
         "type": "tier",
         "text": "Level 3",
-        "penalty": "Ban 1 day"
+        "penalty": "1-day ban"
       },
       {
         "type": "tier",
         "text": "Level 4",
-        "penalty": "Ban 3–7 days"
+        "penalty": "3–7-day ban"
       },
       {
         "type": "tier",
         "text": "Level 5",
-        "penalty": "Permanently banned"
+        "penalty": "Permanent ban"
       },
       {
         "type": "subhead",
-        "text": "Conditions and history reset"
+        "text": "Record Resets and Exceptions"
       },
       {
         "type": "bullet",
-        "text": "**Resetting History:** The system will clear the player's accumulated fault history every 1 month."
+        "text": "**Monthly reset:** A player's accumulated violation record is cleared every **1 month**."
       },
       {
         "type": "bullet",
-        "text": "**Exceptions:** Serious offenses such as using cheating programs or exploiting bugs/vulnerabilities to take advantage of others. Accumulated history will not be reset. and may receive the highest punishment immediately according to the consideration of the team."
+        "text": "**Exceptions:** Serious offenses, such as cheating or exploiting bugs to gain an unfair advantage, are **not reset** and may result in an immediate maximum penalty at staff's discretion."
       },
       {
         "type": "subhead",
-        "text": "Appeal conditions"
+        "text": "Appeals"
       },
       {
         "type": "bullet",
-        "text": "**Submission channel:** If you think the decision is unfair, you can open a ticket to submit an appeal."
+        "text": "**How to appeal:** If you believe a decision was unfair, open a Ticket to request a review."
       },
       {
         "type": "bullet",
-        "text": "**Accompanying evidence:** Replay F2 of the game, video clip or other clear evidence must be attached. for reconsideration"
+        "text": "**Required evidence:** Attach an F2 replay, video, or other clear evidence to support your appeal."
       },
       {
         "type": "note",
-        "text": "*The decision of the team after considering the appeal evidence is final*"
+        "text": "*The staff decision after reviewing an appeal is final.*"
       }
     ]
   }
