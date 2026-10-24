@@ -507,15 +507,15 @@
       },
       {
         "type": "bullet",
-        "text": "Việc săn bắn chủ yếu là để sinh tồn và kiếm thức ăn. Tránh tấn công hoặc giết chóc chỉ vì nó có cơ hội giết người."
+        "text": "Đối với khủng long ăn thịt: Việc săn bắn chủ yếu là để sinh tồn và kiếm thức ăn. Tránh tấn công hoặc giết chóc chỉ vì nó có cơ hội giết người."
       },
       {
         "type": "bullet",
-        "text": "Chúng có thể tấn công hoặc tiêu diệt đối thủ cạnh tranh để bảo vệ nguồn cung cấp thực phẩm hoặc tăng cơ hội tìm thấy thức ăn. Phải tính đến hoàn cảnh và quy mô của đối thủ."
+        "text": "Đối với khủng long ăn thịt: Chúng có thể tấn công hoặc tiêu diệt đối thủ cạnh tranh để bảo vệ nguồn cung cấp thực phẩm hoặc tăng cơ hội tìm thấy thức ăn. Phải tính đến hoàn cảnh và quy mô của đối thủ."
       },
       {
         "type": "bullet",
-        "text": "Con non chỉ có thể bị săn bắt vì lý do thức ăn hoặc sinh tồn. Nếu bạn giết nó và không ăn nó hoặc không có lý do rõ ràng. Có thể coi đó là giết người cho vui."
+        "text": "Đối với khủng long ăn thịt: Con non chỉ có thể bị săn bắt vì lý do thức ăn hoặc sinh tồn. Nếu bạn giết nó và không ăn nó hoặc không có lý do rõ ràng. Có thể coi đó là giết người cho vui."
       },
       {
         "type": "prohibit",
@@ -523,11 +523,27 @@
       },
       {
         "type": "prohibit",
-        "text": "Đừng giết người chơi chỉ vì họ có thể bị giết. Đuổi theo không vì lý do sinh tồn. Hoặc giết cùng một người chơi nhiều lần mà không có bất kỳ lời biện minh nào."
+        "text": "Đối với khủng long ăn thịt: Đừng giết người chơi chỉ vì họ có thể bị giết. Đuổi theo không vì lý do sinh tồn. Hoặc giết cùng một người chơi nhiều lần mà không có bất kỳ lời biện minh nào."
       },
       {
         "type": "note",
-        "text": "*Nhóm sẽ xem xét nhu cầu thực phẩm. Tình huống và không gian Kích thước và loài Số lần bị rượt đuổi hoặc tấn công Ăn sau khi giết và hành vi trước và sau sự kiện*"
+        "text": "Đối với khủng long ăn thịt: *Nhóm sẽ xem xét nhu cầu thực phẩm. Tình huống và không gian Kích thước và loài Số lần bị rượt đuổi hoặc tấn công Ăn sau khi giết và hành vi trước và sau sự kiện*"
+      },
+      {
+        "type": "bullet",
+        "text": "Khủng long ăn cỏ có thể chủ động tấn công và giết đối thủ theo quy tắc Herbivore Combat mà không cần lý do thức ăn hay sinh tồn, và không bắt buộc ăn xác sau đó."
+      },
+      {
+        "type": "bullet",
+        "text": "Việc khủng long ăn cỏ tấn công hoặc giết đối thủ, kể cả con non, không bị coi là vi phạm chỉ vì không có lý do thức ăn hoặc không ăn xác."
+      },
+      {
+        "type": "bullet",
+        "text": "Không được liên tục săn giết cùng một người chơi để bắt nạt hoặc quấy rối. Quy tắc Revenge Killing vẫn áp dụng."
+      },
+      {
+        "type": "bullet",
+        "text": "Đội ngũ quản trị sẽ xem xét hành vi và bằng chứng; không xử phạt khủng long ăn cỏ chỉ vì không ăn xác."
       },
       {
         "type": "subhead",
@@ -583,7 +599,7 @@
       },
       {
         "type": "bullet",
-        "text": "Phần còn lại của trận chiến thuộc về người chiến thắng trước tiên. Những loài khủng long ăn thịt khác có thể đến và thách thức."
+        "text": "Đối với khủng long ăn thịt: Phần còn lại của trận chiến thuộc về người chiến thắng trước tiên. Những loài khủng long ăn thịt khác có thể đến và thách thức."
       },
       {
         "type": "bullet",
@@ -607,7 +623,19 @@
       },
       {
         "type": "prohibit",
-        "text": "Không tấn công nhóm vừa kết thúc trận chiến mà không hoàn thành bước Thử thách ở lại. Hành động này có thể coi là giết người cho vui."
+        "text": "Đối với khủng long ăn thịt: Không tấn công nhóm vừa kết thúc trận chiến mà không hoàn thành bước Thử thách ở lại. Hành động này có thể coi là giết người cho vui."
+      },
+      {
+        "type": "bullet",
+        "text": "Thủ tục thách đấu giành xác bằng tiếng kêu 3 và chờ phản hồi 20 giây áp dụng cho khủng long ăn thịt muốn giành xác."
+      },
+      {
+        "type": "bullet",
+        "text": "Khủng long ăn cỏ không được dùng thủ tục thách đấu giành xác để chiếm giữ, canh xác hoặc ngăn người chơi khác tiếp cận xác."
+      },
+      {
+        "type": "bullet",
+        "text": "Trước khi mở trận giao tranh mới với người chơi vừa kết thúc chiến đấu, khủng long ăn cỏ phải chờ trận trước kết thúc rõ ràng theo quy tắc Third Party. Không được phục kích hoặc cản trở người chơi đến ăn xác theo quy tắc No Body Guarding."
       },
       {
         "type": "subhead",
@@ -707,11 +735,11 @@
       },
       {
         "type": "bullet",
-        "text": "Nếu bị tấn công trong quá trình tương tác Mỗi bên phải chia ra và bỏ chạy theo các hướng khác nhau. Chỉ bên tấn công mới có thể ở lại khu vực để đáp trả và chiến đấu."
+        "text": "Khi xảy ra giao tranh, dù khủng long ăn cỏ là bên chủ động tấn công hay bị tấn công, chỉ những party trực tiếp đối đầu mới được tham gia. Các party không liên quan phải lập tức rời khu vực và ra khỏi phạm vi nghe trong game. Không được hỗ trợ tấn công, chặn đường thoát hoặc tạo lợi thế cho bất kỳ bên nào. Hypsilophodon chỉ được bảo vệ thành viên Mix Herd theo ngoại lệ tại Quy tắc khủng long ăn cỏ số 4 — Hypsilophodon Rules."
       },
       {
         "type": "bullet",
-        "text": "Khủng long ăn cỏ có thể nhóm lại với nhau và nói chuyện trong khu vực The Pit mà không bị coi là Mixpack hay Overpack, nhưng chúng không được tụ tập gần nguồn nước. và phải được phân chia rõ ràng thành các nhóm Nếu cuộc săn xảy ra. Những người chơi khác không thuộc nhóm của bên tấn công sẽ không có quyền của Bên thứ ba."
+        "text": "Khủng long ăn cỏ có thể tụ tập trò chuyện tại The Pit mà không bị tính là Mixpack hoặc Overpack, nhưng không được tụ tập gần nguồn nước và phải phân chia party rõ ràng. Việc ở cùng Mix Herd hoặc trò chuyện tại The Pit không cho phép các party khác nhau hỗ trợ chiến đấu, ngoại trừ trường hợp được nêu trong quy tắc Hypsilophodon số 4."
       },
       {
         "type": "subhead",
@@ -739,7 +767,7 @@
       },
       {
         "type": "bullet",
-        "text": "Hypsilophodon chỉ áp dụng cho Động vật ăn cỏ. Có thể là Bên thứ ba theo Quy tắc khủng long ăn cỏ, Phần 4, Đàn hỗn hợp."
+        "text": "Hypsilophodon chỉ được ở cùng khủng long ăn cỏ và có thể bảo vệ thành viên Mix Herd theo Quy tắc khủng long ăn cỏ số 4 — Hypsilophodon Rules."
       },
       {
         "type": "bullet",
@@ -985,23 +1013,23 @@
     "content": [
       {
         "type": "subhead",
-        "text": "1. Bắt đầu tấn công và tự vệ"
-      },
-      {
-        "type": "paragraph",
-        "text": "Khủng long ăn cỏ không thể là loài đầu tiên tấn công khủng long ăn thực vật hay khủng long ăn thịt. Các trận chiến phải hợp lý và phù hợp với hành vi và tình huống của khủng long. Không tấn công hoặc bắt đầu trận chiến với người chơi khác mà không có lý do chính đáng."
+        "text": "1. Giao tranh của khủng long ăn cỏ (Herbivore Combat)"
       },
       {
         "type": "bullet",
-        "text": "Những người chơi khác đến quá gần sẽ cảm thấy bị đe dọa hoặc quấy rối."
+        "text": "Mọi loài khủng long ăn cỏ đều có thể chủ động tấn công, truy đuổi hoặc giao tranh với khủng long ăn thịt và khủng long ăn cỏ khác, ngay cả khi chưa bị tấn công hay đe dọa trước."
       },
       {
         "type": "bullet",
-        "text": "bị cướp mất nguồn thức ăn"
+        "text": "Không cần lý do tự vệ, tranh giành thức ăn hoặc xâm phạm lãnh thổ. Không bắt buộc dùng tiếng kêu hay Voice Chat để cảnh báo trước khi mở một trận giao tranh thông thường."
       },
       {
-        "type": "note",
-        "text": "*Sử dụng tiếng kêu 3 (tiếng rít/gầm) hoặc Voice Chat để thông báo trước. Nếu bên kia vẫn chưa rời đi, họ có thể bắt đầu tấn công*."
+        "type": "bullet",
+        "text": "Khi đổi mục tiêu từ một trận giao tranh đang diễn ra, phải kết thúc trận cũ hoặc rút lui rõ ràng, sau đó dùng tiếng kêu 1 hoặc 3 hướng về mục tiêu mới trước khi tấn công, theo Quy tắc giao tranh số 6."
+      },
+      {
+        "type": "bullet",
+        "text": "Vẫn phải tuân thủ các quy tắc khác của máy chủ, bao gồm Party Fighting, Third Party, Team Killing, Pack Limit, Mixpacking và thời gian cấm giao tranh trước và sau khi khởi động lại máy chủ."
       },
       {
         "type": "subhead",
@@ -1033,7 +1061,19 @@
       },
       {
         "type": "bullet",
-        "text": "Nếu kẻ săn mồi tấn công khủng long ăn cỏ không thuộc nhóm tấn công phải rút lui. Yêu cầu bên bị tấn công chiến đấu hoặc tự mình chạy trốn khỏi thợ săn."
+        "text": "Khi xảy ra giao tranh, dù khủng long ăn cỏ là bên chủ động tấn công hay bị tấn công, chỉ những party trực tiếp đối đầu mới được tham gia."
+      },
+      {
+        "type": "bullet",
+        "text": "Các party không liên quan phải lập tức rời khu vực và ra khỏi phạm vi nghe trong game. Không được hỗ trợ tấn công, chặn đường thoát hoặc tạo lợi thế cho bất kỳ bên nào."
+      },
+      {
+        "type": "bullet",
+        "text": "Không được dùng Mix Herd để cùng săn hoặc phối hợp tấn công giữa các party khác nhau."
+      },
+      {
+        "type": "bullet",
+        "text": "Hypsilophodon chỉ được bảo vệ thành viên Mix Herd theo ngoại lệ tại Quy tắc khủng long ăn cỏ số 4 — Hypsilophodon Rules."
       },
       {
         "type": "note",
@@ -1045,39 +1085,43 @@
       },
       {
         "type": "bullet",
-        "text": "Chất độc Hypsilophodon có thể được sử dụng để tự vệ ngay lập tức khi Carnivore đến gần và gây ra mối đe dọa."
+        "text": "Hypsilophodon có thể dùng độc để chủ động giao tranh, tấn công hoặc tự vệ theo quy tắc Herbivore Combat mà không cần bị đe dọa trước."
       },
       {
         "type": "bullet",
-        "text": "Không sử dụng nọc độc cho Bên thứ ba nếu Hypsilophodon không tham gia sự kiện ngay từ đầu"
+        "text": "Không được dùng độc để can thiệp vào trận giao tranh mà mình không tham gia từ đầu, ngoại trừ việc bảo vệ thành viên Mix Herd theo ngoại lệ bên dưới."
       },
       {
         "type": "bullet",
-        "text": "Trong trường hợp Mix Herd, chất độc có thể được sử dụng để bảo vệ các thành viên trong nhóm. Chỉ khi các thành viên bị tấn công hoặc đe dọa trực tiếp."
+        "text": "Trong Mix Herd, có thể dùng độc để bảo vệ thành viên bị tấn công hoặc đe dọa trực tiếp. Không được dùng ngoại lệ này để giúp thành viên đã chủ động tấn công người khác trước."
       },
       {
         "type": "bullet",
-        "text": "Không sử dụng chất độc lên người chơi nhiều lần mà không có lý do. Hoặc đuổi theo chúng để gây rắc rối bằng cách phun thuốc độc."
+        "text": "Không được liên tục phun độc hoặc truy đuổi chỉ để quấy rối mà không có ý định giao tranh."
       },
       {
         "type": "bullet",
-        "text": "Nếu Động vật ăn thịt rút lui khỏi tình huống Đừng truy đuổi để sử dụng chất độc. trừ khi họ quay lại tấn công hoặc đe dọa các thành viên trong nhóm lần nữa"
+        "text": "Khi trận giao tranh vẫn đang diễn ra, có thể truy đuổi đối thủ theo quy tắc giao tranh và kết thúc giao tranh của máy chủ."
       },
       {
         "type": "subhead",
-        "text": "5. Aggressive Herbivores"
+        "text": "5. Cấm canh xác (No Body Guarding)"
       },
       {
-        "type": "paragraph",
-        "text": "Pachycephalosaurus và Gallimimus được xem là những loài có bản tính hung dữ."
+        "type": "prohibit",
+        "text": "Khủng long ăn cỏ không được canh giữ, chiếm giữ hoặc bao vây xác để ngăn người chơi khác đến ăn, dù xác đó đến từ trận chiến của mình hay của người khác."
       },
       {
-        "type": "bullet",
-        "text": "Chúng có thể chủ động tấn công khủng long ăn thịt ngay cả khi chưa bị tấn công trước."
+        "type": "prohibit",
+        "text": "Khi giao tranh kết thúc, phải rời khu vực có xác. Không được chờ tại đó hoặc quay lại để tấn công người chơi đến ăn xác."
       },
       {
-        "type": "bullet",
-        "text": "Chúng có thể chủ động tấn công Pachycephalosaurus hoặc Gallimimus thuộc đàn khác ngay cả khi chưa bị tấn công trước."
+        "type": "prohibit",
+        "text": "Không được dùng xác làm mồi nhử để phục kích, hoặc để các thành viên party thay phiên nhau canh xác."
+      },
+      {
+        "type": "prohibit",
+        "text": "Quyền chủ động tấn công của khủng long ăn cỏ không miễn trừ quy tắc cấm canh xác này."
       }
     ]
   },

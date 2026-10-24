@@ -507,15 +507,15 @@
       },
       {
         "type": "bullet",
-        "text": "Hunting should primarily be for **food and survival**. Do not attack or kill simply because you have an opportunity to do so."
+        "text": "For carnivores: Hunting should primarily be for **food and survival**. Do not attack or kill simply because you have an opportunity to do so."
       },
       {
         "type": "bullet",
-        "text": "You may attack or kill a rival to protect a food source or improve your chances of finding food. Consider the situation and the size of your opponent."
+        "text": "For carnivores: You may attack or kill a rival to protect a food source or improve your chances of finding food. Consider the situation and the size of your opponent."
       },
       {
         "type": "bullet",
-        "text": "You may hunt juveniles for food or survival. Killing a juvenile without eating it or without a clear reason may be treated as killing for fun."
+        "text": "For carnivores: You may hunt juveniles for food or survival. Killing a juvenile without eating it or without a clear reason may be treated as killing for fun."
       },
       {
         "type": "prohibit",
@@ -523,11 +523,27 @@
       },
       {
         "type": "prohibit",
-        "text": "Do not kill players just because you can, chase them without a survival-related reason, or repeatedly kill the same player without justification."
+        "text": "For carnivores: Do not kill players just because you can, chase them without a survival-related reason, or repeatedly kill the same player without justification."
       },
       {
         "type": "note",
-        "text": "*Staff will consider food needs, location, circumstances, species and size, repeated chasing or attacks, whether the kill was eaten, and behavior before and after the incident.*"
+        "text": "For carnivores: *Staff will consider food needs, location, circumstances, species and size, repeated chasing or attacks, whether the kill was eaten, and behavior before and after the incident.*"
+      },
+      {
+        "type": "bullet",
+        "text": "Herbivores may initiate attacks and kill opponents under Herbivore Combat rules without a food or survival reason, and do not need to eat the carcass afterward."
+      },
+      {
+        "type": "bullet",
+        "text": "An attack or kill by a herbivore, including an attack on a juvenile, is not a violation solely because there was no food-related reason or the carcass was not eaten."
+      },
+      {
+        "type": "bullet",
+        "text": "Do not repeatedly hunt down the same player to bully or harass them. Revenge Killing rules still apply."
+      },
+      {
+        "type": "bullet",
+        "text": "Staff will consider behavior and evidence. A herbivore must not be penalized solely for not eating a carcass."
       },
       {
         "type": "subhead",
@@ -583,7 +599,7 @@
       },
       {
         "type": "bullet",
-        "text": "The winning side of a fight has first claim to the carcass. Other carnivores may challenge them for it."
+        "text": "For carnivores: The winning side of a fight has first claim to the carcass. Other carnivores may challenge them for it."
       },
       {
         "type": "bullet",
@@ -607,7 +623,19 @@
       },
       {
         "type": "prohibit",
-        "text": "Do not attack a group that has just finished a fight without following the carcass challenge procedure. This may be considered killing for fun."
+        "text": "For carnivores: Do not attack a group that has just finished a fight without following the carcass challenge procedure. This may be considered killing for fun."
+      },
+      {
+        "type": "bullet",
+        "text": "The carcass challenge procedure using Call 3 and a 20-second response period applies to carnivores seeking to claim a carcass."
+      },
+      {
+        "type": "bullet",
+        "text": "Herbivores must not use the carcass challenge procedure to claim or guard a carcass or deny others access to it."
+      },
+      {
+        "type": "bullet",
+        "text": "Before initiating a new fight against players who have just finished combat, herbivores must wait until the previous fight has clearly ended under Third Party rules. They must not ambush or obstruct players coming to eat a carcass, as prohibited by No Body Guarding."
       },
       {
         "type": "subhead",
@@ -707,11 +735,11 @@
       },
       {
         "type": "bullet",
-        "text": "If an attack happens during a social interaction, each party must flee in a different direction. Only the party being attacked may remain to defend itself or fight."
+        "text": "When a fight starts, whether herbivores initiated it or were attacked, only the parties directly involved as opponents may participate. Uninvolved parties must immediately leave the area and move beyond in-game hearing range. They must not help attack, block escape routes, or give either side an advantage. Hypsilophodon may protect Mix Herd members only under the exception in Herbivore Rule 4 — Hypsilophodon Rules."
       },
       {
         "type": "bullet",
-        "text": "Herbivores may gather and socialize at **The Pit** without this counting as Mixpacking or Overpacking. However, they must not gather near water sources, and each party should remain clearly separate. If a hunt begins, anyone outside the attacked party must not third-party the fight."
+        "text": "Herbivores may gather socially at The Pit without this counting as Mixpacking or Overpacking, but must not gather near water and must keep parties clearly separated. Being in a Mix Herd or socializing at The Pit does not allow separate parties to help each other fight, except under Hypsilophodon Rule 4."
       },
       {
         "type": "subhead",
@@ -739,7 +767,7 @@
       },
       {
         "type": "bullet",
-        "text": "**Hypsilophodon:** May group only with herbivores. Third-party involvement is allowed only as specified in Herbivore Rule 4 (Hypsilophodon Rules)."
+        "text": "Hypsilophodon may associate with herbivores only and may protect Mix Herd members under Herbivore Rule 4 — Hypsilophodon Rules."
       },
       {
         "type": "bullet",
@@ -985,23 +1013,23 @@
     "content": [
       {
         "type": "subhead",
-        "text": "1. Starting Fights and Self-Defense"
-      },
-      {
-        "type": "paragraph",
-        "text": "Herbivores **must not attack other herbivores or carnivores first without a valid reason**. Any fight must make sense for the dinosaur's behavior and the situation. Do not start fights without justification."
+        "text": "1. Herbivore Combat"
       },
       {
         "type": "bullet",
-        "text": "Another player comes too close and acts threatening or disruptive."
+        "text": "All herbivore species may initiate attacks, chase, or fight carnivores and other herbivores, even if they have not been attacked or threatened first."
       },
       {
         "type": "bullet",
-        "text": "Another player tries to take over your food source."
+        "text": "No reason involving self-defense, food competition, or territorial intrusion is required. Calls or Voice Chat warnings are not required before initiating an ordinary fight."
       },
       {
-        "type": "note",
-        "text": "*First warn the other player with **Call 3** (threat call) or Voice Chat. If they refuse to move away, you may attack.*"
+        "type": "bullet",
+        "text": "When switching targets from an existing fight, you must end the original fight or clearly withdraw, then use Call 1 or Call 3 toward the new target before attacking, as required by Combat Rule 6."
+      },
+      {
+        "type": "bullet",
+        "text": "All other server rules still apply, including Party Fighting, Third Party, Team Killing, Pack Limits, Mixpacking, and the no-combat periods before and after server restarts."
       },
       {
         "type": "subhead",
@@ -1033,7 +1061,19 @@
       },
       {
         "type": "bullet",
-        "text": "If a predator attacks, herbivores outside the party being attacked must back away. Only the attacked party may fight back or escape."
+        "text": "When a fight starts, whether herbivores initiated it or were attacked, only the parties directly involved as opponents may participate."
+      },
+      {
+        "type": "bullet",
+        "text": "Uninvolved parties must immediately leave the area and move beyond in-game hearing range. They must not help attack, block escape routes, or give either side an advantage."
+      },
+      {
+        "type": "bullet",
+        "text": "Do not use a Mix Herd to hunt or attack together across separate parties."
+      },
+      {
+        "type": "bullet",
+        "text": "Hypsilophodon may protect Mix Herd members only under the exception in Herbivore Rule 4 — Hypsilophodon Rules."
       },
       {
         "type": "note",
@@ -1045,39 +1085,43 @@
       },
       {
         "type": "bullet",
-        "text": "Hypsilophodon may immediately use its poison for self-defense when a carnivore comes close and poses a threat."
+        "text": "Hypsilophodon may use poison to initiate combat, attack, or defend itself under Herbivore Combat rules, without being threatened first."
       },
       {
         "type": "bullet",
-        "text": "Hypsilophodon must not use poison to third-party a fight it was not involved in from the start, except as allowed by the Mix Herd protection rule below."
+        "text": "Do not use poison to interfere in a fight you were not involved in from the start, except to protect Mix Herd members under the exception below."
       },
       {
         "type": "bullet",
-        "text": "In a Mix Herd, Hypsilophodon may use poison to protect group members **only when those members are directly attacked or threatened**."
+        "text": "In a Mix Herd, poison may be used to protect members who are directly attacked or threatened. This exception must not be used to help a member who initiated the attack."
       },
       {
         "type": "bullet",
-        "text": "Do not repeatedly poison players without a reason or chase them just to harass them with poison."
+        "text": "Do not repeatedly use poison or chase players solely to harass them without an intention to fight."
       },
       {
         "type": "bullet",
-        "text": "If a carnivore withdraws, do not chase it to use poison unless it returns to attack or threaten your group again."
+        "text": "While a fight is still ongoing, you may pursue the opponent according to the server rules on combat and when fights end."
       },
       {
         "type": "subhead",
-        "text": "5. Aggressive Herbivores"
+        "text": "5. No Body Guarding"
       },
       {
-        "type": "paragraph",
-        "text": "Pachycephalosaurus and Gallimimus are naturally aggressive species."
+        "type": "prohibit",
+        "text": "Herbivores must not guard, claim, or surround a carcass to prevent other players from eating it, whether it came from their own fight or someone else’s."
       },
       {
-        "type": "bullet",
-        "text": "They may initiate an attack against carnivores even if they were not attacked first."
+        "type": "prohibit",
+        "text": "Once the fight ends, herbivores must leave the carcass area. Do not wait there or return to attack players who come to eat it."
       },
       {
-        "type": "bullet",
-        "text": "They may initiate an attack against Pachycephalosaurus or Gallimimus from another herd even if they were not attacked first."
+        "type": "prohibit",
+        "text": "Do not use carcasses as bait for ambushes or have party members take turns guarding them."
+      },
+      {
+        "type": "prohibit",
+        "text": "Permission for herbivores to initiate attacks does not exempt them from this No Body Guarding rule."
       }
     ]
   },
