@@ -802,7 +802,7 @@
       {
         "type": "pack-entry",
         "text": "Stegosaurus",
-        "count": "Max 2",
+        "count": "Max 3",
         "diet": "herbivore"
       },
       {
@@ -814,19 +814,19 @@
       {
         "type": "pack-entry",
         "text": "Diabloceratops",
-        "count": "Max 4",
+        "count": "Max 5",
         "diet": "herbivore"
       },
       {
         "type": "pack-entry",
         "text": "Kentrosaurus",
-        "count": "Max 4",
+        "count": "Max 5",
         "diet": "herbivore"
       },
       {
         "type": "pack-entry",
         "text": "Maiasaura",
-        "count": "Max 5",
+        "count": "Max 6",
         "diet": "herbivore"
       },
       {
@@ -838,7 +838,7 @@
       {
         "type": "pack-entry",
         "text": "Pachycephalosaurus",
-        "count": "Max 6",
+        "count": "Max 8",
         "diet": "herbivore"
       },
       {

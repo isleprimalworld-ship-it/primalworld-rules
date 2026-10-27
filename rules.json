@@ -802,7 +802,7 @@
       {
         "type": "pack-entry",
         "text": "Stegosaurus",
-        "count": "2 ตัว",
+        "count": "3 ตัว",
         "diet": "herbivore"
       },
       {
@@ -814,19 +814,19 @@
       {
         "type": "pack-entry",
         "text": "Diabloceratops",
-        "count": "4 ตัว",
+        "count": "5 ตัว",
         "diet": "herbivore"
       },
       {
         "type": "pack-entry",
         "text": "Kentrosaurus",
-        "count": "4 ตัว",
+        "count": "5 ตัว",
         "diet": "herbivore"
       },
       {
         "type": "pack-entry",
         "text": "Maiasaura",
-        "count": "5 ตัว",
+        "count": "6 ตัว",
         "diet": "herbivore"
       },
       {
@@ -838,7 +838,7 @@
       {
         "type": "pack-entry",
         "text": "Pachycephalosaurus",
-        "count": "6 ตัว",
+        "count": "8 ตัว",
         "diet": "herbivore"
       },
       {
