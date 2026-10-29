@@ -546,6 +546,10 @@
         "text": "Staff will consider behavior and evidence. A herbivore must not be penalized solely for not eating a carcass."
       },
       {
+        "type": "note",
+        "text": "Exception to hunting-motive requirements: Players with a bounty may be hunted under Combat Rule 13 — Bounty Hunting. All combat rules still apply, and third-party interference is strictly prohibited."
+      },
+      {
         "type": "subhead",
         "text": "8. No Combat Spawning"
       },
@@ -652,6 +656,22 @@
       {
         "type": "bullet",
         "text": "Once both sides have separated and combat is no longer ongoing, the encounter is over."
+      },
+      {
+        "type": "subhead",
+        "text": "13. Bounty Hunting"
+      },
+      {
+        "type": "bullet",
+        "text": "Players with a bounty may be pursued and killed without a food, survival, or other additional reason. The bounty on the target is a valid reason to hunt them."
+      },
+      {
+        "type": "bullet",
+        "text": "This exception waives only the requirement for a reason to hunt. Bounty hunters must still follow every existing combat rule and all other server rules."
+      },
+      {
+        "type": "prohibit",
+        "text": "Third-party interference is strictly prohibited during bounty hunting, even for species that normally have a Third Party exception. If the target is fighting someone else, wait until that fight has clearly ended before starting the hunt. A bounty must never be used as an excuse to interfere in a fight."
       }
     ]
   },

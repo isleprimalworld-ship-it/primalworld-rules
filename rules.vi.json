@@ -546,6 +546,10 @@
         "text": "Đội ngũ quản trị sẽ xem xét hành vi và bằng chứng; không xử phạt khủng long ăn cỏ chỉ vì không ăn xác."
       },
       {
+        "type": "note",
+        "text": "Ngoại lệ về lý do săn: Có thể săn người chơi đang bị treo thưởng theo Quy tắc giao tranh số 13 — Săn tiền thưởng. Vẫn phải tuân thủ mọi quy tắc giao tranh và nghiêm cấm Third Party."
+      },
+      {
         "type": "subhead",
         "text": "8. Không sinh sản khi chiến đấu"
       },
@@ -652,6 +656,22 @@
       {
         "type": "bullet",
         "text": "Khi hai bên tách ra và không có giao tranh liên tục. Tình hình coi như đã xong."
+      },
+      {
+        "type": "subhead",
+        "text": "13. Săn tiền thưởng (Bounty Hunting)"
+      },
+      {
+        "type": "bullet",
+        "text": "Có thể truy đuổi và giết người chơi đang bị treo thưởng mà không cần lý do về thức ăn, sinh tồn hay lý do bổ sung khác. Tiền thưởng trên mục tiêu được coi là lý do hợp lệ để săn."
+      },
+      {
+        "type": "bullet",
+        "text": "Ngoại lệ này chỉ miễn yêu cầu về lý do săn. Người săn tiền thưởng vẫn phải tuân thủ tất cả các quy tắc giao tranh hiện có và các quy tắc khác của máy chủ."
+      },
+      {
+        "type": "prohibit",
+        "text": "Nghiêm cấm Third Party khi săn tiền thưởng, kể cả đối với loài thường được hưởng ngoại lệ Third Party. Nếu mục tiêu đang giao tranh với người khác, phải chờ trận đó kết thúc rõ ràng trước khi bắt đầu săn. Không được lấy tiền thưởng làm lý do để can thiệp vào trận giao tranh."
       }
     ]
   },
