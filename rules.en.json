@@ -491,7 +491,7 @@
       },
       {
         "type": "bullet",
-        "text": "To change targets, you must clearly end or withdraw from the original fight, then use **Call 1 or Call 3** toward the new target before starting a new fight."
+        "text": "When switching targets, you must end the original fight or clearly withdraw, then use Call 1, Call 3, or Voice Chat to clearly signal combat intent toward the new target before attacking."
       },
       {
         "type": "bullet",
@@ -672,6 +672,34 @@
       {
         "type": "prohibit",
         "text": "Third-party interference is strictly prohibited during bounty hunting, even for species that normally have a Third Party exception. If the target is fighting someone else, wait until that fight has clearly ended before starting the hunt. A bounty must never be used as an excuse to interfere in a fight."
+      },
+      {
+        "type": "subhead",
+        "text": "14. Bystanders & Spectators"
+      },
+      {
+        "type": "bullet",
+        "text": "Players who are not involved in a fight must immediately leave the combat area and move out of the combatants’ line of sight. Do not circle, watch, rest, or linger nearby in a way that confuses the combatants."
+      },
+      {
+        "type": "prohibit",
+        "text": "Bystanders must not attack, assist, block an escape route, or start a fight with players who are already fighting. Interfering is a Third Party violation."
+      },
+      {
+        "type": "bullet",
+        "text": "Players who choose to remain in the combat area despite being able to leave accept the risk of being challenged after the original fight has clearly ended."
+      },
+      {
+        "type": "bullet",
+        "text": "Once the original fight ends, the surviving side may initiate a new fight with a bystander who remains nearby. Before attacking, the survivor must use Call 1, Call 3, or Voice Chat to clearly signal combat intent toward the new target, as required by the target-switching rule."
+      },
+      {
+        "type": "bullet",
+        "text": "Simply remaining nearby does not allow anyone to attack a bystander during the original fight. Party Fighting, carcass-claim rules, and the herbivore No Body Guarding rule still apply."
+      },
+      {
+        "type": "note",
+        "text": "If the survivor follows the full procedure for starting a new fight, a bystander cannot object solely on the ground that they were only watching. They may still report any other rule violation."
       }
     ]
   },
@@ -1045,7 +1073,7 @@
       },
       {
         "type": "bullet",
-        "text": "When switching targets from an existing fight, you must end the original fight or clearly withdraw, then use Call 1 or Call 3 toward the new target before attacking, as required by Combat Rule 6."
+        "text": "When switching targets from an existing fight, you must end the original fight or clearly withdraw, then use Call 1, Call 3, or Voice Chat to clearly signal combat intent toward the new target before attacking, as required by Combat Rule 6."
       },
       {
         "type": "bullet",

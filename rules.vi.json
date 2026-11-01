@@ -491,7 +491,7 @@
       },
       {
         "type": "bullet",
-        "text": "Nếu bạn muốn thay đổi mục tiêu của mình, cuộc chiến ban đầu phải được dừng lại hoặc rút khỏi tình huống một cách rõ ràng. và nhấn nút kêu 1 hoặc 3 vào mục tiêu mới trước khi bắt đầu trận chiến."
+        "text": "Khi đổi mục tiêu, phải kết thúc trận giao tranh cũ hoặc rút lui rõ ràng, rồi dùng tiếng kêu 1, tiếng kêu 3 hoặc Voice Chat để thể hiện rõ ý định chiến đấu với mục tiêu mới trước khi tấn công."
       },
       {
         "type": "bullet",
@@ -672,6 +672,34 @@
       {
         "type": "prohibit",
         "text": "Nghiêm cấm Third Party khi săn tiền thưởng, kể cả đối với loài thường được hưởng ngoại lệ Third Party. Nếu mục tiêu đang giao tranh với người khác, phải chờ trận đó kết thúc rõ ràng trước khi bắt đầu săn. Không được lấy tiền thưởng làm lý do để can thiệp vào trận giao tranh."
+      },
+      {
+        "type": "subhead",
+        "text": "14. Quy tắc người quan sát và người đứng xem (Bystanders & Spectators)"
+      },
+      {
+        "type": "bullet",
+        "text": "Người chơi không liên quan đến trận giao tranh phải lập tức rời khu vực và ra khỏi tầm nhìn của các bên đang giao tranh. Không được đi vòng quanh, đứng xem, nghỉ ngơi hoặc nán lại gần khiến các bên nhầm lẫn."
+      },
+      {
+        "type": "prohibit",
+        "text": "Người đứng xem không được tấn công, hỗ trợ, chặn đường thoát hoặc mở giao tranh với người đang chiến đấu. Can thiệp sẽ bị coi là vi phạm quy tắc Third Party."
+      },
+      {
+        "type": "bullet",
+        "text": "Người chọn ở lại khu vực giao tranh dù có thể rời đi phải tự chấp nhận nguy cơ bị thách đấu sau khi trận giao tranh ban đầu kết thúc rõ ràng."
+      },
+      {
+        "type": "bullet",
+        "text": "Sau khi trận ban đầu kết thúc, bên sống sót có thể mở trận mới với người đứng xem vẫn ở trong khu vực. Trước khi tấn công, phải dùng tiếng kêu 1, tiếng kêu 3 hoặc Voice Chat để thể hiện rõ ý định chiến đấu với mục tiêu mới theo quy tắc đổi mục tiêu."
+      },
+      {
+        "type": "bullet",
+        "text": "Việc đứng xem không cho phép người khác tấn công họ trong trận giao tranh ban đầu. Quy tắc Party Fighting, tranh xác và cấm khủng long ăn cỏ canh xác vẫn áp dụng."
+      },
+      {
+        "type": "note",
+        "text": "Nếu bên sống sót làm đúng thủ tục mở trận mới, người đứng xem không thể khiếu nại chỉ với lý do mình đang xem. Họ vẫn có thể báo cáo các vi phạm quy tắc khác."
       }
     ]
   },
@@ -1045,7 +1073,7 @@
       },
       {
         "type": "bullet",
-        "text": "Khi đổi mục tiêu từ một trận giao tranh đang diễn ra, phải kết thúc trận cũ hoặc rút lui rõ ràng, sau đó dùng tiếng kêu 1 hoặc 3 hướng về mục tiêu mới trước khi tấn công, theo Quy tắc giao tranh số 6."
+        "text": "Khi đổi mục tiêu từ trận giao tranh cũ, phải kết thúc trận đó hoặc rút lui rõ ràng, rồi dùng tiếng kêu 1, tiếng kêu 3 hoặc Voice Chat để thể hiện rõ ý định chiến đấu với mục tiêu mới trước khi tấn công, theo Quy tắc giao tranh số 6."
       },
       {
         "type": "bullet",
