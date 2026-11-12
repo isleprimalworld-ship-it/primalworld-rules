@@ -682,6 +682,26 @@
         "text": "Nghiêm cấm Third Party khi săn tiền thưởng, kể cả đối với loài thường được hưởng ngoại lệ Third Party. Nếu mục tiêu đang giao tranh với người khác, phải chờ trận đó kết thúc rõ ràng trước khi bắt đầu săn. Không được lấy tiền thưởng làm lý do để can thiệp vào trận giao tranh."
       },
       {
+        "type": "paragraph",
+        "text": "**Cấm né tiền thưởng bằng cách đổi nhân vật**"
+      },
+      {
+        "type": "prohibit",
+        "text": "Người chơi có khủng long đang bị treo thưởng **không được lợi dụng kẽ hở, lỗi hoặc cách lách hệ thống để đổi từ khủng long đang bị treo thưởng sang nhân vật khác** nhằm tránh bị săn hoặc bị giết để nhận tiền thưởng."
+      },
+      {
+        "type": "prohibit",
+        "text": "**Cấm cố ý tự sát hoặc cố tình khiến khủng long đang bị treo thưởng chết** để đổi nhân vật, xóa tiền thưởng hoặc né người săn tiền thưởng. Quy tắc này vẫn áp dụng ngay cả khi chưa có người săn nào mở giao tranh."
+      },
+      {
+        "type": "bullet",
+        "text": "Sử dụng những cách này được coi là né hệ thống tiền thưởng và có thể bị xem là lợi dụng kẽ hở để giành lợi thế không công bằng. Đội ngũ sẽ xem xét hành vi, ý định và bằng chứng liên quan."
+      },
+      {
+        "type": "note",
+        "text": "**Ví dụ:** T-Rex của người chơi A bị treo thưởng. A cố ý giết T-Rex của mình để chuyển sang Pteranodon và tránh bị săn tiền thưởng. **Đây là hành vi vi phạm quy tắc.**"
+      },
+      {
         "type": "subhead",
         "text": "14. Quy tắc người quan sát và người đứng xem (Bystanders & Spectators)"
       },

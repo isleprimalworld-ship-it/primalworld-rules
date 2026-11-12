@@ -682,6 +682,26 @@
         "text": "Third-party interference is strictly prohibited during bounty hunting, even for species that normally have a Third Party exception. If the target is fighting someone else, wait until that fight has clearly ended before starting the hunt. A bounty must never be used as an excuse to interfere in a fight."
       },
       {
+        "type": "paragraph",
+        "text": "**No Bounty Evasion by Switching Characters**"
+      },
+      {
+        "type": "prohibit",
+        "text": "Players whose dinosaur has an active bounty **must not use loopholes, bugs, or methods that bypass the system to switch from that dinosaur to another character** with the intent of avoiding being hunted or killed for the bounty."
+      },
+      {
+        "type": "prohibit",
+        "text": "**Do not deliberately kill yourself or intentionally cause your dinosaur with an active bounty to die** in order to switch characters, clear the bounty, or avoid bounty hunters. This applies even if no hunter has initiated combat yet."
+      },
+      {
+        "type": "bullet",
+        "text": "Using these methods is considered bounty-system evasion and may also constitute exploiting loopholes to gain an unfair advantage. Staff will assess the player's behavior, intent, and supporting evidence."
+      },
+      {
+        "type": "note",
+        "text": "**Example:** Player A's T-Rex has a bounty. A deliberately kills their own T-Rex to switch to Pteranodon and avoid being hunted for the bounty. **This violates the rules.**"
+      },
+      {
         "type": "subhead",
         "text": "14. Bystanders & Spectators"
       },
