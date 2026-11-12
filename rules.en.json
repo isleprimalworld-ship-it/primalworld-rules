@@ -567,19 +567,11 @@
       },
       {
         "type": "bullet",
-        "text": "Deinosuchus may attack ongoing combatants only from within the water at the water's edge. It must not move onto land to third-party, and must follow the water-fight restrictions below."
-      },
-      {
-        "type": "prohibit",
-        "text": "When a fight in water is **Deinosuchus versus Deinosuchus** or **Deinosuchus versus Spinosaurus**, players or parties not involved from the start must not third-party either side. The Deinosuchus third-party exception does not apply to these two matchups."
+        "text": "Deinosuchus may attack players already fighting **only from the water near the shoreline**. It must not come onto land to join the fight."
       },
       {
         "type": "bullet",
-        "text": "When **Spinosaurus fights Spinosaurus** in water, Deinosuchus may third-party only from within the water. Pack Limits, the ban on cooperation across parties, and the ban on third-partying bounty hunts still apply."
-      },
-      {
-        "type": "prohibit",
-        "text": "A Deinosuchus acting as a third party must stop attacking a combatant as soon as that player moves onto land. It must not follow onto land to third-party or continue attacking, even if its attack began in water. Prior intervention does not grant a right to pursue the fight onto land."
+        "text": "If either side enters the water, Deinosuchus may attack them as normal."
       },
       {
         "type": "bullet",
@@ -1033,7 +1025,7 @@
       },
       {
         "type": "bullet",
-        "text": "Water sources are public areas. All species, including Deinosuchus and Spinosaurus, may use and coexist in the same water. Simply sharing a water source is not Mixpacking or Overpacking, but cooperation across parties or exceeding Pack Limits is prohibited. All other water-area rules still apply."
+        "text": "Water sources are shared areas open to all species. Fighting is allowed there."
       },
       {
         "type": "bullet",
@@ -1058,18 +1050,6 @@
       {
         "type": "bullet",
         "text": "After drinking or finishing your activity, move on so other players have a chance to use the area."
-      },
-      {
-        "type": "prohibit",
-        "text": "When a fight in water is **Deinosuchus versus Deinosuchus** or **Deinosuchus versus Spinosaurus**, players or parties not involved from the start must not third-party either side. The Deinosuchus third-party exception does not apply to these two matchups."
-      },
-      {
-        "type": "bullet",
-        "text": "When **Spinosaurus fights Spinosaurus** in water, Deinosuchus may third-party only from within the water. Pack Limits, the ban on cooperation across parties, and the ban on third-partying bounty hunts still apply."
-      },
-      {
-        "type": "prohibit",
-        "text": "A Deinosuchus acting as a third party must stop attacking a combatant as soon as that player moves onto land. It must not follow onto land to third-party or continue attacking, even if its attack began in water. Prior intervention does not grant a right to pursue the fight onto land."
       }
     ]
   },
