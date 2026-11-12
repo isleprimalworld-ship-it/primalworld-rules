@@ -567,19 +567,11 @@
       },
       {
         "type": "bullet",
-        "text": "Deinosuchus chỉ được tấn công người đang giao tranh từ dưới nước tại mép nước. Không được lên bờ để Third Party và phải tuân thủ các giới hạn giao tranh dưới nước bên dưới."
-      },
-      {
-        "type": "prohibit",
-        "text": "Khi giao tranh dưới nước là **Deinosuchus đấu Deinosuchus** hoặc **Deinosuchus đấu Spinosaurus**, người chơi hoặc party không tham gia từ đầu không được Third Party bất kỳ bên nào. Ngoại lệ Third Party của Deinosuchus không áp dụng cho hai trường hợp này."
+        "text": "Deinosuchus chỉ có thể tấn công người chơi đang chiến đấu từ trong mép nước. Đừng lên đất liền để tham gia trận chiến."
       },
       {
         "type": "bullet",
-        "text": "Khi **Spinosaurus đấu Spinosaurus** dưới nước, Deinosuchus được Third Party nhưng chỉ được tấn công từ dưới nước. Vẫn phải tuân thủ Pack Limit, lệnh cấm phối hợp giữa các party và lệnh cấm Third Party khi săn tiền thưởng."
-      },
-      {
-        "type": "prohibit",
-        "text": "Deinosuchus tham gia với tư cách bên thứ ba phải ngừng tấn công một người đang giao tranh ngay khi người đó lên bờ. Không được đuổi lên bờ để Third Party hoặc tiếp tục tấn công, kể cả khi đã bắt đầu tấn công từ dưới nước. Việc can thiệp trước đó không tạo quyền tiếp tục truy đuổi giao tranh trên cạn."
+        "text": "Nếu đối thủ đáp xuống nước, Deinosuchus có thể tấn công bình thường. Bất kể phe nào của trận chiến"
       },
       {
         "type": "bullet",
@@ -1033,7 +1025,7 @@
       },
       {
         "type": "bullet",
-        "text": "Nguồn nước là khu vực công cộng. Mọi loài, bao gồm Deinosuchus và Spinosaurus, đều có thể sử dụng và cùng tồn tại trong một vùng nước. Chỉ ở chung nguồn nước không bị coi là Mixpacking hoặc Overpacking, nhưng cấm phối hợp giữa các party hoặc vượt Pack Limit. Các quy tắc khác về khu vực nguồn nước vẫn áp dụng."
+        "text": "Nguồn nước được coi là khu vực chung mà người chơi thuộc mọi loài đều có thể sử dụng. Nó cũng có thể được sử dụng như một khu vực chiến đấu."
       },
       {
         "type": "bullet",
@@ -1058,18 +1050,6 @@
       {
         "type": "bullet",
         "text": "Khi uống nước xong hoặc thực hiện một hoạt động nào đó, bạn nên rời khỏi khu vực đó để người chơi khác sử dụng."
-      },
-      {
-        "type": "prohibit",
-        "text": "Khi giao tranh dưới nước là **Deinosuchus đấu Deinosuchus** hoặc **Deinosuchus đấu Spinosaurus**, người chơi hoặc party không tham gia từ đầu không được Third Party bất kỳ bên nào. Ngoại lệ Third Party của Deinosuchus không áp dụng cho hai trường hợp này."
-      },
-      {
-        "type": "bullet",
-        "text": "Khi **Spinosaurus đấu Spinosaurus** dưới nước, Deinosuchus được Third Party nhưng chỉ được tấn công từ dưới nước. Vẫn phải tuân thủ Pack Limit, lệnh cấm phối hợp giữa các party và lệnh cấm Third Party khi săn tiền thưởng."
-      },
-      {
-        "type": "prohibit",
-        "text": "Deinosuchus tham gia với tư cách bên thứ ba phải ngừng tấn công một người đang giao tranh ngay khi người đó lên bờ. Không được đuổi lên bờ để Third Party hoặc tiếp tục tấn công, kể cả khi đã bắt đầu tấn công từ dưới nước. Việc can thiệp trước đó không tạo quyền tiếp tục truy đuổi giao tranh trên cạn."
       }
     ]
   },
