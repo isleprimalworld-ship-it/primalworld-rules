@@ -967,6 +967,12 @@
       },
       {
         "type": "pack-entry",
+        "text": "Camarasaurus (Camara)",
+        "count": "Max 5",
+        "diet": "herbivore"
+      },
+      {
+        "type": "pack-entry",
         "text": "Ankylosaurus (Anky)",
         "count": "Max 3",
         "diet": "herbivore"

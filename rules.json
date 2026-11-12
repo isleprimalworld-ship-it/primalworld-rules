@@ -967,6 +967,12 @@
       },
       {
         "type": "pack-entry",
+        "text": "Camarasaurus (Camara)",
+        "count": "5 ตัว",
+        "diet": "herbivore"
+      },
+      {
+        "type": "pack-entry",
         "text": "Ankylosaurus (Anky)",
         "count": "3 ตัว",
         "diet": "herbivore"
