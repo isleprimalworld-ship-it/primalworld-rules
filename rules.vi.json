@@ -563,27 +563,35 @@
       },
       {
         "type": "subhead",
-        "text": "9. Quy tắc của bên thứ ba Deinosuchus"
+        "text": "9. Quy tắc đặc biệt cho Deinosuchus — Third Party và giao tranh với Spinosaurus"
       },
       {
         "type": "bullet",
-        "text": "Deinosuchus chỉ có thể tấn công người chơi đang chiến đấu từ trong mép nước. Đừng lên đất liền để tham gia trận chiến."
-      },
-      {
-        "type": "bullet",
-        "text": "Nếu đối thủ đáp xuống nước, Deinosuchus có thể tấn công bình thường. Bất kể phe nào của trận chiến"
-      },
-      {
-        "type": "bullet",
-        "text": "Tối đa 2 Deinosuchus trong cùng một nhóm có thể săn và phục kích."
+        "text": "Deinosuchus được Third Party bằng cách tấn công từ dưới nước tại mép nước theo ngoại lệ của loài, nhưng phải tuân thủ các giới hạn sau."
       },
       {
         "type": "prohibit",
-        "text": "Deinosuchus: Các nhóm khác nhau bị cấm săn bắn, trấn áp, nhốt hoặc tấn công con mồi cùng nhau. Và không giúp đỡ cuộc chiến của các bên khác."
+        "text": "**Deinosuchus đấu Deinosuchus dưới nước:** Người chơi hoặc party không tham gia từ đầu không được Third Party, tấn công hay hỗ trợ bất kỳ bên nào."
       },
       {
         "type": "prohibit",
-        "text": "Nếu hai bên Deinosuchus đang đánh nhau thì bên thứ ba bị cấm can thiệp."
+        "text": "**Deinosuchus đấu Spinosaurus dưới nước:** Người chơi hoặc party không tham gia từ đầu không được Third Party, bao gồm Deinosuchus từ party khác tham gia vây đánh Spinosaurus với lý do được hưởng ngoại lệ Third Party dưới nước."
+      },
+      {
+        "type": "bullet",
+        "text": "**Spinosaurus đấu Spinosaurus dưới nước:** Deinosuchus được Third Party theo ngoại lệ tấn công từ dưới nước."
+      },
+      {
+        "type": "bullet",
+        "text": "Tối đa **2 Deinosuchus trong cùng một party** được cùng săn hoặc phục kích."
+      },
+      {
+        "type": "prohibit",
+        "text": "Deinosuchus thuộc các party khác nhau không được phối hợp săn, ngoạm, giữ hoặc vây đánh cùng một con mồi. Quyền Third Party không cho phép hợp lực giữa các party."
+      },
+      {
+        "type": "prohibit",
+        "text": "Ngoại lệ này không áp dụng cho săn tiền thưởng; Third Party vẫn bị cấm trong mọi trường hợp săn tiền thưởng."
       },
       {
         "type": "subhead",
@@ -700,6 +708,10 @@
       {
         "type": "note",
         "text": "Nếu bên sống sót làm đúng thủ tục mở trận mới, người đứng xem không thể khiếu nại chỉ với lý do mình đang xem. Họ vẫn có thể báo cáo các vi phạm quy tắc khác."
+      },
+      {
+        "type": "note",
+        "text": "Ngoại lệ riêng cho Hangout: Nếu thợ săn đi tới thắng, thành viên Hangout khác không được lập tức mở trận mới, tấn công thợ săn hoặc lần lượt từng party tấn công. Áp dụng quy tắc Hangout trong phần quy tắc lập nhóm."
       }
     ]
   },
@@ -750,6 +762,10 @@
         "text": "Đóng gói quá mức"
       },
       {
+        "type": "note",
+        "text": "Ngoại lệ: Nhóm đáp ứng đầy đủ quy tắc Hangout áp dụng các điều kiện Hangout thay cho giới hạn tụ tập trò chuyện thông thường."
+      },
+      {
         "type": "bullet",
         "text": "Không nhóm khủng long cùng loài vượt quá Giới hạn Gói được chỉ định vì bất kỳ lý do gì."
       },
@@ -764,6 +780,10 @@
       {
         "type": "subhead",
         "text": "Quy tắc tương tác xã hội"
+      },
+      {
+        "type": "note",
+        "text": "Ngoại lệ: Nhóm đáp ứng đầy đủ quy tắc Hangout áp dụng các điều kiện Hangout thay cho giới hạn tụ tập trò chuyện thông thường."
       },
       {
         "type": "bullet",
@@ -786,8 +806,92 @@
         "text": "Khi xảy ra giao tranh, dù khủng long ăn cỏ là bên chủ động tấn công hay bị tấn công, chỉ những party trực tiếp đối đầu mới được tham gia. Các party không liên quan phải lập tức rời khu vực và ra khỏi phạm vi nghe trong game. Không được hỗ trợ tấn công, chặn đường thoát hoặc tạo lợi thế cho bất kỳ bên nào. Hypsilophodon chỉ được bảo vệ thành viên Mix Herd theo ngoại lệ tại Quy tắc khủng long ăn cỏ số 4 — Hypsilophodon Rules."
       },
       {
+        "type": "subhead",
+        "text": "Ngoại lệ tụ tập để trò chuyện (Hangout)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Người chơi được tụ tập trò chuyện hoặc nghỉ cùng nhau với số lượng vượt Pack Limit mà không bị coi là Mixpacking hoặc Overpacking. Giới hạn trò chuyện 10 phút thông thường không áp dụng **chỉ khi đáp ứng đầy đủ mọi điều kiện Hangout**."
+      },
+      {
+        "type": "subhead",
+        "text": "1. Hình thức Hangout"
+      },
+      {
         "type": "bullet",
-        "text": "Khủng long ăn cỏ có thể tụ tập trò chuyện tại The Pit mà không bị tính là Mixpack hoặc Overpack, nhưng không được tụ tập gần nguồn nước và phải phân chia party rõ ràng. Việc ở cùng Mix Herd hoặc trò chuyện tại The Pit không cho phép các party khác nhau hỗ trợ chiến đấu, ngoại trừ trường hợp được nêu trong quy tắc Hypsilophodon số 4."
+        "text": "**Khủng long ăn thịt:** Phải ngồi nghỉ và trò chuyện tại một chỗ. Cấm di chuyển thành nhóm hoặc cùng đi săn với lý do Hangout. Vi phạm sẽ được xử lý theo quy tắc Mixpacking hoặc Overpacking tùy trường hợp."
+      },
+      {
+        "type": "bullet",
+        "text": "**Khủng long ăn cỏ:** Được đi cùng nhau để trò chuyện, nhưng cấm dùng nhóm Hangout làm lực lượng chung để tấn công hoặc săn người chơi khác."
+      },
+      {
+        "type": "bullet",
+        "text": "Phải phân chia các party rõ ràng. Mỗi party vẫn phải tuân thủ Pack Limit của loài."
+      },
+      {
+        "type": "bullet",
+        "text": "Cấm lợi dụng Hangout để phong tỏa, chiếm nguồn nước hoặc cản trở giao thông trên cầu."
+      },
+      {
+        "type": "subhead",
+        "text": "2. Nhóm Hangout Không Được Chủ Động Gây Chiến"
+      },
+      {
+        "type": "paragraph",
+        "text": "Thành viên đang Hangout không được tấn công trước người chơi hoặc thợ săn đi tới."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nếu thợ săn mở giao tranh, mục tiêu được chọn và thành viên cùng party được chiến đấu hoặc tự vệ theo quy tắc thông thường. Người thuộc party khác không được hỗ trợ."
+      },
+      {
+        "type": "subhead",
+        "text": "3. Thợ Săn Phải Thể Hiện Ý Định và Chọn Mục Tiêu Rõ Ràng"
+      },
+      {
+        "type": "paragraph",
+        "text": "Muốn mở giao tranh với thành viên Hangout, phải **dùng Voice Chat hoặc tiếng kêu 3** và thể hiện rõ sẽ tấn công người chơi nào. Được chọn trực tiếp một mục tiêu trong nhóm."
+      },
+      {
+        "type": "paragraph",
+        "text": "Việc chọn mục tiêu không cho phép tấn công toàn bộ nhóm. Các quy tắc săn và giao tranh khác vẫn áp dụng."
+      },
+      {
+        "type": "subhead",
+        "text": "4. Cấm Hỗ Trợ Chiến Đấu Giữa Các Party"
+      },
+      {
+        "type": "paragraph",
+        "text": "Khi giao tranh bắt đầu, người ngoài party của các bên giao tranh **không được tấn công, hỗ trợ, chặn đường thoát hoặc tham chiến**, kể cả cùng loài."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nhóm không liên quan phải tách rõ khỏi các bên giao tranh và rút khỏi vòng chiến theo quy tắc người quan sát. Không được trà trộn gây nhầm lẫn ai là đối thủ."
+      },
+      {
+        "type": "subhead",
+        "text": "5. Cấm Đổi Thành Viên Party Để Hỗ Trợ Trong Giao Tranh"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cấm mời, thêm hoặc chuyển thành viên giữa các party trong lúc giao tranh để hỗ trợ chiến đấu hoặc lách giới hạn Hangout."
+      },
+      {
+        "type": "subhead",
+        "text": "6. Cấm Tấn Công Tiếp Ngay Sau Khi Thợ Săn Thắng"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nếu thợ săn đi tới giành chiến thắng, thành viên khác của nhóm Hangout **không được lập tức mở giao tranh mới hoặc tấn công thợ săn**, kể cả là bạn bè hay cùng loài với người thua."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cấm lần lượt từng party mở giao tranh để vây đánh liên tiếp, trả thù hoặc lợi dụng tình trạng suy yếu của thợ săn vừa kết thúc trận đấu. Điều kiện riêng của Hangout này thay thế quyền mở trận mới theo quy tắc người quan sát trong trường hợp đó."
+      },
+      {
+        "type": "note",
+        "text": "**Hangout chỉ cho phép tụ tập trò chuyện và nghỉ cùng nhau. Không có nghĩa mọi người thuộc cùng một party hoặc được phối hợp chiến đấu giữa các party.**"
       },
       {
         "type": "subhead",
@@ -1025,7 +1129,7 @@
       },
       {
         "type": "bullet",
-        "text": "Nguồn nước được coi là khu vực chung mà người chơi thuộc mọi loài đều có thể sử dụng. Nó cũng có thể được sử dụng như một khu vực chiến đấu."
+        "text": "Nguồn nước là khu vực công cộng. Mọi loài, bao gồm Deinosuchus và Spinosaurus, có thể cùng sử dụng. Chỉ ở chung một nguồn nước không bị coi là lập nhóm, nhưng cấm phối hợp vi phạm Mixpacking hoặc Overpacking, cũng như phong tỏa hoặc chiếm nguồn nước."
       },
       {
         "type": "bullet",
@@ -1050,6 +1154,10 @@
       {
         "type": "bullet",
         "text": "Khi uống nước xong hoặc thực hiện một hoạt động nào đó, bạn nên rời khỏi khu vực đó để người chơi khác sử dụng."
+      },
+      {
+        "type": "note",
+        "text": "Khi xảy ra giao tranh, phải tuân thủ quy tắc Third Party. Các trường hợp liên quan đến Deinosuchus và Spinosaurus áp dụng Quy tắc giao tranh số 9."
       }
     ]
   },
@@ -1298,30 +1406,6 @@
       {
         "type": "prohibit",
         "text": "Không sử dụng Pteranodon để theo dõi vị trí của người chơi. Sau đó chuyển nhân vật trở lại một con khủng long khác để săn mục tiêu nói trên."
-      },
-      {
-        "type": "subhead",
-        "text": "7. Quy tắc đặc biệt dành cho Spinosaurus - Trợ giúp nhỏ"
-      },
-      {
-        "type": "bullet",
-        "text": "Một con Spinosaurus lớn có thể giúp nuôi một con Spinosaurus nhỏ với tốc độ tăng trưởng không quá 50%."
-      },
-      {
-        "type": "bullet",
-        "text": "Spinosaurus có thể lập party với tối đa 2 thành viên."
-      },
-      {
-        "type": "prohibit",
-        "text": "Nếu Spinosaurus lớn và nhỏ chỉ ở cùng nhau theo ngoại lệ hỗ trợ nuôi con non mà không cùng party, khi xảy ra giao tranh chúng không được chiến đấu hoặc bảo vệ lẫn nhau."
-      },
-      {
-        "type": "bullet",
-        "text": "Khi không ở cùng party, chúng chỉ được phép giúp nhau bằng cách chia sẻ thức ăn."
-      },
-      {
-        "type": "note",
-        "text": "*Quy tắc này được tạo ra để giúp Spinosaurus còn quá yếu*"
       }
     ]
   },

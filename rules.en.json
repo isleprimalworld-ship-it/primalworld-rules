@@ -563,15 +563,23 @@
       },
       {
         "type": "subhead",
-        "text": "9. Deinosuchus Third-Party Rules"
+        "text": "9. Special Deinosuchus Rules — Third Party and Combat with Spinosaurus"
       },
       {
         "type": "bullet",
-        "text": "Deinosuchus may attack players already fighting **only from the water near the shoreline**. It must not come onto land to join the fight."
+        "text": "Deinosuchus may third-party by attacking from within the water at the water's edge under its species exception, subject to the following restrictions."
+      },
+      {
+        "type": "prohibit",
+        "text": "**Deinosuchus versus Deinosuchus in water:** Players or parties not involved from the start must not third-party, attack, or assist either side."
+      },
+      {
+        "type": "prohibit",
+        "text": "**Deinosuchus versus Spinosaurus in water:** Players or parties not involved from the start must not third-party. This includes Deinosuchus from other parties joining an attack on Spinosaurus by claiming the aquatic third-party exception."
       },
       {
         "type": "bullet",
-        "text": "If either side enters the water, Deinosuchus may attack them as normal."
+        "text": "**Spinosaurus versus Spinosaurus in water:** Deinosuchus may third-party under its exception for attacks from within the water."
       },
       {
         "type": "bullet",
@@ -579,11 +587,11 @@
       },
       {
         "type": "prohibit",
-        "text": "**Deinosuchus from different parties must not hunt, grab, hold, or attack the same prey together**, or assist another party's fight."
+        "text": "Deinosuchus from different parties must not cooperate to hunt, grab, hold, or gang up on the same prey. Permission to third-party does not permit combining forces across parties."
       },
       {
         "type": "prohibit",
-        "text": "If two Deinosuchus parties are fighting, a third party must not interfere."
+        "text": "This exception does not apply to bounty hunts, where third-partying remains prohibited in all cases."
       },
       {
         "type": "subhead",
@@ -700,6 +708,10 @@
       {
         "type": "note",
         "text": "If the survivor follows the full procedure for starting a new fight, a bystander cannot object solely on the ground that they were only watching. They may still report any other rule violation."
+      },
+      {
+        "type": "note",
+        "text": "Hangout-specific exception: If the visiting hunter wins, other Hangout members must not immediately start another fight or attack the hunter, or take turns attacking party by party. Follow the Hangout rules under Pack & Social Rules."
       }
     ]
   },
@@ -750,6 +762,10 @@
         "text": "Overpacking"
       },
       {
+        "type": "note",
+        "text": "Exception: Gatherings that fully comply with the Hangout rules follow those conditions instead of the normal restrictions on social gatherings."
+      },
+      {
         "type": "bullet",
         "text": "Do not exceed the stated **Pack Limit** for your species under any circumstances."
       },
@@ -764,6 +780,10 @@
       {
         "type": "subhead",
         "text": "Social Interaction Rules"
+      },
+      {
+        "type": "note",
+        "text": "Exception: Gatherings that fully comply with the Hangout rules follow those conditions instead of the normal restrictions on social gatherings."
       },
       {
         "type": "bullet",
@@ -786,8 +806,92 @@
         "text": "When a fight starts, whether herbivores initiated it or were attacked, only the parties directly involved as opponents may participate. Uninvolved parties must immediately leave the area and move beyond in-game hearing range. They must not help attack, block escape routes, or give either side an advantage. Hypsilophodon may protect Mix Herd members only under the exception in Herbivore Rule 4 — Hypsilophodon Rules."
       },
       {
+        "type": "subhead",
+        "text": "Grouping Exception for Socializing (Hangout)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Players may gather to talk or rest together in numbers exceeding Pack Limits without being considered Mixpacking or Overpacking. The normal 10-minute socializing limit does not apply **only when all Hangout conditions are met**."
+      },
+      {
+        "type": "subhead",
+        "text": "1. What Counts as a Hangout"
+      },
+      {
         "type": "bullet",
-        "text": "Herbivores may gather socially at The Pit without this counting as Mixpacking or Overpacking, but must not gather near water and must keep parties clearly separated. Being in a Mix Herd or socializing at The Pit does not allow separate parties to help each other fight, except under Hypsilophodon Rule 4."
+        "text": "**Carnivores:** Must remain seated in one place to rest and talk. Do not travel as a group or hunt together while claiming to Hangout. Violations are assessed under Mixpacking or Overpacking rules as applicable."
+      },
+      {
+        "type": "bullet",
+        "text": "**Herbivores:** May walk together while socializing, but must not use the Hangout group as a combined force to attack or hunt other players."
+      },
+      {
+        "type": "bullet",
+        "text": "Parties must remain clearly separated. Each party must still comply with its species' Pack Limit."
+      },
+      {
+        "type": "bullet",
+        "text": "Do not use a Hangout to blockade or claim water sources or obstruct bridge traffic."
+      },
+      {
+        "type": "subhead",
+        "text": "2. Hangout Members Must Not Initiate Combat"
+      },
+      {
+        "type": "paragraph",
+        "text": "Players who are hanging out must not attack an approaching player or hunter first."
+      },
+      {
+        "type": "paragraph",
+        "text": "If a hunter initiates combat, the selected target and members of that target's party may fight or defend themselves under the normal rules. Other parties must not assist."
+      },
+      {
+        "type": "subhead",
+        "text": "3. Hunters Must Clearly Identify Their Target"
+      },
+      {
+        "type": "paragraph",
+        "text": "To initiate combat with a Hangout member, **use Voice Chat or call 3** and clearly indicate which player you intend to attack. You may select a target directly from the group."
+      },
+      {
+        "type": "paragraph",
+        "text": "Selecting a target does not authorize attacking everyone in the group. All other hunting and combat rules still apply."
+      },
+      {
+        "type": "subhead",
+        "text": "4. No Combat Assistance Across Parties"
+      },
+      {
+        "type": "paragraph",
+        "text": "Once combat begins, players outside the combatants' parties **must not attack, assist, block escape routes, or participate**, even if they are the same species."
+      },
+      {
+        "type": "paragraph",
+        "text": "Uninvolved groups must clearly separate from the combatants and withdraw from the fight according to the spectator rules. Do not mingle in a way that makes the combatants unclear."
+      },
+      {
+        "type": "subhead",
+        "text": "5. No Party Changes to Assist During Combat"
+      },
+      {
+        "type": "paragraph",
+        "text": "Do not invite, add, or transfer members between parties during an ongoing fight to assist in combat or bypass Hangout restrictions."
+      },
+      {
+        "type": "subhead",
+        "text": "6. No Immediate Follow-up Attacks After the Hunter Wins"
+      },
+      {
+        "type": "paragraph",
+        "text": "If the visiting hunter wins, other members of the Hangout group **must not immediately initiate another fight or attack that hunter**, even if they are friends or the same species as the defeated player."
+      },
+      {
+        "type": "paragraph",
+        "text": "Do not take turns attacking party by party to gang up in succession, seek revenge, or exploit the hunter's weakened condition after the fight. This Hangout-specific restriction overrides the spectator rules' permission to start a new fight in this situation."
+      },
+      {
+        "type": "note",
+        "text": "**Hangout permits gathering to talk and rest only. It does not make everyone one party or permit combat cooperation across parties.**"
       },
       {
         "type": "subhead",
@@ -1025,7 +1129,7 @@
       },
       {
         "type": "bullet",
-        "text": "Water sources are shared areas open to all species. Fighting is allowed there."
+        "text": "Water sources are public areas. All species, including Deinosuchus and Spinosaurus, may share them. Simply occupying the same water source does not constitute grouping, but cooperation that violates Mixpacking or Overpacking rules is prohibited, as is blockading or claiming the water source."
       },
       {
         "type": "bullet",
@@ -1050,6 +1154,10 @@
       {
         "type": "bullet",
         "text": "After drinking or finishing your activity, move on so other players have a chance to use the area."
+      },
+      {
+        "type": "note",
+        "text": "When combat occurs, follow the Third-Party Rules. For situations involving Deinosuchus and Spinosaurus, refer to Combat Rule 9."
       }
     ]
   },
@@ -1298,30 +1406,6 @@
       {
         "type": "prohibit",
         "text": "Do not scout a player's location as Pteranodon, then switch to another dinosaur to hunt that player."
-      },
-      {
-        "type": "subhead",
-        "text": "7. Spinosaurus — Helping Juveniles Grow"
-      },
-      {
-        "type": "bullet",
-        "text": "An adult or larger Spinosaurus may help a smaller Spinosaurus with **50% growth or less**."
-      },
-      {
-        "type": "bullet",
-        "text": "Spinosaurus may form a party of up to **2 members**."
-      },
-      {
-        "type": "prohibit",
-        "text": "If an adult and juvenile are only using this assistance exception without being in the same party, they must not fight together or defend each other."
-      },
-      {
-        "type": "bullet",
-        "text": "When they are not in the same party, they may help each other **only by sharing food**."
-      },
-      {
-        "type": "note",
-        "text": "*This exception exists to help young Spinosaurus that are not yet strong enough to survive alone.*"
       }
     ]
   },
