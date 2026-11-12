@@ -1,73 +1,19 @@
 <!doctype html>
 <html lang="th">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#F4F5F7">
-  <meta name="description" content="อ่านกฎเซิร์ฟเวอร์ Primal World สำหรับ The Isle Evrima ทั้งการต่อสู้ การล่า และกฎเฉพาะสายพันธุ์">
-  <title>กฎเซิร์ฟเวอร์ · Primal World</title>
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23e8eaed'/%3E%3Cpath d='M8 43 21 18l11 19 10-15 14 21' fill='none' stroke='%23383b40' stroke-width='6' stroke-linejoin='round'/%3E%3Cpath d='M8 50h48' stroke='%23383b40' stroke-width='4'/%3E%3C/svg%3E">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Noto+Sans:wght@400;500;600;700&family=Noto+Sans+Thai:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
-  <script src="app.js" defer></script>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#F4F5F7"><meta name="description" content="กฎเซิร์ฟเวอร์ Primal World สำหรับ The Isle Evrima"><title>กฎเซิร์ฟเวอร์ · Primal World</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23e8eaed'/%3E%3Ctext x='7' y='43' font-family='serif' font-weight='bold' font-size='31' fill='%23383b40'%3EPW%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;500;600;700;800&display=swap" rel="stylesheet"><link rel="stylesheet" href="styles.css?v=silver-2"><script src="app.js?v=silver-2" defer></script>
 </head>
 <body>
-  <a class="skip-link" href="#rules" data-i18n="skip">ข้ามไปที่กฎ</a>
-  <div class="ambient" aria-hidden="true"></div>
-  <header class="site-header">
-    <a class="brand" href="https://primalworld.online/" aria-label="Primal World หน้าเว็บหลัก">
-      <span class="brand-mark" aria-hidden="true">PW</span>
-      <span class="brand-name">PRIMAL <b>WORLD</b><small>THE ISLE · EVRIMA</small></span>
-    </a>
-    <div class="header-rule"><span></span> SERVER RULEBOOK <span></span></div>
-    <div class="header-actions">
-      <div class="language-switcher" role="group" aria-label="เลือกภาษา" data-i18n-aria="languageLabel">
-        <button type="button" data-lang="th" aria-pressed="true">ไทย</button>
-        <button type="button" data-lang="en" aria-pressed="false">EN</button>
-        <button type="button" data-lang="vi" aria-pressed="false">VI</button>
-      </div>
-      <a class="home-link" href="https://primalworld.online/"><span data-i18n="home">กลับเว็บหลัก</span> <span aria-hidden="true">↗</span></a>
-    </div>
-  </header>
-
-  <main class="layout" id="rules">
-    <aside class="sidebar" aria-label="สารบัญกฎ">
-      <div class="sidebar-inner">
-        <div class="sidebar-label">PRIMAL WORLD / RULES</div>
-        <h1><span data-i18n="sidebarTitle">กฎเซิร์ฟเวอร์</span><span class="title-dot">.</span></h1>
-        <p class="sidebar-intro" data-i18n="sidebarIntro">The Isle · Evrima\nอ่านกฎก่อนเริ่มต้นชีวิตบนเกาะ</p>
-        <div class="sidebar-divider"></div>
-        <div class="toc-heading"><span data-i18n="toc">สารบัญ</span> <span id="rule-count">11 หมวด</span></div>
-        <nav id="toc" aria-label="ไปยังกฎแต่ละหมวด"></nav>
-        <div class="sidebar-footer"><span data-i18n="question">มีข้อสงสัยเกี่ยวกับกฎ?</span><br><a href="https://discord.gg/Zjk8hbe3NF" target="_blank" rel="noopener noreferrer" data-i18n="askDiscord">สอบถามทีมงานใน Discord ↗</a></div>
-      </div>
-    </aside>
-
-    <div class="content-column">
-      <div class="content-topline"><span class="live-square"></span> PRIMAL WORLD <span class="topline-sep">/</span> COMMUNITY RULES</div>
-      <section class="page-heading" aria-labelledby="page-title">
-        <div class="eyebrow">FIELD GUIDE <span>—</span> 01 / <span id="guide-count">11</span></div>
-        <h2 id="page-title"><span data-i18n="pageTitleTop">กฎแห่งการ</span><br><em data-i18n="pageTitleEm">เอาชีวิตรอด</em></h2>
-        <p data-i18n="pageIntro">กฎสำหรับผู้เล่น Primal World บน The Isle Evrima เลือกหัวข้อจากสารบัญเพื่ออ่านรายละเอียดแต่ละหมวด</p>
-        <div class="last-updated"><span data-i18n="updated">แก้ไขกฎล่าสุด</span> <time datetime="2026-11-12" data-i18n="updatedDate">12 พฤศจิกายน 2569</time></div>
-      </section>
-      <section class="search-area" aria-label="ค้นหากฎ">
-        <form id="search-form" class="search-form" role="search">
-          <label for="search-input" data-i18n="searchLabel">ค้นหาคำในกฎ</label>
-          <div class="search-controls">
-            <input id="search-input" type="search" name="q" placeholder="เช่น Combat Logging, การล่า, เสียง 4" data-i18n-placeholder="searchPlaceholder" autocomplete="off">
-            <button type="submit" data-i18n="searchButton">ค้นหา</button>
-          </div>
-        </form>
-        <div id="search-results" class="search-results" aria-live="polite" hidden></div>
-      </section>
-      <div class="mobile-toc-wrap"><span data-i18n="mobileToc">ไปยังกฎ</span><nav id="mobile-toc" aria-label="สารบัญบนมือถือ"></nav></div>
-      <div class="section-kicker"><span>SERVER REGULATIONS</span><span id="section-count">01 — 11</span></div>
-      <div id="rules-list" class="rules-list" aria-live="polite"><p class="loading" data-i18n="loading">กำลังโหลดกฎ...</p></div>
-      <footer class="page-footer"><span>PRIMAL WORLD · THE ISLE EVRIMA</span><a href="#rules" data-i18n="backTop">กลับไปด้านบน ↑</a></footer>
-    </div>
-  </main>
-</body>
-</html>
+<a href="#rules" class="skip-link" data-i18n="skip">ข้ามไปที่กฎ</a>
+<header class="site-header"><div class="header-inner"><a class="brand" href="https://primalworld.online/" aria-label="Primal World"><span class="brand-mark">PW</span><span><b>PRIMAL WORLD</b><small>SERVER RULEBOOK</small></span></a><div class="header-actions"><div class="language-switcher" role="group" data-i18n-aria="languageLabel"><button type="button" data-lang="th" aria-pressed="true">ไทย</button><button type="button" data-lang="en" aria-pressed="false">EN</button><button type="button" data-lang="vi" aria-pressed="false">VI</button></div><a class="home-link header-link" href="https://primalworld.online/"><span data-icon="external"></span><span data-i18n="home">กลับเว็บหลัก</span></a><a class="discord-link header-link" href="https://discord.gg/Zjk8hbe3NF" target="_blank" rel="noopener noreferrer"><span data-icon="chat"></span><span>Discord</span></a></div></div><div class="reading-strip"><div class="reading-inner"><span data-i18n="readingPosition">ตำแหน่งการอ่าน</span><span id="reading-percent">0%</span><div id="reading-progress" role="progressbar" aria-label="Reading position" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span></span></div><span id="visible-count"></span></div></div></header>
+<main class="page-shell">
+<section class="hero" aria-labelledby="page-title"><div class="hero-copy"><div class="eyebrow">THE ISLE · EVRIMA</div><h1 id="page-title" data-i18n="sidebarTitle">กฎเซิร์ฟเวอร์</h1><p data-i18n="heroIntro">อ่านง่าย ค้นหาไว เข้าใจกติกาก่อนลงเกาะ</p><div class="last-updated"><span data-icon="calendar"></span><span data-i18n="updated">แก้ไขกฎล่าสุด</span><time datetime="2026-11-12" data-i18n="updatedDate">12 พฤศจิกายน 2569</time></div></div><img class="hero-mascot" src="assets/mascot.webp" alt="" width="260" height="260" fetchpriority="high"></section>
+<section class="search-area" aria-label="Search rules"><div class="search-row"><form id="search-form" role="search"><label class="sr-only" for="search-input" data-i18n="searchLabel">ค้นหาคำในกฎ</label><span data-icon="search"></span><input id="search-input" type="search" autocomplete="off" data-i18n-placeholder="searchPlaceholder" placeholder="ค้นหากฎที่ต้องการ..."><button type="submit" class="search-submit" data-i18n-aria="searchButton"><span data-icon="search"></span></button><kbd>/</kbd></form><div class="quick-links"><span data-i18n="quickSearch">ค้นหาเร็ว</span><button type="button" data-quick="hangout">Hangout</button><button type="button" data-quick="pack">Pack Limit</button><button type="button" data-quick="third">Third Party</button><button type="button" data-quick="deino">Deino / Spino</button></div></div><div id="search-results" hidden></div></section>
+<nav id="category-nav" class="category-nav" aria-label="Rule categories"></nav>
+<div class="rulebook-layout"><aside class="sidebar"><div class="sidebar-panel"><div class="panel-heading"><span data-icon="list"></span><h2 data-i18n="toc">สารบัญ</h2><span id="rule-count"></span></div><nav id="toc" data-i18n-aria="toc"></nav><div class="sidebar-foot"><span data-i18n="sidebarIntro">The Isle · Evrima</span><span class="sidebar-foot-line">PRIMAL WORLD / RULES</span></div></div></aside>
+<div class="content-column" id="rules" tabindex="-1"><details class="mobile-toc"><summary><span data-icon="list"></span><span data-i18n="toc">สารบัญ</span><span class="mobile-toc-count"></span><span data-icon="chevron"></span></summary><nav id="mobile-toc"></nav></details><div class="content-heading"><div><div class="section-kicker">PRIMAL WORLD / RULES</div><h2 id="current-category"></h2></div><button id="toggle-all" type="button" class="utility-button"><span data-icon="expand"></span><span data-i18n="expandAll">ขยายทั้งหมด</span></button></div><div id="rules-list" aria-busy="true"><p class="loading" data-i18n="loading">กำลังโหลดกฎ...</p></div><noscript><p>Please enable JavaScript to view and search the rules. เปิด JavaScript เพื่ออ่านกฎ</p></noscript><footer class="page-footer"><span>PRIMAL WORLD · THE ISLE EVRIMA</span><a href="#" data-i18n="backTop">กลับไปด้านบน ↑</a></footer></div>
+<aside class="context-sidebar"><div class="context-panel"><div class="panel-heading"><span data-icon="link"></span><h2 data-i18n="inSection">ในหัวข้อนี้</h2></div><p id="context-title"></p><nav id="section-nav"></nav></div><div class="help-panel"><span class="help-icon" data-icon="shield"></span><h2 data-i18n="question">มีข้อสงสัยเกี่ยวกับกฎ?</h2><p data-i18n="helpText">พบการทำผิดกฎหรือมีข้อสงสัย เปิด Ticket เพื่อให้ทีมงานตรวจสอบได้</p><a href="https://discord.gg/Zjk8hbe3NF" target="_blank" rel="noopener noreferrer" class="ticket-button"><span data-i18n="ticket">เปิด Ticket ใน Discord</span><span data-icon="external"></span></a></div></aside></div>
+</main><button type="button" id="back-to-top" class="back-to-top" data-i18n-aria="backTop"><span data-icon="up"></span></button><div id="announcement" class="toast" role="status" aria-live="polite"></div><div id="copy-fallback" class="copy-fallback" hidden><label for="copy-url" data-i18n="copyManual">คัดลอกลิงก์นี้</label><input id="copy-url" readonly><button type="button" id="close-copy" aria-label="Close">×</button></div>
+</body></html>
