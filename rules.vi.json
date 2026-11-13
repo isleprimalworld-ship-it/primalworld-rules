@@ -364,6 +364,30 @@
       {
         "type": "prohibit",
         "text": "Không chia sẻ hoặc chuyển tiếp thông tin vị trí. chuyển động hoặc tình huống của những người chơi khác đến những người không nhận được thông tin đó khi chơi bình thường Cho dù thông qua các kênh trong trò chơi hay bên ngoài trò chơi, chẳng hạn như Discord, Trò chuyện thoại, DM, Ảnh chụp màn hình hoặc yêu cầu người khác truyền bá. Đây không nhất thiết phải là tọa độ trực tiếp. Cho biết tên khu vực, hướng đi, tuyến đường, điểm nghỉ ngơi, số lượng người chơi, loài hoặc thông tin khác có thể được sử dụng để tìm, theo dõi hoặc tấn công người chơi cũng được coi là Đánh rơi vị trí."
+      },
+      {
+        "type": "subhead",
+        "text": "13. Cấm dùng thông tin từ khủng long trước đó để quay lại săn (Character Scouting)"
+      },
+      {
+        "type": "prohibit",
+        "text": "Cấm dùng khủng long nhỏ hoặc nhân vật khác để trinh sát hay xác định vị trí người chơi, rồi đổi sang khủng long khác để quay lại săn hoặc tấn công bằng thông tin đó trong thời gian bị hạn chế."
+      },
+      {
+        "type": "prohibit",
+        "text": "Sau khi đổi từ khủng long này sang khủng long khác, **cấm dùng thông tin về vị trí hoặc di chuyển của người chơi thu được từ khủng long trước đó để cố ý quay lại săn đuổi hoặc tấn công các mục tiêu tại khu vực cũ trong 10 phút, tính từ thời điểm đổi nhân vật.**"
+      },
+      {
+        "type": "bullet",
+        "text": "Quy tắc áp dụng cho mọi loài và mọi giai đoạn trưởng thành, không chỉ khủng long nhỏ hoặc loài bay."
+      },
+      {
+        "type": "note",
+        "text": "**Ví dụ:** Người chơi A dùng khủng long nhỏ trinh sát và tìm thấy người chơi gần nguồn nước, sau đó đổi sang T-Rex và cố ý quay lại săn các mục tiêu bằng thông tin từ khủng long trước đó. **Thực hiện trong vòng 10 phút sau khi đổi nhân vật là vi phạm quy tắc.**"
+      },
+      {
+        "type": "note",
+        "text": "*Hết thời gian 10 phút không miễn trừ quy tắc Revenge Killing, Location Dropping hoặc các quy tắc săn khác của máy chủ.*"
       }
     ]
   },

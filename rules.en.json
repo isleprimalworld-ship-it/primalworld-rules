@@ -364,6 +364,30 @@
       {
         "type": "prohibit",
         "text": "**Do not share another player's location, movements, or current situation** with anyone who did not learn that information through normal gameplay. This applies to in-game and external channels, including Discord, Voice Chat, DMs, screenshots, and messages passed through other people. Exact coordinates are not required for a violation: sharing an area name, direction, route, resting spot, number of players, species, or any other detail that could help someone locate, track, or attack a player also counts as Location Dropping."
+      },
+      {
+        "type": "subhead",
+        "text": "13. No Hunting Using Information from a Previous Dinosaur (Character Scouting)"
+      },
+      {
+        "type": "prohibit",
+        "text": "Do not use a small dinosaur or another character to scout or identify players' locations, then switch to a different dinosaur to return and hunt or attack using that information within the restricted period."
+      },
+      {
+        "type": "prohibit",
+        "text": "After switching from one dinosaur to another, **you must not use information about players' locations or movements learned from your previous dinosaur to deliberately return to hunt or attack those targets in the same area for 10 minutes, counted from the time you switch characters.**"
+      },
+      {
+        "type": "bullet",
+        "text": "This restriction applies to all species and growth stages, not only small dinosaurs or flyers."
+      },
+      {
+        "type": "note",
+        "text": "**Example:** Player A scouts with a small dinosaur and finds players near a water source, then switches to T-Rex and deliberately returns to hunt those targets using information learned from the previous dinosaur. **Doing so within 10 minutes after switching violates the rules.**"
+      },
+      {
+        "type": "note",
+        "text": "*The end of the 10-minute period does not exempt you from Revenge Killing, Location Dropping, or any other server hunting rules.*"
       }
     ]
   },
