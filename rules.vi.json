@@ -756,6 +756,22 @@
       {
         "type": "note",
         "text": "Ngoại lệ riêng cho Hangout: Nếu thợ săn đi tới thắng, thành viên Hangout khác không được lập tức mở trận mới, tấn công thợ săn hoặc lần lượt từng party tấn công. Áp dụng quy tắc Hangout trong phần quy tắc lập nhóm."
+      },
+      {
+        "type": "subhead",
+        "text": "15. Cấm dụ AI vào quấy rối giao tranh đang diễn ra"
+      },
+      {
+        "type": "prohibit",
+        "text": "Cấm cố ý dụ hoặc dẫn AI vào khu vực người chơi đang giao tranh để quấy rối, cản trở hoặc khiến AI tấn công những người đang tham gia giao tranh."
+      },
+      {
+        "type": "bullet",
+        "text": "Quy định này áp dụng cho cả **người đang tham gia giao tranh và người không liên quan**, bao gồm việc dùng AI để hỗ trợ một bên hoặc tạo lợi thế trong chiến đấu."
+      },
+      {
+        "type": "note",
+        "text": "**Ví dụ:** Người chơi A thấy B và C đang giao tranh nên dụ AI vào tấn công hoặc quấy rối họ. **Hành vi này vi phạm quy tắc.**"
       }
     ]
   },

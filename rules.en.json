@@ -756,6 +756,22 @@
       {
         "type": "note",
         "text": "Hangout-specific exception: If the visiting hunter wins, other Hangout members must not immediately start another fight or attack the hunter, or take turns attacking party by party. Follow the Hangout rules under Pack & Social Rules."
+      },
+      {
+        "type": "subhead",
+        "text": "15. Do Not Lure AI into Ongoing Fights"
+      },
+      {
+        "type": "prohibit",
+        "text": "Do not intentionally lure or lead AI into an area where players are fighting to disrupt or interfere with the fight, or cause AI to attack players involved in it."
+      },
+      {
+        "type": "bullet",
+        "text": "This restriction applies to both **players participating in the fight and players who are not involved**, including using AI to assist either side or gain an advantage in combat."
+      },
+      {
+        "type": "note",
+        "text": "**Example:** Player A sees players B and C fighting and lures AI into the fight to attack or disrupt them. **This violates the rules.**"
       }
     ]
   },
