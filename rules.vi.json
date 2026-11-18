@@ -726,6 +726,18 @@
         "text": "**Ví dụ:** T-Rex của người chơi A bị treo thưởng. A cố ý giết T-Rex của mình để chuyển sang Pteranodon và tránh bị săn tiền thưởng. **Đây là hành vi vi phạm quy tắc.**"
       },
       {
+        "type": "prohibit",
+        "text": "Khi khủng long của người chơi vẫn đang bị treo thưởng, **không được đưa khủng long đó tham gia hoặc ở cùng nhóm Hangout** cho đến khi tiền thưởng kết thúc."
+      },
+      {
+        "type": "prohibit",
+        "text": "Nếu khủng long bị treo thưởng khi đang ở trong nhóm Hangout, **người chơi phải tách khỏi nhóm** và không được viện dẫn ngoại lệ Hangout để tiếp tục ở lại hoặc tránh bị săn tiền thưởng."
+      },
+      {
+        "type": "prohibit",
+        "text": "Các thành viên Hangout khác **không được lợi dụng việc tụ tập để bảo vệ mục tiêu bị treo thưởng hoặc cản trở cuộc săn tiền thưởng**. Giao tranh vẫn phải tuân thủ quy tắc party và săn tiền thưởng của máy chủ."
+      },
+      {
         "type": "subhead",
         "text": "14. Quy tắc người quan sát và người đứng xem (Bystanders & Spectators)"
       },
@@ -872,6 +884,18 @@
       {
         "type": "paragraph",
         "text": "Người chơi được tụ tập trò chuyện hoặc nghỉ cùng nhau với số lượng vượt Pack Limit mà không bị coi là Mixpacking hoặc Overpacking. Giới hạn trò chuyện 10 phút thông thường không áp dụng **chỉ khi đáp ứng đầy đủ mọi điều kiện Hangout**."
+      },
+      {
+        "type": "prohibit",
+        "text": "Khi khủng long của người chơi vẫn đang bị treo thưởng, **không được đưa khủng long đó tham gia hoặc ở cùng nhóm Hangout** cho đến khi tiền thưởng kết thúc."
+      },
+      {
+        "type": "prohibit",
+        "text": "Nếu khủng long bị treo thưởng khi đang ở trong nhóm Hangout, **người chơi phải tách khỏi nhóm** và không được viện dẫn ngoại lệ Hangout để tiếp tục ở lại hoặc tránh bị săn tiền thưởng."
+      },
+      {
+        "type": "prohibit",
+        "text": "Các thành viên Hangout khác **không được lợi dụng việc tụ tập để bảo vệ mục tiêu bị treo thưởng hoặc cản trở cuộc săn tiền thưởng**. Giao tranh vẫn phải tuân thủ quy tắc party và săn tiền thưởng của máy chủ."
       },
       {
         "type": "subhead",
